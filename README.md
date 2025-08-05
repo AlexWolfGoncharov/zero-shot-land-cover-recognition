@@ -231,7 +231,6 @@ results/
 
 ### Report Files
 
-- `final_report.md`: Russian version of the report
 - `final_report_en.md`: English version of the report
 - `final_report_en.html`: HTML version with visualizations
 

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform geometric shapes, regular field boundaries, varying green and tan colors indicating different crop stages/types."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular pivot irrigation patterns, uniform field textures, clear agricultural land management."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Less uniform texture, lighter green-tan colors suggesting sparse vegetation or mixed grassland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Lighter tan/brown colors, minimal vegetation cover, potential fallow or degraded agricultural land."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, bright white/gray areas with geometric patterns indicating urban or industrial infrastructure."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "low",
+    "reasoning": "Dark green patches potentially indicating forest or woodland, but limited contextual evidence."
+  }
+}

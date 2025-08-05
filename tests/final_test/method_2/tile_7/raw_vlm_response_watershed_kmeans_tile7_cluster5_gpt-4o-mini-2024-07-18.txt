@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Segment shows structured texture and context consistent with agricultural land.'}}

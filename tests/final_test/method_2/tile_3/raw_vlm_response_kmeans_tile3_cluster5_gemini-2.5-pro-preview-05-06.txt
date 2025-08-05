@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'medium', 'reasoning': 'Segment contains dense green vegetation intricately mixed with water channels along the river, a classic pattern for a permanent herbaceous wetland system.'}}

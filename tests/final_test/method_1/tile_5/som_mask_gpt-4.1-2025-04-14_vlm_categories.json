@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields and irrigation circles are characteristic of intensive agriculture."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban grid, high reflectance, and road network indicate built-up/urban area."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and location along the coast indicate open water."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy green areas lacking clear agricultural structure suggest grassland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Scattered, light patches at field edges suggest bare soil or sparse vegetation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear, bright features following infrastructure indicate built-up or developed land."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "low",
+    "reasoning": "Small, irregular, darker green patches in low-lying areas suggest possible wetlands."
+  }
+}

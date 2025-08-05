@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark black coloration, smooth texture, and location within river system indicate standing water bodies."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light coloration and scattered distribution suggest minimal vegetation cover across landscape."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns, varying green tones, and organized rectangular parcels show managed agricultural land."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform medium-green coloration with semi-natural distribution pattern suggests managed or semi-natural grasslands."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Dense, textured green vegetation not tall enough for forest but more substantial than grassland."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Location adjacent to water bodies with dark green coloration indicates wetland vegetation in floodplain."
+  }
+}

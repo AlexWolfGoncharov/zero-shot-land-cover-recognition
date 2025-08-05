@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows dense, regular grid-like patterns typical of urban structures adjacent to water, with little vegetation visible inside the mask.'}}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color characteristic of deep water body"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular field divisions, varying green shades of agricultural landscape"
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Compact, structured pattern of small geometric shapes"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Uniform green, continuous coverage suggests forest or woodland"
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixture of colors and field-like patterns suggest agricultural land"
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Complex boundary zone with mixed vegetation and water characteristics"
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear network patterns and small concentrated bright areas indicate roads and buildings within agricultural matrix.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular field patterns, center-pivot circles, and varied crop tones indicate intensive agriculture typical of cropland.'}}

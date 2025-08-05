@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense urban structures, roads, typical of built-up areas.'}}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segments are geometric parcels with uniform texture and a strong spectral signature of healthy vegetation, characteristic of actively cultivated agricultural fields."
+  }
+}

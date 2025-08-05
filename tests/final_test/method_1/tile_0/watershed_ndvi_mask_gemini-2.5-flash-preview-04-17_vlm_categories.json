@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large fields with varying green and brown vegetation states, characteristic of agricultural cultivation and different crop types or growth stages."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Primarily represents linear infrastructure like roads and tracks, visible as light-colored lines in the RGB image, connecting different areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform rectangular fields with bright green or reddish vegetation, characteristic of different crops or growth stages within an agricultural landscape."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Fields appearing as bare soil or with dry/sparse vegetation, likely representing fallow land, harvested fields, or preparation within an agricultural area."
+  }
+}

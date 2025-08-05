@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot irrigation fields with varying green shades typical of agricultural landscape and crop rotation patterns.'}}

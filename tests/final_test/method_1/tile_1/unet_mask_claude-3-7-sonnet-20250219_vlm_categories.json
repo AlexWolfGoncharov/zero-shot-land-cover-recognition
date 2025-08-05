@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Perfect circular boundaries with uniform internal texture indicate managed pivot irrigation agriculture."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectance, geometric patterns, and irregular spatial distribution consistent with human settlements and infrastructure."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular parcels with uniform bright green coloration indicate actively growing crops under intensive management."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with reddish-brown coloration indicate recently plowed, fallow, or early-stage cropland."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark linear feature with consistent width and smooth boundaries indicates an irrigation canal or river system."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric boundaries with heterogeneous internal patterns suggest cropland with varying vegetation cover."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with moderate green vegetation indicate managed agricultural land with crops at various stages."
+  }
+}

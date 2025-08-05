@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of highly reflective, geometric features including a dense road network and individual building rooftops, characteristic of a human settlement.'}}

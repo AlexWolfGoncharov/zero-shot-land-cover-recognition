@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular field patterns with irrigation channels indicative of agriculture.'}}

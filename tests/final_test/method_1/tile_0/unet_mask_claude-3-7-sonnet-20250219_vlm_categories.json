@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Distinctive clustering of light-colored structures in organized patterns with linear connections typical of rural settlements."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric boundaries with bright green coloration indicating actively cultivated agricultural fields."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with varying coloration indicating agricultural land at different stages of cultivation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Distinct field boundaries with reddish-brown coloration suggesting recently plowed or fallow agricultural land."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Extremely high reflectance and absence of green coloration indicating exposed soil in agricultural context."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green sinuous patterns following natural drainage networks, likely riparian vegetation or tree corridors."
+  }
+}

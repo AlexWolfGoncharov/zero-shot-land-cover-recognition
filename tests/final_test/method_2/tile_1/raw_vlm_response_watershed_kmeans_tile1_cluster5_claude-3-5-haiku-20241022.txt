@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform green rectangular field with clear agricultural parcel boundaries typical of cultivated crop landscape'}}

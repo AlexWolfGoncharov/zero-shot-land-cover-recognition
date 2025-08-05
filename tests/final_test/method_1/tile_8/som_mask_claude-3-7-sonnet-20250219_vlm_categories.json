@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with dark green vegetation showing clear management boundaries and irrigation systems typical of intensive agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field boundaries with medium-green vegetation showing clear evidence of cultivation and crop management at different growth stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light brown fields with clear agricultural boundaries, likely representing harvested or fallow cropland in agricultural rotation system."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light-colored fields with minimal vegetation, showing exposed soil within agricultural landscape context."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Distinctive blue-green color with smooth texture and natural irregular boundaries characteristic of a lake or reservoir."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small, scattered bright features showing linear and clustered patterns typical of rural infrastructure and settlements."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Low",
+    "reasoning": "Reddish-brown areas within field boundaries, likely representing specific crop types with distinctive spectral response or stressed crops."
+  }
+}

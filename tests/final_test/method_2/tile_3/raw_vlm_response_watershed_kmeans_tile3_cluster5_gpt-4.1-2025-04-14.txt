@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular, grid-like parcels with varied vegetation typical of managed agricultural fields.'}}

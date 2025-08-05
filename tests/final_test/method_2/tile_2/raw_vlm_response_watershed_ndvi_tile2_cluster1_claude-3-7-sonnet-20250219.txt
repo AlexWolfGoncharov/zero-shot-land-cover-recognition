@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular field patterns with varying colors indicate agricultural use. Geometric boundaries and mixed vegetation tones suggest cultivated crops.'}}

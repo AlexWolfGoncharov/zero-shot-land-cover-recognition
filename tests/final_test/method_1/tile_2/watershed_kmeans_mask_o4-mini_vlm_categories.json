@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Uniform dark tones and smooth texture indicate open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric fields with varied spectral signatures are cultivated agriculture."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Regular urban layout and high-reflectance structures identify a town."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Linear dense canopy likely roadside/agro-forest tree belts."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Exposed soil without crop or grass indicates bare/fallow areas."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Uniform green mats without plow lines suggest natural grass cover."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Patchy, dense low vegetation resembles scrub bushes."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Low",
+    "reasoning": "Road surfaces or dirt tracks appear as bare linear strips."
+  },
+  "8": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark smooth channel identical to main river indicates water."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Clusters of tall vegetation along water suggest riparian trees."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Regular plot boundaries with uniform vegetation signal agricultural land."
+  }
+}

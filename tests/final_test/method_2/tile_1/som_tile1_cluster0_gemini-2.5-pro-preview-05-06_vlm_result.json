@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segments are geometrically defined fields (rectangles and circles from center-pivot irrigation) with uniform texture, indicating actively managed agriculture with healthy vegetation."
+  }
+}

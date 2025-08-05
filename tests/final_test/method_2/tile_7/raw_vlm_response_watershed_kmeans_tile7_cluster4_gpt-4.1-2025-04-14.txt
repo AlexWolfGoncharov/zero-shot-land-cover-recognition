@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, smooth, irregular patches and a linear feature indicate water bodies and channels within an agricultural landscape.'}}

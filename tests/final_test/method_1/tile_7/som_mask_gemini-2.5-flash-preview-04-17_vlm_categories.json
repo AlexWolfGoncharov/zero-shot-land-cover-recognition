@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Radial pattern of light-colored structures and roads indicates a human settlement. Dense network of buildings and infrastructure."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Uniform light brown/pink color and fine texture indicate bare soil or very sparse vegetation, typical of prepared or fallow agricultural land."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform bright green color and geometric shape strongly suggest a healthy crop field in active growth."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth, linear feature with color typical of water, consistent with a canal or river."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth, circular feature with color typical of water, consistent with a pond or small lake."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Patchy mix of green and brown/yellow within a geometric field shape suggests a crop field with varying growth stages or conditions."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform dark green color and geometric shape strongly suggest a healthy crop field, possibly a different crop or growth stage than Cluster 2."
+  }
+}

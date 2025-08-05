@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is uniformly black, indicating high light absorption, and has a smooth texture, characteristic of a large, deep body of water like a sea.'}}

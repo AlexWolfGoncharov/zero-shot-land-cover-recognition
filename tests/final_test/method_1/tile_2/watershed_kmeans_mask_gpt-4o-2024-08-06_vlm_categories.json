@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular grid patterns and varied colors indicate agricultural fields."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Dense structures and linear patterns suggest urban development."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, uniform area consistent with water."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green areas with irregular shapes suggest forested regions."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Open areas with uniform color may indicate grassland."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Sparse vegetation with mixed textures suggests shrubland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Areas with little to no vegetation visible."
+  },
+  "7": {
+    "category": "Herbaceous wetland",
+    "confidence": "low",
+    "reasoning": "Proximity to water and mixed textures may indicate wetlands."
+  },
+  "8": {
+    "category": "Mangroves",
+    "confidence": "low",
+    "reasoning": "Dense, coastal vegetation could suggest mangroves."
+  },
+  "9": {
+    "category": "Snow and ice",
+    "confidence": "low",
+    "reasoning": "Bright, uniform areas might indicate snow or ice."
+  },
+  "10": {
+    "category": "Moss and lichen",
+    "confidence": "low",
+    "reasoning": "Sparse, patchy areas could suggest moss or lichen."
+  }
+}

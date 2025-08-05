@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular center-pivot irrigation pattern typical of cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular rectangular fields indicate active agriculture."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Sinuous canal with smooth dark water signature."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Circular ponds with water reflections."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Road network and artificial surfaces present."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed soil in plowed or fallow fields."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "low",
+    "reasoning": "Narrow green bands along water likely wetland vegetation."
+  }
+}

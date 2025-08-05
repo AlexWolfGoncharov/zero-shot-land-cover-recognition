@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'medium', 'reasoning': 'Rectangular roof shapes and dense grid pattern near coastline indicative of urban built-up settlement'}}

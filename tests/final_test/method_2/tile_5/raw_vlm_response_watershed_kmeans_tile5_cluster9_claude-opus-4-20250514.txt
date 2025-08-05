@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, varied crop stages, and clear agricultural management indicators visible throughout the segments.'}}

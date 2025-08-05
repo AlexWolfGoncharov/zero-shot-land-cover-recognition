@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "unknown",
+    "confidence": "low",
+    "reasoning": "No highlighted pixels in the mask; segment missing"
+  }
+}

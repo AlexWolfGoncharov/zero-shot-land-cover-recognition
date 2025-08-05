@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark spectral signature, smooth texture, and clear boundaries characteristic of deep open water.'}}

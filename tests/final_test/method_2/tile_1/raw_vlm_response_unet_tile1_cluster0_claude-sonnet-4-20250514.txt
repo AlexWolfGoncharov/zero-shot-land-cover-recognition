@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense, uniform dark green vegetation with organic boundaries contrasting sharply with surrounding geometric cropland parcels.'}}

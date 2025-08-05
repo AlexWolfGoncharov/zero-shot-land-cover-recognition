@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': None, 'reasoning': None}, '1': {'category': 'Shrubland', 'confidence': None, 'reasoning': None}}

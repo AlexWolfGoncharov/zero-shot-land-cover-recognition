@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'medium', 'reasoning': 'Uniform texture, green with brown patches, rural context.'}}

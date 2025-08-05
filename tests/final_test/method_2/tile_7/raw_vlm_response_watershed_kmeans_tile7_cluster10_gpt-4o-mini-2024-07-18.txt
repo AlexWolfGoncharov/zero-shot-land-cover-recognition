@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Organized patterns and green tones indicate active agricultural use.'}}

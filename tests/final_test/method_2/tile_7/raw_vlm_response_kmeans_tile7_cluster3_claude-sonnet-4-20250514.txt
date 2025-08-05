@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense, dark green vegetation with uniform canopy texture and organic irregular boundaries typical of forest patches.'}}

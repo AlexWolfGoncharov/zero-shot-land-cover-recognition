@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense clustered structures with high reflectance, road networks, and typical settlement pattern along coastline.'}}

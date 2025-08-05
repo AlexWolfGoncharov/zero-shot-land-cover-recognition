@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field shapes and patchwork pattern are typical of agricultural land use."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigation circles are a strong indicator of cropland."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The bright, smooth area is consistent with a water reservoir reflecting sunlight."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, darker patches suggest sparse or degraded vegetation, not actively cultivated."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Less uniformity and rougher texture than cropland, likely managed or natural grassland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and lack of vegetation suggest bare soil or fallow land, not dense built-up."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Small, bright patches likely bare ground or infrastructure, but size and context make classification uncertain."
+  }
+}

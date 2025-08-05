@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of bright, high-albedo linear features tracing a coastline and roads, directly adjacent to and part of a dense settlement.'}}

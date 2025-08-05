@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns with distinct boundaries showing various cultivation stages and colors typical of agricultural management.'}}

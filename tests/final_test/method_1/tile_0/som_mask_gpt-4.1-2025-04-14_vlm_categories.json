@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular, uniform green fields with smooth texture indicate intensively managed cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Irregular, dark green patches near field edges suggest small woodlots or tree lines."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Linear, patchy, lighter areas along roads or field margins indicate sparse vegetation or exposed soil."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid-like, bright, compact area with sharp boundaries is typical of a settlement."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Meandering, dark, smooth area matches the appearance of a river or stream."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Irregular, moist-looking patches near watercourses suggest herbaceous wetland vegetation."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Large, smooth, light-toned areas without vegetation indicate bare soil or recently harvested/fallow fields."
+  }
+}

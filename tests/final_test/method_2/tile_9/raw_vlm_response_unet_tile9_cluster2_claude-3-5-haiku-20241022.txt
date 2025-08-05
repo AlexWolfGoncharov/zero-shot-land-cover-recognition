@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, rough texture with light brown/beige coloration indicating exposed ground with minimal vegetation cover.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Patchwork of rectangular fields, varied vegetation, and clear management patterns indicate intensive agriculture typical of cropland.'}}

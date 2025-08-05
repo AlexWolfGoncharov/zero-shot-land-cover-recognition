@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The visual pattern shows rectangular fields and consistent texture typical of agricultural areas."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Presence of dense structures and grid-like layout suggests urban development."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense green canopy indicates forested or wooded areas."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Uniform green patches with open areas suggest grasslands."
+  },
+  "4": {
+    "category": "Water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth areas consistent with lakes or rivers."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light-colored patches with minimal vegetation cover."
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": "Low",
+    "reasoning": "No clear evidence of snow or ice in the image."
+  },
+  "7": {
+    "category": "Herbaceous wetland",
+    "confidence": "Low",
+    "reasoning": "No distinct wetland features observed."
+  },
+  "8": {
+    "category": "Mangroves",
+    "confidence": "Low",
+    "reasoning": "No visible mangrove characteristics."
+  },
+  "9": {
+    "category": "Moss and lichen",
+    "confidence": "Low",
+    "reasoning": "Insufficient detail to confirm moss or lichen presence."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed vegetation with shrub-like features observed."
+  }
+}

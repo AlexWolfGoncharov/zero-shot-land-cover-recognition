@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular center-pivot irrigation field with tan color indicating harvested/fallow agricultural land'}}

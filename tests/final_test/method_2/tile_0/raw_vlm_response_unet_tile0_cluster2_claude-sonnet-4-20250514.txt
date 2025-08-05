@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric bare soil patches within agricultural landscape showing harvested/prepared fields typical of cropland management cycles.'}}

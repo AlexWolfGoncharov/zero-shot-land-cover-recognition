@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dark green area with irregular boundaries, water channels, and wetland vegetation adjacent to a river system, distinct from surrounding agricultural land.'}}

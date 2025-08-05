@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns, uniform pale color suggesting cultivated agricultural land"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense green coloration, varied texture suggesting forest or woodland areas"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter green indicates less dense vegetation, suggesting open grassland"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Extremely dense, uniform dark green suggesting mature, thick forest"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright white geometric shapes indicating urban infrastructure"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed green textures suggest transitional vegetation with shrubs"
+  }
+}

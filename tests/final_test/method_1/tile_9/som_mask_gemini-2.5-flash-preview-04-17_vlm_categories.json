@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Uniform dark green color and geometric pattern strongly indicate managed tree cover (plantation/forest)."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green color and tree-like texture indicate areas of tree cover, likely natural or less managed."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Brownish-green color and texture suggest low-lying woody vegetation, possibly dry shrubs."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light color and hummocky texture indicate predominantly bare ground with minimal, sparse vegetation cover."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Similar texture to cluster 3 but slightly greener, indicating sparse vegetation on bare ground."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Bright patches resemble small ponds; cluster may also include other bright features like roads or bare ground."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very bright color and appearance strongly indicate small permanent water bodies."
+  }
+}

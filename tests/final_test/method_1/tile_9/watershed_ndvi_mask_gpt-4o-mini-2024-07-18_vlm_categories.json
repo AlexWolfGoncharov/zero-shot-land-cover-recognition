@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense green areas indicate significant tree presence."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Linear patterns and uniform texture are characteristic of agricultural fields."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Presence of bare soil and sparse vegetation suggests this area is not densely covered."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Reflective nature and shape of the cluster strongly indicate a water body."
+  }
+}

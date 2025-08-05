@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Very dark green areas, often within field patterns, suggesting dense, mature crops or specific crop types."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Brownish and light green areas, typical of fallow, harvested, or early-stage cropland within agricultural landscape."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green circular fields, characteristic of healthy, actively growing crops under center-pivot irrigation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Green circular fields indicating actively growing crops, possibly different type or stage than cluster 2."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green or yellowish circular fields, suggesting maturing, senescing, or different crop types."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly brown/tan areas indicating bare soil, tilled, or fallow land within agricultural system."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Contains very bright, angular patches indicative of buildings/structures, alongside some spectrally similar bright bare soil."
+  }
+}

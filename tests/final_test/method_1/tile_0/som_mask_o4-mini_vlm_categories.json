@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Meandering, smooth dark channel indicates open water."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Riparian canopy with shadowed, textured foliage."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct field patterns, rows and boundaries typical of agriculture."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Exposed soil with minimal vegetation cover in harvested plots."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Road intersections and building arrays denote urban area."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Homogeneous grassy tone, no row structure, pasture-like."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Active vegetative growth with cultivated row structure."
+  }
+}

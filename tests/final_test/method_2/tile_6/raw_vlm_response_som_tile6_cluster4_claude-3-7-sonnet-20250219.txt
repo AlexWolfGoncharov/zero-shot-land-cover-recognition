@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Geometric field patterns with varying vegetation colors and growth stages; distinctive circular irrigation systems typical of agricultural landscapes.'}}

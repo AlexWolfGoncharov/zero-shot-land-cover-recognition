@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Homogeneous dark surface with smooth texture, clear boundaries with land, and characteristic shape of a natural water body.'}}

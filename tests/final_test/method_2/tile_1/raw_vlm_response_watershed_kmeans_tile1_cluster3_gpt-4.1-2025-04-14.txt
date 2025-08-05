@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric parcels, varied crop colors, and clear agricultural context indicate intensive cropland use.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns and varied crop colors indicate agricultural fields.'}}

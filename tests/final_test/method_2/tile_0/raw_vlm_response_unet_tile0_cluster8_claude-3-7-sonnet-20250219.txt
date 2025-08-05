@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular field patterns with varying green intensities indicate cultivated agricultural land with different crop growth stages.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, patchy areas lacking crop structure, often along field edges or watercourses, indicating low vegetation cover or fallow land.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot irrigation patterns with uniform texture typical of mechanized agriculture'}}

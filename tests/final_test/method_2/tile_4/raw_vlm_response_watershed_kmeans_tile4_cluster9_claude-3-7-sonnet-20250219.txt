@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot irrigation fields with uniform vegetation pattern, regular geometry, and varied growth stages typical of agricultural management.'}}

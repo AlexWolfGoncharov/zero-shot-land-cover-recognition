@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light sandy/bare soil coloration with minimal vegetation, rough texture indicating sparse cover typical of arid/semi-arid terrain'}}

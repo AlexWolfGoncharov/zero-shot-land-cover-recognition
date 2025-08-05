@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light sandy texture with sparse vegetation typical of bare ground or dunes."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed dark green and brown patches with rough texture indicating shrubland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular grid-like rectangular plots typical of agricultural fields."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dark green vegetation with visible water channels indicating wetland."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous dark green vegetation typical of tree cover."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and minimal texture indicating bare or sparsely vegetated ground."
+  },
+  "6": {
+    "category": "Mangroves",
+    "confidence": "medium",
+    "reasoning": "Dense vegetation adjacent to water bodies suggests mangroves."
+  }
+}

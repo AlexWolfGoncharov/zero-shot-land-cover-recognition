@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular patterns and varied green shades suggest agricultural fields."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense, irregular patterns with dark green suggest tree cover."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear, grid-like patterns with smooth surfaces suggest urban development."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, uniform dark areas adjacent to land indicate water."
+  }
+}

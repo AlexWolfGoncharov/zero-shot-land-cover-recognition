@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'medium', 'reasoning': 'The segment is a mix of rectangular agricultural fields (fallow and active) and small built-up areas. Cropland appears to be the dominant land cover.'}}

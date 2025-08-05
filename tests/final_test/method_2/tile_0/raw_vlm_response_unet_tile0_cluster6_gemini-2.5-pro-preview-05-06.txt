@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of a dense cluster of geometric shapes with high reflectance, typical of buildings, rooftops, and paved surfaces in a settlement.'}}

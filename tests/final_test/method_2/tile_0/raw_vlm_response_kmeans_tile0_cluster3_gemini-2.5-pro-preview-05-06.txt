@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of angular, geometric shapes with high reflectance, characteristic of buildings, rooftops, and paved surfaces arranged in a village/town grid.'}}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color and smooth texture in the RGB image are definitive indicators of a permanent water body."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Contains bright, structured features indicative of buildings and infrastructure, although mixed with other bright, non-structured areas."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The dark color and smooth texture in the RGB image identify this as a large, permanent water body (river)."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, rectangular areas with uniform green vegetation and clear field boundaries are characteristic features of cropland in the RGB image."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Patchy texture and dry/light colors suggest limited vegetation cover, consistent with bare soil or sparse/dry vegetation in the RGB image."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The distinct grid pattern of small plots with varying vegetation colors is a clear visual indicator of intensive cropland in the RGB image."
+  }
+}

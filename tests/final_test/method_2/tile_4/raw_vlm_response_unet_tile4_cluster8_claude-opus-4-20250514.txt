@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot irrigation and rectangular fields with varying crop stages indicate active agricultural land use.'}}

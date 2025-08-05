@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense cluster of buildings with visible roads, geometric patterns, and high reflectance typical of urban development.'}}

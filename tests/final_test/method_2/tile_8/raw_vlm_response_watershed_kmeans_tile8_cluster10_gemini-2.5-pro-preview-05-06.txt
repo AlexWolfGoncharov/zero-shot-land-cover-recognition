@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of geometrically defined rectangular fields with colors and textures suggesting fallow or post-harvest land, situated within a clear agricultural landscape.'}}

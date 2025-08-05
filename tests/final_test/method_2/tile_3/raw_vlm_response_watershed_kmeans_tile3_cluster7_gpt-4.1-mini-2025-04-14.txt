@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows a grid-like pattern with rectangular plots and light-colored surfaces typical of urban or built-up areas.'}}

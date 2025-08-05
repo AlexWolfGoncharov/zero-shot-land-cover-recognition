@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular grid-patterned homogeneous patches indicative of agricultural fields.'}}

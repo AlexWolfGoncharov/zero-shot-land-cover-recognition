@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segments exhibit grid-like street patterns, high-albedo surfaces (roofs, roads), and a coarse, heterogeneous texture characteristic of human settlements and infrastructure.'}}

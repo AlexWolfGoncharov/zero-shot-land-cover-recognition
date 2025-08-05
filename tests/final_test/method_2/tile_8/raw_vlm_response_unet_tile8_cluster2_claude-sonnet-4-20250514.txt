@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Light-toned agricultural fields within organized farming landscape with geometric field boundaries typical of cultivated cropland.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Bright tan/yellowish color and highly textured, \"bubbly\" appearance suggest exposed sand, salt flats, or arid soil with minimal vegetation."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mottled brownish-green, irregular texture, appearance of low-to-medium height vegetation suggests shrubland. Possibly mixed with grassland or wetland elements."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green color, dense canopy-like texture, and large rectangular block patterns strongly indicate managed tree plantations or dense forest blocks."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly rectangular shapes, varied colors typical of different crop stages or fallow land, and organized layout strongly suggest agricultural fields."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Smooth texture and very dark color, especially in regular rectangular shapes (top area), strongly suggest water, likely aquaculture ponds or irrigation reservoirs."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green/brownish-green, moderately coarse texture, and irregular shapes suggest natural vegetation, likely denser shrubs or a mix of shrubs and trees."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green color, distinct rectangular field patterns, and smooth texture within fields strongly indicate actively cultivated agricultural land."
+  }
+}

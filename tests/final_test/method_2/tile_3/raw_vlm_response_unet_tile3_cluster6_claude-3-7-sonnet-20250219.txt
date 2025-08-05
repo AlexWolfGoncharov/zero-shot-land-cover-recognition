@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with high reflectance, grid-like arrangement, and sharp boundaries indicate human-made structures within agricultural landscape.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Small, dark, uniform patch typical of farm pond within agricultural landscape'}}

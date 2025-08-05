@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'low', 'reasoning': 'The provided mask is empty (all black), so no segment is defined. Classification is a placeholder based on the dominant land cover in the image.'}}

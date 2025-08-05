@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns with varying green tones indicate actively managed agricultural parcels with clear field boundaries.'}}

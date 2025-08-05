@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Multiple uniform circular fields and rectangular parcels typical of irrigated agricultural cropland.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The visual features suggest dense vegetation with tree canopies, indicating a forested or wooded area."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The uniform green color and lack of distinct structures point to open grassland or pasture."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Visible linear features and patches of water suggest the presence of lakes or ponds."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Signs of human development and infrastructure are evident, indicating urban or built-up areas."
+  }
+}

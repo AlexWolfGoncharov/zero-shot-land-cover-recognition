@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular agricultural patterns are indicative of irrigation methods, typical for cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed textures suggest diverse agricultural practices, common in cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense green suggests tree cover, though shrubland is also possible."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light texture and irregular shapes indicate areas with little to no vegetation."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The presence of a reflective surface strongly indicates a water body."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The patchwork pattern is typical of cultivated agricultural land."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mix of colors and textures suggests a shrubby area rather than open grassland."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Regular shapes and smooth textures are indicative of urban infrastructure."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The presence of linear patterns suggests a grassland area rather than dense crops."
+  },
+  "9": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Darker textures and irregular shapes suggest a wetland area."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mix of textures suggests a shrubby area rather than open grassland."
+  }
+}

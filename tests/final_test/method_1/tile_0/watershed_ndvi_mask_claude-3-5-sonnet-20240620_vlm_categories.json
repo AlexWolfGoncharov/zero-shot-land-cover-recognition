@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green, linear patterns suggest tree-lined corridors or windbreaks between agricultural fields. Consistent width and networked structure support this interpretation."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes, varied green hues, and patterned textures are characteristic of agricultural fields in different stages of growth or with different crop types."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light color suggests exposed soil or harvested fields. Geometric shapes indicate human influence, likely related to agricultural practices."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Reddish-brown color and mottled texture could indicate areas of shrubs or mixed vegetation. However, it could also be fallow cropland or a specific crop type."
+  }
+}

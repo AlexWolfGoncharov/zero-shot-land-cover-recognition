@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular field patterns with varying stages of cultivation shown by different colors and clear agricultural management boundaries.'}}

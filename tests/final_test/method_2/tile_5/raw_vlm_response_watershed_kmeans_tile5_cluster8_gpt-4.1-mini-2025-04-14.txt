@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows dense, grid-like patterns with small, regular shapes typical of urban infrastructure near the coast.'}}

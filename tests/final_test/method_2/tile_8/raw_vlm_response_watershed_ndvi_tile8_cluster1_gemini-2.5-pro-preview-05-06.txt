@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of regular, rectangular fields with varied colors, indicating different crop types or growth stages, characteristic of cultivated agricultural land.'}}

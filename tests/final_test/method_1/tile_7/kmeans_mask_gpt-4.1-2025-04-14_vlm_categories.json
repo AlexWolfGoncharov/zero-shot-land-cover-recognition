@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid, road network, and compact structure indicate an urban or built-up area."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field shapes and managed appearance are characteristic of cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Darker green and irregular shapes suggest tree cover, possibly small woodlots or shelterbelts."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark tone and isolated, round shapes are typical of ponds or small lakes."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light tone and sparse texture suggest bare soil or very sparse vegetation."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear, dark, and smooth features are characteristic of rivers or canals."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Medium green tone and patchy distribution suggest unmanaged grassland or fallow areas."
+  }
+}

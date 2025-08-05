@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinctive agricultural patterns with rectangular/circular fields, varied crop colors, and clear field boundaries typical of intensive farming.'}}

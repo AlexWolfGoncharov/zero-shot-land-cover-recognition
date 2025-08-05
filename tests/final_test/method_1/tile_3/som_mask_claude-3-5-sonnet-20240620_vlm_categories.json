@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and distinctive curved shapes characteristic of rivers and water bodies in satellite imagery."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Bright green color, proximity to water, irregular patterns, and mixed appearance indicate herbaceous wetland vegetation."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green color, dense uniform texture, and large continuous patches typical of forest canopy."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes, regular patterns, and color variation characteristic of agricultural fields and different crop types/stages."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Light color, mixture of geometric and irregular shapes suggest human-made structures. Proximity to cropland indicates rural/suburban areas."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Mixed appearance and transition between cropland and denser vegetation suggest shrubland, but could be degraded forest or mixed grassland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color, smooth texture within agricultural context suggest exposed soil or areas with very little vegetation."
+  }
+}

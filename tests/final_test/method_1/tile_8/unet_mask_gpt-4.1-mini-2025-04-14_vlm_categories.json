@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation and uniform field patterns strongly indicate active cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green and irregular texture suggest tree canopy but could include dense shrubland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Field shapes and texture consistent with harvested or fallow cropland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Visual characteristics clearly indicate a water body."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Vegetation texture and patchiness suggest shrubland rather than grassland or built-up."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Linear patterns and clustered shapes suggest human structures."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Smaller, less dense vegetation patches likely shrubland rather than full tree cover."
+  }
+}

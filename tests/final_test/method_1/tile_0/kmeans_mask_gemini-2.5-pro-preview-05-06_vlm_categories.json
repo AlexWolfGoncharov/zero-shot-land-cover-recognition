@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Sinuous dark feature resembling a river or canal, typical of water bodies in RGB imagery."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular, geometric shapes and textures typical of agricultural fields, with colors indicating vegetation or tilled soil."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clearly defined geometric parcels with textures and colors (green, reddish-brown) consistent with active agricultural use."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns and colors (various greens, light browns) typical of cultivated land with diverse crops or growth stages."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes with light colors (light green, tan, beige) suggesting harvested fields, fallow land, or sparsely vegetated crops."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Presence of a settlement (buildings, streets) and major roads, characterized by bright, high-albedo surfaces."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regular field shapes with very bright, smooth surfaces, indicating bare soil within an active agricultural system (fallow/tilled)."
+  }
+}

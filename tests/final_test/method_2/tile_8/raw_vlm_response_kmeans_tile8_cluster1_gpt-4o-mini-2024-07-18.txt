@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': "The segment's shape and context strongly indicate it is part of an agricultural landscape."}}

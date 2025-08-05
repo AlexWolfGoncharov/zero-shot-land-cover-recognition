@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The highlighted segments consist of numerous small, highly reflective features with distinct rectilinear shapes, characteristic of building rooftops and other artificial surfaces.'}}

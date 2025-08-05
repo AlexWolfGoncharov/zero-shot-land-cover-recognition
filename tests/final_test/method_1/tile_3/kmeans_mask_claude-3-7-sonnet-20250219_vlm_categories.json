@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark blue/black areas with smooth texture, natural sinuous boundaries forming rivers and small water bodies."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Deep green vegetation adjacent to water bodies with irregular patterns, suggesting natural wetland vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green rectangular plots with clear field boundaries and grid patterns indicating managed agricultural production."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brownish/tan areas with minimal vegetation, often in linear patterns or transition zones between other land covers."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Light brown/white areas with geometric layouts, high reflectance, and linear infrastructure features indicating human settlement."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Very bright white areas with extremely high reflectance, geometric patterns, lacking vegetation signature."
+  }
+}

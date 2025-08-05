@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows geometric field patterns, varied crop colors, and typical agricultural textures indicative of cropland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular irrigation patterns and rectangular fields indicate cultivated cropland.'}}

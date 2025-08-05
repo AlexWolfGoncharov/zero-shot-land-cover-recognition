@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark area is clearly a lake. Smaller features are consistent with water channels or small ponds within the agricultural landscape."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Areas appear light brown/tan with no significant green vegetation, consistent with bare soil or very sparse plant cover in an agricultural setting."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes with uniform green/varied vegetation cover are characteristic of center-pivot irrigated agricultural fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields with uniform reddish-brown color are clearly identifiable as agricultural areas, likely representing a specific crop or growth stage."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields with uniform dark green color are characteristic of healthy, actively growing crops within an agricultural landscape."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Areas show visible buildings, structures, and road networks, indicating human settlement and infrastructure."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields with mixed green and reddish-brown colors are consistent with agricultural areas showing variability in crops or growth stages."
+  }
+}

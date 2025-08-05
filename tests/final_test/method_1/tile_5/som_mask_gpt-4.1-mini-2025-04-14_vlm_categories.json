@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct field boundaries and varying vegetation indicate active agricultural land."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric grid pattern and bright surfaces typical of urban areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation fields characteristic of intensive agriculture."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, uniform appearance adjacent to coastline indicates water."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation patches with irregular shapes suggest grassland."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green and rough texture indicate tree cover."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright small patches near urban areas likely built-up features."
+  }
+}

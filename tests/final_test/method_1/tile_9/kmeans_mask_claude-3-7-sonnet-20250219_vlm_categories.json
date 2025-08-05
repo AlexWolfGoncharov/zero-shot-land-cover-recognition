@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "High reflectance areas with mottled texture showing minimal vegetation coverage and exposed soil/sand surface."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mottled greenish-brown areas with heterogeneous texture suggesting scattered woody vegetation with partial ground coverage."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric pattern of rectangular fields with consistent green tones arranged in grid-like formation showing agricultural management."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Darker green patches with irregular shapes indicating denser woody vegetation scattered throughout the landscape."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Small dark features within agricultural landscape suggesting irrigation ponds or small reservoirs."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Medium green geometric fields showing different spectral characteristics, likely different crop types or growth stages."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Bright exposed areas within agricultural matrix suggesting fallow or recently harvested fields."
+  }
+}

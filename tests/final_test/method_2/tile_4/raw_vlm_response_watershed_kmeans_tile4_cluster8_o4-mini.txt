@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular irrigation patterns indicative of center-pivot agricultural fields'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The highlighted segments are geometrically shaped parcels within a clear agricultural landscape. Their uniform, light-brown appearance suggests bare soil, typical of fallow or post-harvest fields.'}}

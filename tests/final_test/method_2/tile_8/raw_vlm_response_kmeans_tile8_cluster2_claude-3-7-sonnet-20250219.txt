@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Distinct circular pivot irrigation fields with varying cultivation stages and clear anthropogenic geometric patterns typical of managed agriculture.'}}

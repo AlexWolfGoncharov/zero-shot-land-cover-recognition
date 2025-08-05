@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segments are geometrically shaped parcels within an agricultural mosaic. Their bright, uniform signature suggests fallow or harvested fields, which are classified as cropland.'}}

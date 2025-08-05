@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular field patterns and alternating cultivation indicate agricultural cropland.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark black color with smooth texture and clear boundaries, forming river channels and water bodies."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green rectangular fields with clear geometric patterns and uniform vegetation indicating agricultural management."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light brown/tan areas with minimal vegetation, often surrounding developed areas and between cultivated fields."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Irregular green vegetation pattern adjacent to water bodies with natural boundaries and wetland vegetation signatures."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Light-colored geometric patterns showing roads, settlements and infrastructure with high reflectance and linear features."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Consistent dark green patches with natural boundaries and uniform texture indicating dense vegetation coverage."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mottled light brown areas with scattered vegetation, heterogeneous texture, lacking the uniformity of forests or crops."
+  }
+}

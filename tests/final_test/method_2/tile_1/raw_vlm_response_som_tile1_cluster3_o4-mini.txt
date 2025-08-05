@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform rectangular and circular irrigated fields with regular textures adjacent to canals indicate cultivated agricultural land.'}}

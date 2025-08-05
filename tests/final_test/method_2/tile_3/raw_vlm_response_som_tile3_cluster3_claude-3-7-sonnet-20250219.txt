@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular field patterns with varying green tones indicating different crops/growth stages and clear boundaries between managed plots.'}}

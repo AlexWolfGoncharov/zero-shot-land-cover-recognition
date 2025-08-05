@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular fields with varied crop colors and systematic agricultural arrangement indicate intensive farming.'}}

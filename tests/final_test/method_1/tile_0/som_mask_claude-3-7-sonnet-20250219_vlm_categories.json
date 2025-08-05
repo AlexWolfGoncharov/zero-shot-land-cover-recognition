@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields with bright green color showing uniform texture and clear boundaries characteristic of actively managed crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Darker green rectangular patches with geometric patterns showing different crop types or growth stages within managed agricultural zones."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Bright tan/beige to light pink rectangular fields indicating recently harvested, plowed, or fallow agricultural land."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed light green and beige areas with less defined patterns representing partial vegetation cover in agricultural setting."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small, bright white patches scattered throughout landscape consistent with farm buildings or rural settlements."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green irregular patterns following natural contours, likely representing non-crop vegetation along field edges or waterways."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Light gray to white linear features connecting across landscape, consistent with roads and transportation infrastructure."
+  }
+}

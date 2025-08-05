@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, light-toned area with patchy, sparse vegetation and no clear signs of agriculture, water, or dense plant cover.'}}

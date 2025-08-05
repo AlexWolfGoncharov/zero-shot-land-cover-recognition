@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a water body with distinct boundaries and reflective surface.'}}

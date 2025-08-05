@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dark vegetated area with irregular shape in river floodplain showing typical wetland patterns adjacent to permanent water body.'}}

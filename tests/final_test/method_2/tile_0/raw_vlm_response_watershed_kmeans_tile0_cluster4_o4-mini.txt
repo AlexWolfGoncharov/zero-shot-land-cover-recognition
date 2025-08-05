@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular parcels with varied crop colors and textures indicating cultivated fields.'}}

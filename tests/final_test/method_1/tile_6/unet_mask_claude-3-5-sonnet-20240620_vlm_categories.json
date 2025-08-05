@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric patterns and varying shades of green indicate actively managed agricultural fields with different crops or growth stages."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light coloration and lack of vegetation suggest bare soil, possibly fallow fields or recently harvested areas within the agricultural landscape."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectance, sharp edges, and clustered arrangement strongly indicate man-made structures, likely small settlements or farm buildings within the agricultural area."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and circular shape suggest patches of dense vegetation, possibly small forests or tree plantations within the agricultural landscape."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "The irregular shape and less uniform green color suggest natural vegetation, but it's difficult to distinguish between shrubland and other vegetation types definitively."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "The bright green color suggests active vegetation, but it's challenging to distinguish definitively between managed grassland and certain crop types."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The very dark color and circular shape suggest small water bodies, possibly irrigation ponds or small lakes within the agricultural landscape."
+  }
+}

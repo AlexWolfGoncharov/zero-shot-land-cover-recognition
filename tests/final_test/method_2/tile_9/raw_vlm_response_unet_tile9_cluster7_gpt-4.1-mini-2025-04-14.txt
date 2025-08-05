@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Segment shows irregular sandy or soil patches with sparse vegetation, lacking dense green cover or structured patterns typical of cropland or forest.'}}

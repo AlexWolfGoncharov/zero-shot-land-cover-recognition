@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Sinuous channels with adjacent emergent vegetation along river floodplain indicate marshy wetland.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular/irregular fields with mixed colors (bare soil, vegetation) within an agricultural landscape."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green, dense vegetation within defined agricultural fields (rectangular and circular)."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular patterns of center-pivot irrigation showing varied vegetation/soil conditions."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth, irregularly shaped area with clear boundaries, visually consistent with a lake."
+  }
+}

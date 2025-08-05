@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light-colored terrain with scattered dark spots indicating minimal vegetation in what appears to be an arid/semi-arid landscape transitioning to more vegetated areas.'}}

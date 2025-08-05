@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segments are a mosaic of geometric parcels with varying spectral signatures, indicating diverse, actively managed agricultural fields with different crop types and phenologies."
+  }
+}

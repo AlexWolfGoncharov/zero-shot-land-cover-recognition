@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Segment is dominated by rectangular agricultural fields, typical of cropland, though smaller built-up areas (towns) are also present within the same cluster."
+  }
+}

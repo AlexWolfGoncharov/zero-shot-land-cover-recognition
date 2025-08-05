@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns and varied colors indicate different agricultural fields at various stages of growth or with different crops."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, continuous line with smooth texture strongly suggests a river or stream running through the landscape."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Bright appearance suggests exposed soil or bare land, possibly fallow fields or recently harvested areas within the agricultural landscape."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and irregular shapes suggest areas of dense vegetation, likely small forested patches or groups of trees within the agricultural landscape."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, heterogeneous pattern with small, irregular shapes and varied colors strongly indicates an urban or suburban area."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Lighter green color suggests grassy areas, possibly pastures or natural grasslands interspersed with croplands. Regular shapes indicate human management."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Circular shape and dark green color strongly suggest isolated patches of trees or small woodlots within the agricultural landscape."
+  }
+}

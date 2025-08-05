@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Bright white/light gray areas with minimal green, indicating bare soil or very sparse vegetation cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dark green, dense vegetation within large, geometric fields strongly suggests active cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Lighter green vegetation within geometric fields indicates cropland, likely a different crop or growth stage."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Reddish-brown color within an agricultural setting suggests bare soil, harvested fields, or dry vegetation."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Includes areas with apparent buildings, roads, and infrastructure, particularly in the lower left settlement."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium green vegetation within geometric fields indicates cropland, likely a different crop or growth stage."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment consists of numerous geometric, rectangular parcels of varying color (light brown, tan), indicating fields in different stages of cultivation or fallow periods.'}}

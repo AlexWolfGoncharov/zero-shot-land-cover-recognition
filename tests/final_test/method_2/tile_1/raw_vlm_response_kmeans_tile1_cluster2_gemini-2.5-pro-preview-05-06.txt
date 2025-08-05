@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a heterogeneous, granular texture with high-reflectance features and shadows, forming a distinct pattern of buildings and roads typical of a settlement.'}}

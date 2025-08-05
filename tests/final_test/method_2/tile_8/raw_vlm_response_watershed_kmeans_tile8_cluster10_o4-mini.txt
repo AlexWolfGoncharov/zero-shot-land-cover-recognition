@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Pivot-irrigated circular and rectangular fields with uniform texture indicate cultivated cropland.'}}

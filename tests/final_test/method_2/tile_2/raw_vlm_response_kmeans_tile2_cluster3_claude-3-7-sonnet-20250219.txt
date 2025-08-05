@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with varying shades of green and brown, clear boundaries, and proximity to settlement indicate actively managed agricultural land.'}}

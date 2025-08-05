@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark appearance with sharp boundaries typical of deep water absorbing light across all wavelengths'}}

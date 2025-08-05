@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform rectangular field pattern, uniform green/beige color, typical agricultural landscape with clear parcel boundaries'}}

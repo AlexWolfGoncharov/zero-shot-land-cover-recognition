@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns with varied colors indicating different crops/growth stages typical of agricultural land use.'}}

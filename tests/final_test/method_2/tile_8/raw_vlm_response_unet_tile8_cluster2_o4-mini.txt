@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot-irrigated fields indicate cultivated farmland, typical of cropland even when soil appears bare.'}}

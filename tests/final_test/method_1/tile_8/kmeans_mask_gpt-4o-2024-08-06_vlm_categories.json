@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular shapes and uniform texture suggest cultivated fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular fields are characteristic of irrigated cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense, dark patches suggest tree cover amidst agricultural land."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and lack of vegetation texture suggest sparse vegetation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed textures and shapes suggest varied agricultural practices."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth texture and shape indicate a water body."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Mixed textures and small size suggest possible built-up areas."
+  }
+}

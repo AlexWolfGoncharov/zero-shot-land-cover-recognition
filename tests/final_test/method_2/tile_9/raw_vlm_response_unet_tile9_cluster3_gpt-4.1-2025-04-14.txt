@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Area shows light, patchy texture with minimal vegetation, no crops or built-up features; typical of bare or sparsely vegetated land.'}}

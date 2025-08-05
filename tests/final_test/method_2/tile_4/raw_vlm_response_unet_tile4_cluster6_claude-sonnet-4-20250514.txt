@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Bright white geometric patches with high reflectance in agricultural landscape indicate buildings and infrastructure.'}}

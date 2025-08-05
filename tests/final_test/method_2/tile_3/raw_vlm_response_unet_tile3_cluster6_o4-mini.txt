@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular bare-soil patches and field grids characteristic of cultivated agricultural land.'}}

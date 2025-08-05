@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Narrow linear dark feature with smooth texture adjacent to fields, consistent with an irrigation canal (permanent water body).'}}

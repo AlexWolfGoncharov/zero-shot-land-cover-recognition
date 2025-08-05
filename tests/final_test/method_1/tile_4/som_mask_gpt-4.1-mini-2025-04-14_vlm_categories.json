@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct agricultural field patterns and crop rotation colors strongly indicate cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and uniform vegetation texture are characteristic of cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Agricultural field shapes and varying vegetation states indicate cropland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Predominantly agricultural patterns, but some bare soil patches reduce confidence slightly."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Presence of dense white/gray structures and irregular shapes near fields suggests built-up areas."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large irrigated circular fields with uniform vegetation indicate cropland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Mixed bare soil and sparse vegetation near built-up areas suggest sparse vegetation rather than dense urban or cropland."
+  }
+}

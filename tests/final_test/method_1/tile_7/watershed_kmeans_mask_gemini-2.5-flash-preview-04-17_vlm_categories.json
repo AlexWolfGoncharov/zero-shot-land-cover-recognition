@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Distinct dark color, smooth texture, and linear shape clearly indicate a permanent water body like a canal or river."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Small, dark, circular features with smooth texture are characteristic of permanent water bodies like ponds or small lakes."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense pattern of structures, roads, and high reflectance areas clearly represents a built-up urban or rural settlement area."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light brown/tan color and uniform texture in agricultural fields suggest bare soil or very sparse, dry vegetation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green color and uniform texture in rectangular fields are typical of actively growing crops during the peak season."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Darker green/brown tones suggest crops at a different growth stage or type compared to bright green fields."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown tones in agricultural fields indicate crops in varying stages of growth or different crop types."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown tones in agricultural fields indicate crops in varying stages of growth or different crop types."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown tones in agricultural fields indicate crops in varying stages of growth or different crop types."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown tones in agricultural fields indicate crops in varying stages of growth or different crop types."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown tones in agricultural fields indicate crops in varying stages of growth or different crop types."
+  }
+}

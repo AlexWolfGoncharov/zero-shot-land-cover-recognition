@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid-like pattern with small structures and roads indicates urban area."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, regular rectangular plots with varied crop colors typical of agriculture."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular shapes and mixed vegetation tones suggest natural grassland."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green texture indicates tree canopy."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light brown color and smooth texture indicate bare soil or sparse vegetation."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, reflective surfaces typical of water bodies."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Medium green, less dense vegetation suggests shrubland."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Narrow linear features with consistent width typical of roads."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Bright green, patchy appearance suggests cultivated crops."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Very light color and lack of texture indicate bare or sparse land."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed green tones and irregular shapes suggest shrubland."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with varying shades of green vegetation, clear field boundaries, and circular irrigation features typical of agricultural production.'}}

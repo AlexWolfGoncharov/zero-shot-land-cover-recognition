@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large, uniform dark area with smooth texture clearly represents water body."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with varied green and brown tones indicate agricultural cropland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Dense vegetation mixed with buildings and linear road features suggests built-up area."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy vegetation with mixed tones and rough texture indicates shrubland."
+  }
+}

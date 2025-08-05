@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Linear planting patterns and patchy fields typical of agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, uniform fields with clear boundaries typical of cultivated cropland."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular, fragmented patches with rough texture suggest shrubland."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous dark green areas indicate tree cover."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and smooth texture indicate bare soil or sparse vegetation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright white compact patches near infrastructure suggest built-up areas."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Vegetated linear feature along watercourse suggests herbaceous wetland."
+  }
+}

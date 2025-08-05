@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense white structures, visible street network, and urban texture clearly indicate human settlement.'}}

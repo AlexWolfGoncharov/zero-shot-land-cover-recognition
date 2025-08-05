@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light-colored terrain with minimal vegetation coverage, showing characteristic mottled texture of arid/desert landscape with scattered sparse vegetation.'}}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Unclassifiable",
+    "confidence": "N/A",
+    "reasoning": "The provided segmentation mask is entirely black. There are no white pixels to define the segment of interest (cluster 0) for analysis."
+  }
+}

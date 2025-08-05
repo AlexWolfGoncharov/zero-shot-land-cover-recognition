@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Patchy texture and linear boundaries suggest agricultural use."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Uniform green and dense texture typical of tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Varied texture and field boundaries indicate agricultural activity."
+  },
+  "3": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "Cluster not defined in legend."
+  },
+  "4": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "Cluster not defined in legend."
+  },
+  "5": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "Cluster not defined in legend."
+  }
+}

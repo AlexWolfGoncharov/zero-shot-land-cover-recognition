@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark tone, smooth texture, and distinct shoreline boundary characteristic of a lake, sea, or ocean."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric field patterns, varying colors indicating different crops or growth stages, and clear field boundaries."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense network of roads, small structures with rooftops, organized layout, and proximity to water indicates residential settlement."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Lighter green tone, less intensive management compared to cropland, transitional between built areas and cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular irrigation patterns, light tone indicating harvested fields, placement within agricultural matrix."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very high reflectance, lack of vegetation signatures, and dry appearance indicates exposed soil."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Reddish tones within agricultural landscape represent specific crops at certain growth stages."
+  },
+  "7": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green tone, heterogeneous texture, and less managed appearance indicates woody vegetation patches."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green color, uniform texture within field boundaries, geometric shapes indicate actively growing crops."
+  },
+  "9": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Heterogeneous texture, intermediate vegetation density, and transitional nature suggests mixed vegetation."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear structure, network pattern, and connectivity function between areas indicates roads and infrastructure."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field boundaries, systematic agricultural layout, varied crop stages, and managed vegetation patterns typical of cultivated farmland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular parcels with uniform texture and irrigation channels indicate cultivated agricultural fields.'}}

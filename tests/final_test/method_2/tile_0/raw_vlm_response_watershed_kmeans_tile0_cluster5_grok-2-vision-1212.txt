@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'medium', 'reasoning': 'Uniform green texture, surrounded by fields.'}}

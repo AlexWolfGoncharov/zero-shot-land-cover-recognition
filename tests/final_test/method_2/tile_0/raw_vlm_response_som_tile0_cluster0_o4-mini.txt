@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular parcels with varying vegetation tones and clear field boundaries indicative of agricultural use'}}

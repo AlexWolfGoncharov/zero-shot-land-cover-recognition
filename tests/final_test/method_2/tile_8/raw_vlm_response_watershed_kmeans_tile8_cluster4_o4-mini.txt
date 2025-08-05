@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform circular center-pivot irrigation patterns characteristic of managed cropland.'}}

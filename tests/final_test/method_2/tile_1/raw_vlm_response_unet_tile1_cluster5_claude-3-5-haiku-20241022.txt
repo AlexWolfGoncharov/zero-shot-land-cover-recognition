@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular, uniform green and reddish-brown patches with clear field boundaries typical of agricultural cultivation'}}

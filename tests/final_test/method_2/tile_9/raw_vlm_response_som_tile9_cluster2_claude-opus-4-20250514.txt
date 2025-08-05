@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'high', 'reasoning': 'Scattered dark vegetation spots on light sandy ground typical of arid shrubland with sparse woody plants.'}}

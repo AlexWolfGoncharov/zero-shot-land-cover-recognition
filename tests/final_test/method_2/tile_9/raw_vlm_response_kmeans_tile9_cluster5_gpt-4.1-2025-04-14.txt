@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, patchy surface with exposed soil and minimal vegetation; lacks crop patterns or dense plant cover.'}}

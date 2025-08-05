@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with circular pivot irrigation, varying green intensities indicating active crop cultivation, and clear agricultural management.'}}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "unknown",
+    "confidence": "low",
+    "reasoning": "Segmentation mask contains no highlighted (white) pixels to analyze."
+  }
+}

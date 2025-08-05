@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Segment shows dense, low-lying green vegetation with water channels and wetland patterns adjacent to a river, typical of herbaceous wetlands.'}}

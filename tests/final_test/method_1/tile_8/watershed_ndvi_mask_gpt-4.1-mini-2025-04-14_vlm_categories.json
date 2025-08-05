@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular pivot irrigation and geometric field boundaries indicate managed cropland."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Smooth reflective surface and irregular shape characteristic of permanent water body."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Lighter color and uniform texture suggest bare or sparsely vegetated soil."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, irregular, dark green patches indicate tree cover rather than shrubland."
+  }
+}

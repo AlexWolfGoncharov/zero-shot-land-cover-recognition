@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark appearance with smooth texture and natural shoreline boundaries characteristic of open water.'}}

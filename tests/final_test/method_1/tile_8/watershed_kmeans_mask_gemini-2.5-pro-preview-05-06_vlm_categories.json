@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes, dark green color suggesting active vegetation, and context strongly indicate irrigated agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear circular patterns of irrigated fields, with vegetation present but appearing less dense or at a different phenological stage."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Homogeneous dark blue/black appearance, characteristic shape of a lake/reservoir, and clear distinction from surrounding land features."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shapes indicate agricultural use (irrigation); brown/tan colors suggest fallow, harvested, or recently tilled land within a crop cycle."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric (rectangular) and irregular shapes, mixed vegetation states, and adjacency to other croplands suggest dryland farming or fallow agricultural land."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Obvious circular shapes from center-pivot irrigation, with visible vegetation cover, likely representing different crop types or growth stages."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Presence of gridded street patterns, small structures resembling rooftops, and dense arrangement typical of a human settlement or town."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes (rectangular) and context within an agricultural area strongly suggest fallow, harvested, or recently tilled cropland."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes, predominantly light brown/tan colors with minimal green, suggesting low vegetation cover, not clearly cultivated or dense grassland."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very bright, light tan/whitish appearance, often along water edges (shoreline), indicating exposed soil, sand, or very dry sparse vegetation."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly rectangular field patterns, mixed green and brown colors indicating various crop stages or fallow land within an extensive agricultural landscape."
+  }
+}

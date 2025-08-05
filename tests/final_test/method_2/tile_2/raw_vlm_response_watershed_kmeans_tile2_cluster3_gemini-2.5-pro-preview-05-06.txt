@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a vast, dark, and homogeneous area with a smooth texture, characteristic of a large river or lake separating landmasses.'}}

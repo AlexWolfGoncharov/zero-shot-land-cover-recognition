@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': "Dark linear feature with uniform width showing water's spectral signature, likely irrigation canal in agricultural landscape"}}

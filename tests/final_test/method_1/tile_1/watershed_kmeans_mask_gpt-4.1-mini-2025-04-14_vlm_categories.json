@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric fields and irrigation circles indicate active agricultural land."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation and infrastructure suggest semi-urban areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green circular irrigation fields indicate intensive agriculture."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular patches with mixed vegetation suggest shrubland."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, continuous green patches likely represent tree cover."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and sparse texture indicate bare or sparsely vegetated land."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear features likely roads or canals, part of built-up infrastructure."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Mixed vegetation and irregular shapes suggest grassland but uncertain."
+  },
+  "8": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Fragmented dense vegetation likely shrubland rather than tree cover."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and no vegetation indicate bare land."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Some geometric fields present, but irregularity lowers confidence."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Patchy texture suggests different crop stages or fallow land."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "Uniform green suggests dense grass cover."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Linear features suggest tree rows or orchards."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Irregular texture and color mix suggest sparse vegetation."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "Predominantly green with variation suggests healthy grass cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed colors and patchy texture suggest different crop stages."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, mottled light beige/tan surface with minimal vegetation, resembling arid or desert-like terrain with low plant density.'}}

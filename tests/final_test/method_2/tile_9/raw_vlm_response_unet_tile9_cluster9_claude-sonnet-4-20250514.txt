@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'high', 'reasoning': 'Mottled texture with scattered woody vegetation patches and exposed ground typical of semi-arid shrubland ecosystems.'}}

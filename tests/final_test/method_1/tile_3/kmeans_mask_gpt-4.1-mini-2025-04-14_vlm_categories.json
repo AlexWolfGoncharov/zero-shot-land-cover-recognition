@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Patchy, brownish soil with sparse green cover indicates degraded or sparse vegetation."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, dark green, uniform texture strongly indicates mature tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Grid pattern and alternating green/brown patches typical of agricultural fields."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Adjacency to water and complex wet texture suggest herbaceous wetlands."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Smooth, dark, continuous areas along river characteristic of water bodies."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear features and fragmentation suggest human-made structures typical of built-up areas."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Scattered patches with moderate vegetation density suggest shrubland rather than grassland."
+  }
+}

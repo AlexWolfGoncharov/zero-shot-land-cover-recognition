@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense urban structures and grid-like patterns indicate a built-up area.'}}

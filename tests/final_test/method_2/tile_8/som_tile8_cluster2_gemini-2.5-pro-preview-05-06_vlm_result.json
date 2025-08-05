@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The segments are geometric fields within an agricultural landscape, showing spectral signatures of bare soil or fallow land, a typical phase in cropping cycles."
+  }
+}

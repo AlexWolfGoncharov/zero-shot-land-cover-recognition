@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform rectangular field patterns, systematic green coloration typical of cultivated agricultural lands"
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Less structured green area, suggesting natural vegetation with softer, less defined boundaries"
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Reddish-brown tones indicate exposed ground or minimally vegetated surfaces"
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Less uniform green suggests mixed vegetation with potential shrub or sparse tree coverage"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Linear, high-contrast features suggesting human-made infrastructure like roads or settlements"
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Small, scattered light areas suggest exposed ground or minimally vegetated surfaces"
+  }
+}

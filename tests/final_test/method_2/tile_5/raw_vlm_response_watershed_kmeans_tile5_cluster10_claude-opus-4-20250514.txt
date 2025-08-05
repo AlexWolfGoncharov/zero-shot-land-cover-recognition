@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Bright white/gray geometric structures, roads, and buildings characteristic of rural settlements'}}

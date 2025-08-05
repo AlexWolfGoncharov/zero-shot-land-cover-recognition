@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Desert/arid terrain with exposed sandy soil and very sparse vegetation cover typical of semi-arid environments.'}}

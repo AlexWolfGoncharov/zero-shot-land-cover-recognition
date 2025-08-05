@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular grid pattern and color variation typical of agricultural fields."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with less defined structure suggests grassland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Clear urban infrastructure visible in the RGB image."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Sparse vegetation with some green suggests shrubland."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color typical of water bodies."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Defined patches suggest more structured grassland."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Grid pattern and uniform green cover typical of agricultural fields.'}}

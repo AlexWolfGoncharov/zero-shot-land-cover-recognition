@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns, uniform vegetation colors, and regular parcel divisions"
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Compact, structured layout with dense pixel concentration"
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark coloration and continuous smooth texture"
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Heterogeneous texture with mixed vegetation and exposed ground"
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green color with less structured pattern"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation density and color gradient"
+  }
+}

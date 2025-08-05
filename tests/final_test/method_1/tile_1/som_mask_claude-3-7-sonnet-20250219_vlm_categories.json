@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear dark blue feature with consistent width running through agricultural landscape, clearly an irrigation canal or water channel."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Heterogeneous patches with bright appearance, showing distinct structures, roads, and settlement patterns along field edges."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns with varied colors (green/red/brown) indicating different cultivation stages or crop types."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green rectangular fields showing high vegetation cover, indicating actively growing crops with clear management boundaries."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Agricultural fields with reddish-brown tones suggesting post-harvest, early growth stage, or specific crop types."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Very bright agricultural fields showing minimal vegetation cover, likely bare soil or recently plowed/harvested areas."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinctive circular fields created by center-pivot irrigation systems, showing varied crop stages within perfect circles."
+  }
+}

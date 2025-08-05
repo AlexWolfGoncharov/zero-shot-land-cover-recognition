@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The area shows light, patchy textures typical of sparse vegetation or bare ground.'}}

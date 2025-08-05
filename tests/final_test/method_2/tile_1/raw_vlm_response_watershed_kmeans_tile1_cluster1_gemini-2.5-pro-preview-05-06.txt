@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment consists of distinct geometric agricultural fields, including center-pivot circles. The bright signature indicates fallow or tilled land, which is classified as Cropland.'}}

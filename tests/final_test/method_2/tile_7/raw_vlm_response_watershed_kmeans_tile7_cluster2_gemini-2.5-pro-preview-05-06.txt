@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'High', 'reasoning': 'The segment exhibits a dense, radial pattern of linear features (roads) and small structures (buildings), which is a clear signature of a human settlement.'}}

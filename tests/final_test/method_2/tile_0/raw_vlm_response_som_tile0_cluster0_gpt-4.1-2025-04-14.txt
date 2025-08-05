@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular fields, patchwork pattern, and clear boundaries indicate intensive agricultural activity typical of cropland.'}}

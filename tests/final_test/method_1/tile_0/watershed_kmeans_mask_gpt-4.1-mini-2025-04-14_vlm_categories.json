@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with patchy green/brown patterns indicate cultivated cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense irregular green patches and linear tree lines suggest tree cover."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green patches with smooth texture and no crop patterns suggest grassland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright, irregular patches with linear features indicate built-up areas."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, linear/curved shapes strongly indicate water bodies."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light brown, sparse vegetation and rough texture suggest bare land."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Narrow linear dense vegetation strips typical of shrubs along edges."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform light green patches with smooth texture indicate grassland."
+  },
+  "8": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Mixed tones and rough texture suggest shrubs but could be sparse vegetation."
+  },
+  "9": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Small bright spots scattered in cropland likely represent built structures."
+  },
+  "10": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense dark green patches near water suggest tree cover."
+  }
+}

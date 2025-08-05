@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular field with uniform green color characteristic of actively cultivated agricultural land'}}

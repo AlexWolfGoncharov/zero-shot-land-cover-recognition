@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Intensely green circular fields with uniform texture and clear boundaries indicating mature, irrigated crops at peak growth."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light tan/beige fields with clear boundaries showing harvested/fallow agricultural land in non-growing phase."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium-green fields with uniform texture and geometric patterns indicating crops at different growth stage than cluster 0."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright white reflective areas at key locations within agricultural landscape, consistent with farm buildings and infrastructure."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear features connecting fields and settlements, indicating roads and transportation infrastructure within agricultural matrix."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Medium-green to olive areas with less precise boundaries, possibly representing different crop varieties or early growth stage."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light to medium green fields with clear boundaries showing crops at intermediate growth stage."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns, uniform color, systematic grid layout typical of agricultural land preparation'}}

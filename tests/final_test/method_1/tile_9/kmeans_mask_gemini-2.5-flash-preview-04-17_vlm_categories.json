@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, dark green/brown rectangular fields with sharp boundaries, characteristic of cultivated land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, light brown/yellow rectangular fields with sharp boundaries, characteristic of cultivated land, possibly fallow or harvested."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy green and brown area with irregular boundaries, suggesting natural or semi-natural vegetation like grassland or shrubland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Highly textured area dominated by bright yellowish/white patches, indicative of bare ground or sparse vegetation, possibly sand dunes."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy green and brown area with irregular boundaries, suggesting natural or semi-natural vegetation like grassland or shrubland."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Bright, geometric areas with sharp boundaries, likely representing permanent water bodies such as ponds or aquaculture facilities."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Bright, geometric areas with sharp boundaries, likely representing permanent water bodies such as ponds or aquaculture facilities."
+  }
+}

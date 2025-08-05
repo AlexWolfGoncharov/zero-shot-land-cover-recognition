@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The highlighted segments are geometrically defined parcels with uniform internal textures and spectral signatures of active vegetation, characteristic of managed agricultural fields."
+  }
+}

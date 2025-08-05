@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear light-colored features forming road network through agricultural areas, characteristic of transportation infrastructure.'}}

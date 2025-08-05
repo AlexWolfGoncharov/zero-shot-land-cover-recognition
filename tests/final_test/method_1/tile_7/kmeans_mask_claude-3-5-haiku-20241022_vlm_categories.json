@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Uniform grid pattern, dense rectangular structures typical of urban infrastructure"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct rectangular field boundaries, multiple crop colors and textures"
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Predominantly dark green, varied vegetation density, some larger continuous green patches"
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors suggest different crop stages, geometric field patterns"
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Distinct linear dark feature with consistent width, clear water corridor"
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Lighter colors, irregular vegetation patches, low density"
+  }
+}

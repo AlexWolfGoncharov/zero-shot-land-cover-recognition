@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'medium', 'reasoning': 'Irregular patches with mixed vegetation in agricultural landscape, showing natural boundaries unlike geometric cropland.'}}

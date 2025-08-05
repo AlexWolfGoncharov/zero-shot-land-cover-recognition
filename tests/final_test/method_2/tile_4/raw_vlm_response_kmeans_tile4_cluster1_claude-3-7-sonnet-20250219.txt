@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Bright green circular field with uniform texture and color within geometric agricultural landscape pattern indicates actively cultivated crops.'}}

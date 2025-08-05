@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Irregular patches and varying textures suggest a mix of tree cover and open areas."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform green texture and density strongly indicate tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric patterns and cultivated appearance are indicative of cropland."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mix of textures and irregular shapes suggests shrubland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Organized agricultural patterns strongly suggest cropland."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Sparse vegetation and open soil areas indicate bare/sparse vegetation."
+  }
+}

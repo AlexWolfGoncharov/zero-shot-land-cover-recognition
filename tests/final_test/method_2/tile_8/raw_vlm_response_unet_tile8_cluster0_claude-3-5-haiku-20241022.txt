@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular, uniform patches with distinct geometric shapes typical of center-pivot irrigation in agricultural regions'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with varying colors and textures indicate cultivated fields with different crops or growth stages.'}}

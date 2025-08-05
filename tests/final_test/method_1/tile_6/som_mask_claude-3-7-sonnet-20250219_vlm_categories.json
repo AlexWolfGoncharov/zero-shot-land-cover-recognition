@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with light tan/beige coloration indicate harvested or fallow croplands within agricultural matrix."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green coloration with clear geometric field boundaries shows actively growing crops under irrigation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Yellowish-green fields in geometric patterns indicate crops at different growth stage than bright green fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Darker green coloration in clear geometric patterns suggests mature crops or different crop types."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white areas with regular geometric patterns showing structures and roads amid agricultural fields."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown linear features between fields indicate exposed soil in access roads or field boundaries."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Very dark areas maintaining field patterns suggest either flooded cropland or crops with unique spectral properties."
+  }
+}

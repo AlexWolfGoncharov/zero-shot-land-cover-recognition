@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Riparian location with dark green vegetation, interspersed water features, and organic patterns typical of wetland ecosystems.'}}

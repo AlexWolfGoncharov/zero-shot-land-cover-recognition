@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and smooth texture are characteristic of irrigated agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of diverse agricultural shapes suggests active farming, typical of cropland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The irregular shapes and darker tones suggest urban development, consistent with built-up areas."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The smooth texture and color suggest grassland, but could also indicate bare soil."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The vibrant green and circular patterns are indicative of actively cultivated cropland."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and darker tones suggest dense tree cover, but proximity to built-up areas complicates the classification."
+  },
+  "6": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The light texture and color suggest sparse vegetation or bare soil, but further context is needed for certainty."
+  }
+}

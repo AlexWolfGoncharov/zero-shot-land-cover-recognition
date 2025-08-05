@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Extensive areas of agricultural fields are present, although mixed with urban fringe and water features."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Characterized by large, clearly defined agricultural fields in various stages of growth."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Contains a large, contiguous area exhibiting dense structures, roads, and bare ground typical of built-up land."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clearly defined linear and smaller areas of dark, smooth water bodies are the dominant feature."
+  }
+}

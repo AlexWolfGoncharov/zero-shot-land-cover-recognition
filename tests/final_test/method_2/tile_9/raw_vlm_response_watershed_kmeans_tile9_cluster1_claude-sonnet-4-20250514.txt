@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Mottled brown-tan pattern with sparse vegetation patches and significant exposed ground typical of semi-arid conditions.'}}

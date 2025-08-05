@@ -1,0 +1,12 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": null,
+    "reasoning": "Unable to analyze images directly; no specific reasoning provided."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": null,
+    "reasoning": "Unable to analyze images directly; no specific reasoning provided."
+  }
+}

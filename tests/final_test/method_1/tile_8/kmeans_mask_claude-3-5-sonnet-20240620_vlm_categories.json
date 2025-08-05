@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns characteristic of center pivot irrigation systems. Varying colors suggest different crop types or growth stages."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields typical of traditional farming practices. Color variations indicate different crops, harvested areas, or fallow fields."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green and irregular shapes suggest natural vegetation. Likely forested areas or windbreaks between agricultural lands."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "High reflectance suggests bare soil or sand. Circular shape indicates human influence, possibly fallow fields or land cleared for future crops."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and curved shape are characteristic of a water body, likely a lake or reservoir."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright reflectance and geometric shapes suggest man-made structures. Likely farm buildings, roads, or small settlements within the agricultural landscape."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Color and pattern suggest natural vegetation, but not as dark as tree cover. Could be natural grasslands or pastures used for grazing."
+  }
+}

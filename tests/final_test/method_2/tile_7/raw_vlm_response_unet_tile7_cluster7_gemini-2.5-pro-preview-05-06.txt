@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of multiple geometric parcels with uniform internal textures, characteristic of agricultural fields at different growth stages or fallow periods.'}}

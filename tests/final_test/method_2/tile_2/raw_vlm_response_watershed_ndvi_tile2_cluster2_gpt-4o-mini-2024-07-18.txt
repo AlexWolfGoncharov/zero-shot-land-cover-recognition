@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Structured patterns and proximity to water suggest agricultural land use.'}}

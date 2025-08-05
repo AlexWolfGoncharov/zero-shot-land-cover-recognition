@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment is a small, homogeneous field within a dense agricultural area, matching cropland patterns and context.'}}

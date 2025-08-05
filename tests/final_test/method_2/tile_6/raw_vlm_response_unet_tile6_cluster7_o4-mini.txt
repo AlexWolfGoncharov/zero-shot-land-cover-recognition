@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Homogeneous circular fields typical of center-pivot irrigation systems on cropland.'}}

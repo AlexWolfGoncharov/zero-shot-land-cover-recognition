@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of distinct geometric parcels, including rectangular fields and prominent center-pivot irrigation circles, which are definitive indicators of agricultural activity.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Characteristic dark color, smooth texture, and recognizable shapes (river, lakes) indicative of open water surfaces."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dark, moist appearance, proximity to water, suggesting water-logged soils and associated dense, low, non-woody vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric shapes, vibrant green color indicating healthy, actively growing crops within a managed agricultural system."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Often rectangular, within agricultural context. Varied colors (brown, light green) suggest harvested, fallow, or different crop stages."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Predominantly light brown/tan colors, suggesting exposed soil or very sparse, dry vegetation cover. Some geometric shapes hint at human influence."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright linear networks (roads) and clustered, heterogeneous bright areas suggest artificial surfaces like buildings and infrastructure."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Dominant appearance of light green to yellowish-green areas suggests herbaceous cover, consistent with grassland. Brighter patches might be bare."
+  }
+}

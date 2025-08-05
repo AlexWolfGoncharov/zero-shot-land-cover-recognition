@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Distinctive light tan coloration with scattered vegetation patterns typical of arid landscapes with minimal plant cover.'}}

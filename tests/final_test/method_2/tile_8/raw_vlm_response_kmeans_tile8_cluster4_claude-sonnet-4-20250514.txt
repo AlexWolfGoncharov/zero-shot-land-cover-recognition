@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric agricultural fields with varied crop colors and organized irrigation patterns indicate intensive cropland management.'}}

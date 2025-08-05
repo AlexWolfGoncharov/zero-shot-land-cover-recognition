@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Clear settlement pattern with visible buildings, road networks, and infrastructure clustered within agricultural landscape'}}

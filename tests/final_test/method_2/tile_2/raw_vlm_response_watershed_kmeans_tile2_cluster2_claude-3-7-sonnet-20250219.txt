@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Large, dark, homogeneous water body with clear boundaries separating land areas, showing characteristic deep water signature.'}}

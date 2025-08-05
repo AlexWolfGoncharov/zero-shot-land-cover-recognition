@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dark green vegetation with irregular patterns along water body, showing characteristic wetland signature distinct from surrounding agricultural land.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Complex mosaic of wet/dry patches, irregular shapes, and heterogeneous texture suggest a wetland environment with herbaceous vegetation and some bare areas."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dominant parts of this cluster show dark green, textured areas characteristic of dense tree canopies, especially large blocks on the right."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly regular, rectangular parcels with characteristics of agricultural fields (some bare, some with early/late stage crops, distinct boundaries)."
+  },
+  "3": {
+    "category": "Not applicable",
+    "confidence": "N/A",
+    "reasoning": "Cluster 3 is not represented by a unique gray value in the provided segmentation mask. Only three distinct clusters are identifiable."
+  }
+}

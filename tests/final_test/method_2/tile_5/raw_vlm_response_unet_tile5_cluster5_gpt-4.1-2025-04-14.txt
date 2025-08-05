@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Irregular, dense grid pattern with bright patches and linear features indicates urban structures typical of built-up areas.'}}

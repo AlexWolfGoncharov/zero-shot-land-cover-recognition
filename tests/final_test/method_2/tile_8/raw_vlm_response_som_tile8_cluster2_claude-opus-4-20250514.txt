@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Clear agricultural fields with geometric boundaries, pivot irrigation circles, and varying crop stages indicate active farming.'}}

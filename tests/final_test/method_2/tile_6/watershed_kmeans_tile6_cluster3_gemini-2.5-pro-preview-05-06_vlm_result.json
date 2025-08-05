@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Segments are predominantly rectangular agricultural fields. The cluster also contains small built-up areas, but agriculture is the dominant land cover by area."
+  }
+}

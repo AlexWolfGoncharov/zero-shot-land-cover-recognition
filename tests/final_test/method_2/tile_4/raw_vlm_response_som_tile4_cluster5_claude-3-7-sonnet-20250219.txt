@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with varying green tones indicate agricultural management. Circular irrigation pivots and rectangular plots are characteristic of cropland.'}}

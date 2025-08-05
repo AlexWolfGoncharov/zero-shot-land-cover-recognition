@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Patchy sandy terrain with scattered low woody vegetation and dune‐like textures typical of semi‐arid shrubland.'}}

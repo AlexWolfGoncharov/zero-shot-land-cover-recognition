@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Segment is a thin, irregular boundary with no clear land cover features; likely an artifact or bare/sparse area."
+  }
+}

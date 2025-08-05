@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform, geometric field patterns typical of intensive agricultural cultivation with center-pivot irrigation systems"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Continuous, dense green area suggests mature forest or woodland with uniform canopy coverage"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter, less dense green suggests grassland or sparse vegetation with visible ground texture"
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Uniform brown coloration and lack of vegetation indicate exposed ground or minimally vegetated terrain"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric, structured light-colored areas consistent with urban or industrial infrastructure"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors and fragmented texture suggest transitional vegetation with shrubs and sparse ground cover"
+  }
+}

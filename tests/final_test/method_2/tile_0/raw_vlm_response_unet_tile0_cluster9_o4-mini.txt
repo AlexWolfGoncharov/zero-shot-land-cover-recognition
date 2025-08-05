@@ -1,0 +1,1 @@
+{'0': {'category': 'Unknown', 'confidence': 'low', 'reasoning': 'No white pixels in the mask—no region available for analysis'}}

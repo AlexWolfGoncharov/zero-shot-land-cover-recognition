@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, homogeneous area characteristic of a major river or lake. Consistent with typical appearance of water in RGB satellite imagery."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Corresponds to dark, linear, and patch-like features in RGB, often representing roads, asphalt, or dense building shadows in urbanized zones."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Corresponds to agricultural fields with varied spectral responses (darker green, brown, reddish-brown in TCI), indicating different crop types or stages."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Covers large, regularly shaped agricultural fields, appearing as bright red or green parcels in the RGB, indicative of active cultivation."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Corresponds to dense areas of bright, reflective surfaces (rooftops, concrete) in the RGB, characteristic of urban structures and infrastructure."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Corresponds to very bright, light-toned rectangular agricultural fields in RGB, likely representing harvested crops, dry soil, or fallow land within rotation."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Corresponds to small, very bright white spots in the RGB, typically representing highly reflective individual rooftops or man-made surfaces."
+  }
+}

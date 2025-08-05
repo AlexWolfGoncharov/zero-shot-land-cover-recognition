@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Segment is dominated by agricultural fields, many circular, that appear bare/fallow. This land cover is classified as Cropland, despite some built-up inclusion."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows dense, regular grid-like patterns, bright rooftops, and linear roads typical of urban or suburban built-up areas.'}}

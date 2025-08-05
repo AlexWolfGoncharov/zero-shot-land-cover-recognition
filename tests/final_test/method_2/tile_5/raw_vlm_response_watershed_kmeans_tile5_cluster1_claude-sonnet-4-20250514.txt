@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue/black coloration, smooth uniform texture, and clear boundaries characteristic of deep permanent water.'}}

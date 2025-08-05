@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Area shows center‐pivot circles and rectangular field patterns typical of active agricultural fields.'}}

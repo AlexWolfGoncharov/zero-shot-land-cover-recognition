@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular rectangular field patterns with vibrant green vegetation and clear irrigation infrastructure indicating actively managed agricultural land."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Beige/tan coloration with scattered dark spots showing minimal vegetation cover, characteristic of arid/semi-arid terrain."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Patchy green vegetation distribution without continuous coverage or agricultural patterns, indicating dispersed shrub vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Geometric field patterns with lighter coloration suggesting fallow/harvested agricultural areas at different management stages."
+  }
+}

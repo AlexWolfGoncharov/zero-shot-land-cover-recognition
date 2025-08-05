@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with clear boundaries and mixed agricultural colors indicating active cultivation.'}}

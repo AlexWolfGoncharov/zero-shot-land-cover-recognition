@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Regular, grid-like patterns of very dark green suggest intensively cultivated, possibly flooded/irrigated crops (e.g., mature rice), sharing spectral similarities with included natural wetland vegetation."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light color (high albedo) and smooth texture suggest exposed soil, sandbars, or areas with minimal vegetation cover, typical for this category."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark, smooth appearance in RGB, forming distinct river channels and open water surfaces, characteristic of permanent water."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Field-like shapes, green color indicating active vegetation, and context within an agricultural mosaic strongly suggest actively cultivated land."
+  }
+}

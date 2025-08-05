@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright geometric structures with rectangular shapes following infrastructure patterns indicate human settlements or buildings."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular field patterns with varying green tones showing different crops and growth stages."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Homogeneous green areas with less geometric patterning than cropland, likely permanent pasture or natural grass."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Dark, sinuous features forming a network pattern characteristic of streams or small rivers."
+  }
+}

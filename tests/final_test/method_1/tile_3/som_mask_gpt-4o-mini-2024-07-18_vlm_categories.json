@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense green texture and irregular shapes strongly indicate tree cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The uniformity and rectangular patterns suggest cultivated fields typical of cropland."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mix of colors and irregular shapes suggest a shrubland area, though it could also be grassland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The geometric shapes and light color strongly suggest urban development."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "The chaotic texture and dark green color suggest a wetland area, though tree cover is also possible."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The very dark color and smooth texture are indicative of water bodies."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "The mixed colors and irregular shapes suggest a grassland area, though shrubland is also a possibility."
+  }
+}

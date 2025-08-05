@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense, dark texture and irregular shape suggest a significant presence of trees."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The rectangular patterns and varied shades indicate cultivated fields."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "The uniform texture and lighter shades suggest open grassland areas."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The dark, smooth texture is indicative of a water body."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "The presence of linear features and irregular shapes suggests urban development."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The light color and lack of dense vegetation suggest bare ground or sparse vegetation."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mix of textures and irregular shapes suggest a shrubland area."
+  }
+}

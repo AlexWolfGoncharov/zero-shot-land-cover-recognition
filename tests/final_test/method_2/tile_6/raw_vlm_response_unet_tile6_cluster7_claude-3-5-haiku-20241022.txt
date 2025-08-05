@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct geometric circular and rectangular field patterns, uniform green and tan colors indicating agricultural cultivation and crop rotation'}}

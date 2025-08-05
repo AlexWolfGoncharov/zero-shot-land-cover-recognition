@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular grid of rectangular plots with varying vegetation, typical of intensively managed agricultural fields.'}}

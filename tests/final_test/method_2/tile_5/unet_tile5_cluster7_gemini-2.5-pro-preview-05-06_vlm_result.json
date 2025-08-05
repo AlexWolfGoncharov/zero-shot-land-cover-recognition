@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segment consists of distinct geometric shapes (circles, rectangle) characteristic of center-pivot irrigation and ploughed fields, indicating intensive agricultural land use."
+  }
+}

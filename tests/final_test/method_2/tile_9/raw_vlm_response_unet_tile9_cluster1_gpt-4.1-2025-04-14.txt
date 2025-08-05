@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, patchy cover with mostly bare ground and scattered low vegetation; lacks tree, crop, or built-up features.'}}

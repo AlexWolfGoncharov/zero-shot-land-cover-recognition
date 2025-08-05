@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields and varied vegetation tones are characteristic of intensively managed agricultural cropland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Rectangular grid pattern with dense structures indicates urban or residential area.'}}

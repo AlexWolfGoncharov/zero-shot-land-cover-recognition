@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a large, open body with very low spectral reflectance (appearing dark), characteristic of water separating two landmasses.'}}

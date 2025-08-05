@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular, uniform pale color patches suggest center pivot irrigation fields, typical of large-scale agricultural cultivation.'}}

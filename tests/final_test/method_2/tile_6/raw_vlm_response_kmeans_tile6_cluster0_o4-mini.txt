@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot-irrigated and rectangular fields with uniform vegetation patterns indicate active agricultural cropland.'}}

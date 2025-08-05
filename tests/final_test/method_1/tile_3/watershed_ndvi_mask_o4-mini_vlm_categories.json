@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed soil and sparse vegetation with dirt tracks and road incisions."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium-high",
+    "reasoning": "Uniform dark-green canopy in geometric plantation blocks."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large rectangular fields with visible crop rows and tilled soils."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Sinuous water channels and emergent marsh vegetation on floodplain."
+  },
+  "4": {
+    "category": "None",
+    "confidence": "low",
+    "reasoning": "No corresponding segment present."
+  },
+  "5": {
+    "category": "None",
+    "confidence": "low",
+    "reasoning": "No corresponding segment present."
+  }
+}

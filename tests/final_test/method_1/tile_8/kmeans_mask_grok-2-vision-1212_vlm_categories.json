@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy green suggests grass with some bare soil."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns are clear evidence."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Denser green patches suggest shrubland."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dark green, consistent texture typical of tree cover."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Distinct dark shape indicates a water body."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Lighter color suggests sparse vegetation or bare soil."
+  }
+}

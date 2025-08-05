@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment exhibits a highly regular, geometric grid of rectangular fields, a classic pattern indicative of active agricultural land use.'}}

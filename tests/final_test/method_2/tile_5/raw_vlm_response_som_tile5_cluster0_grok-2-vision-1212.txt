@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense, grid-like urban pattern, adjacent to water and agriculture.'}}

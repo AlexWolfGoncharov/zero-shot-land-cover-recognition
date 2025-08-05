@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green/brown color and dense texture indicate significant vegetation cover, with patterns suggesting managed forest areas."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Dominant bright yellowish-white color and mottled texture indicate ground with very little or scattered vegetation cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Presence of numerous rectangular fields with light brown/white tones is a strong indicator of agricultural land use."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field shapes and light tones are clear visual evidence of cultivated agricultural areas."
+  }
+}

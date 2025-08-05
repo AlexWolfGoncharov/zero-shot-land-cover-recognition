@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark blue-black continuous area with natural boundaries and wave patterns, characteristic of deep water bodies."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields with varying green/brown tones indicating different crops or growth stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light green rectangular patches with uniform coloration suggesting managed agricultural land."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Very light-colored geometric areas suggesting early-stage crops or recently tilled agricultural land."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright white-gray patches with regular patterns in concentrated areas indicating settlements/urban development."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Small dark green patches scattered within agricultural landscape suggesting woodlots or tree lines."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright linear features connected to settlements, likely representing roads or other infrastructure."
+  }
+}

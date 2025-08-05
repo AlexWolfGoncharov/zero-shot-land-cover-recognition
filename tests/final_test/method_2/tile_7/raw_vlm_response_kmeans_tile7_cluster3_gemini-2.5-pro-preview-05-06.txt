@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment highlights features with very low reflectance (dark color) and distinct shapes, including a large canal and circular ponds, typical of water.'}}

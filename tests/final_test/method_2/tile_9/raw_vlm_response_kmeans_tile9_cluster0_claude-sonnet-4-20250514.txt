@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'high', 'reasoning': 'Heterogeneous mottled texture with sparse vegetation patches characteristic of semi-arid shrubland ecosystem.'}}

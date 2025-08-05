@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, rectangular layout, light-colored surfaces, and clear contrast with surrounding vegetation indicate developed urban/residential areas.'}}

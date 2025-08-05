@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment shows gridded street patterns and dense, heterogeneous structures, which are clear indicators of human settlements or built-up areas.'}}

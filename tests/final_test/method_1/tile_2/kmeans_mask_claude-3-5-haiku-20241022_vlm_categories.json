@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color, consistent appearance characteristic of water bodies"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform field divisions, distinct color variations indicating different crop types"
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Tight clustering of geometric shapes, high reflectivity typical of urban infrastructure"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green coloration suggesting forest/woodland, mixed vegetation potential"
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Less structured appearance compared to croplands, natural vegetation cover"
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "low",
+    "reasoning": "Transitional zone with mixed characteristics, potential wetland vegetation"
+  }
+}

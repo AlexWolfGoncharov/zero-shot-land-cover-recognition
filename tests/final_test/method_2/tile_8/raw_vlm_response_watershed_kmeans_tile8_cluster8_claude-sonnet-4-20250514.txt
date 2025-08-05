@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular fields created by center-pivot irrigation systems, showing uniform agricultural cultivation patterns.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of a dense cluster of small, angular, high-reflectance features characteristic of buildings, roofs, and paved surfaces forming a village.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric shapes (circles, rectangles) and uniform bright green color indicate actively cultivated and irrigated fields."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Areas within fields showing less dense vegetation, patchy texture, and exposed soil suggest bare or sparsely vegetated conditions."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Includes linear features (roads) and clustered bright spots (buildings), indicating infrastructure and settlements."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Large irregular areas with light color and patchy texture, indicating minimal or no vegetation cover."
+  }
+}

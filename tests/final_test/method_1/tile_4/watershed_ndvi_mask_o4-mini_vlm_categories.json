@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct center-pivot irrigation circles, uniform crop canopy indicate active farmland."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Exposed soil, low vegetation cover typical of fallow or recently tilled fields."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Regular rectilinear patterns and road grid suggest infrastructure and settlement areas."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Uniform planting rows and field boundaries indicate cultivated agricultural land."
+  }
+}

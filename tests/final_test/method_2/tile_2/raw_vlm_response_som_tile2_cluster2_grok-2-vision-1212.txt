@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Grid-like pattern and uniform texture typical of urban development.'}}

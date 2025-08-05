@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'Low', 'reasoning': 'The segment is highly heterogeneous, also containing built-up and water areas. Cropland is chosen as it appears to be the dominant class by area.'}}

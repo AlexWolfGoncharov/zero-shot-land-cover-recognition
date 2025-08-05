@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot irrigation patterns and geometric field boundaries indicate intensive agricultural crop production.'}}

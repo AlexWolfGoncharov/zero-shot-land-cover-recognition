@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Patchy vegetation with visible soil and irregular shapes indicates sparse vegetation, not cropland or shrubland."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large, dark water bodies with clear edges adjacent to river indicate permanent water bodies."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular plots with uniform vegetation texture indicate managed agricultural cropland."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, continuous green patches with irregular shapes suggest tree cover, though shrubland possible."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light soil color and sparse vegetation dominate; no dense structures to confirm built-up."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Regular vegetation pattern adjacent to cropland suggests managed agricultural land."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Mixed water and vegetation near riverbank with irregular patches suggest herbaceous wetland."
+  }
+}

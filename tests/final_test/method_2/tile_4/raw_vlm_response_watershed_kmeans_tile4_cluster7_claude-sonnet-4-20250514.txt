@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Perfect circular shape with uniform green vegetation indicates center-pivot irrigated agricultural field.'}}

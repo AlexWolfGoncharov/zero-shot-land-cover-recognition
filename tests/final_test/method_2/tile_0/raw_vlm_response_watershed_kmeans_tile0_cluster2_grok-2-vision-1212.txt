@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'high', 'reasoning': 'Uniform green texture, typical of grassland in agricultural context.'}}

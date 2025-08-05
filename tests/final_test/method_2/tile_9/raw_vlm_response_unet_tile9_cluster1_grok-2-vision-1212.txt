@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Uneven texture, sparse vegetation mixed with bare ground.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized rectangular shapes and varying green shades strongly indicate agricultural activity."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and lighter textures suggest a less dense vegetation cover typical of grasslands."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of dense structures and roads indicates urban development typical of built-up areas."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The smooth, dark surface and location adjacent to the water strongly indicate a permanent water body."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The presence of geometric patterns and adjacent agricultural areas strongly indicates cultivated land.'}}

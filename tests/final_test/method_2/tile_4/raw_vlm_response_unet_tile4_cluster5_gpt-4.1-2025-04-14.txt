@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct center-pivot irrigation circles and grid layout indicate intensive agricultural activity typical of cropland.'}}

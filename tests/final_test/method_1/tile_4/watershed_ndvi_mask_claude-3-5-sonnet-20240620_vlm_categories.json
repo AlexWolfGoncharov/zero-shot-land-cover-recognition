@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular and rectangular patterns, uniform deep green color, and context within a larger agricultural landscape strongly indicate actively cultivated crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes (circles and rectangles) and overall pattern consistent with agricultural practices indicate cropland, albeit at a different growth stage or crop type than Cluster 0."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and rough texture suggest exposed soil or minimal vegetation. Could be fallow fields or areas with sparse natural vegetation between cultivated plots."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white color, small size, geometric shape, and location at field intersections strongly suggest these are built structures supporting agricultural operations."
+  }
+}

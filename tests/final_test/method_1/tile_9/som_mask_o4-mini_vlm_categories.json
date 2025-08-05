@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Wind-rippled sand dunes with near-zero vegetation cover."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Patchy woody plants on open ground, typical shrubland structure."
+  },
+  "2": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Emergent green vegetation over moist soils around ponds."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Engineered rectangular ponds and canals with characteristic low reflectance water."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Uniform dense canopy along irrigation lines is indicative of planted trees."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular, uniform green fields with plow-row texture indicate active agriculture."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Agricultural pattern but absence of vegetation suggests fallow or tilled cropland."
+  }
+}

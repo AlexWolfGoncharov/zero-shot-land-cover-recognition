@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform geometric plots and circular irrigation patterns indicate managed agricultural fields.'}}

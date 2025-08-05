@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segment consists of distinct, geometric parcels with varied spectral signatures, characteristic of actively managed agricultural fields with different crop types or stages."
+  }
+}

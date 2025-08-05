@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular fields with center-pivot irrigation patterns, currently appearing harvested/fallow but clearly managed agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields with uniform dark green coloration indicate actively growing crops under cultivation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular boundaries with uniform light green coloration indicate managed agricultural fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Reddish-brown rectangular fields indicate recently tilled/prepared agricultural land."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Distinctive smooth blue-green surface with clear boundaries and curved shoreline."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small patches with distinctive texture at field intersections likely represent buildings and infrastructure."
+  }
+}

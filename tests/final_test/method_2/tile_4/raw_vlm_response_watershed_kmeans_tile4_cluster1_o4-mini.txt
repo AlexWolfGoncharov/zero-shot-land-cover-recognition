@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Central pivot irrigation and uniform vegetation indicate agricultural cropland.'}}

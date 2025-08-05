@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment shows regular, geometric patterns typical of agricultural fields with varying soil and crop cover, indicating managed cropland."
+  }
+}

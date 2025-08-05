@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark uniform appearance, smooth texture, and clear boundaries with terrestrial features indicate deep water body.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric field patterns with exposed soil indicate recently harvested or fallow agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns with uniform vegetation distribution indicate cultivated crops at intermediate growth stage."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Intense green color in geometric patterns indicates mature crops at peak growth stage with high chlorophyll content."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright reflectance with structured patterns indicates small settlements or agricultural infrastructure within the farming landscape."
+  }
+}

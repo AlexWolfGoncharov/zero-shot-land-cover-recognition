@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'The segment is a complex mosaic of lush, dark green vegetation and dark, sinuous open water channels, characteristic of a floodplain wetland or marsh.'}}

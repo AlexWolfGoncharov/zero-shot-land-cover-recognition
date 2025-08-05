@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct agricultural field shapes and spectral variation indicate active crop cultivation."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Characteristic center-pivot irrigation circles denote cultivated farmland."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Straight canal-like watercourse with no seasonal vegetation suggests permanent irrigation water channel."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Urban block morphology and impervious surfaces indicate a built environment."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Scattered rural settlements with houses and roads denote built-up areas."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Scattered low shrubs and bare ground typical of semi-arid shrubland."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular parcels with varying green/brown tones showing clear evidence of cultivation and human management with regular field patterns.'}}

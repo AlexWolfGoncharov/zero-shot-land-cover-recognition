@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Distinctive light-colored curved feature with smooth texture and clear shoreline, surrounded by agricultural fields.'}}

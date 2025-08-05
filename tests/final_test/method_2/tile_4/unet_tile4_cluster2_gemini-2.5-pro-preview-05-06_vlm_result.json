@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Segment contains distinct settlements with road grids and buildings, defining features of the built-up class, mixed with spectrally similar bare soil."
+  }
+}

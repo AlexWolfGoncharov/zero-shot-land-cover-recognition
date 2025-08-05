@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of circular crop patterns strongly indicates cultivated land."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mixed textures and irregular shapes suggest a less managed area, typical of shrubland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniformity and organization strongly suggest cultivated land."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The reflective surface and context strongly indicate a water body."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The presence of bare soil and sparse vegetation suggests this classification."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense vegetation and dark green color strongly indicate tree cover."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The organized shapes and mixed features suggest human development."
+  }
+}

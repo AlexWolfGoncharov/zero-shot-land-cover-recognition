@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes with uniform dark green color indicate actively growing crops at peak growth stage."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Distinctive meandering dark feature with smooth texture characteristic of water bodies, following natural drainage patterns."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric field patterns with light coloration suggest fallow or recently harvested cropland with minimal vegetation."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense irregular pattern of small structures with road networks indicates residential/urban settlement area."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric patterns with medium green coloration indicate agricultural fields with crops at medium growth stage."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Distinctive circular features with darker centers suggest small water bodies or ponds with surrounding vegetation buffer."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light-colored geometric parcels suggest recently plowed or fallow agricultural fields with minimal vegetation cover."
+  }
+}

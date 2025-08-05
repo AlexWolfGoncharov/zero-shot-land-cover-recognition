@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, contiguous green vegetation with natural river/forest boundary characteristics"
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Highly structured, geometric layout suggesting urban or infrastructure development"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Clearly defined agricultural parcels with distinct field boundaries and crop variations"
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Mixed coloration and texture suggest limited ground cover with exposed soil"
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color and smooth texture characteristic of large water surfaces"
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed green textures suggesting lower density vegetation typical of grassland"
+  }
+}

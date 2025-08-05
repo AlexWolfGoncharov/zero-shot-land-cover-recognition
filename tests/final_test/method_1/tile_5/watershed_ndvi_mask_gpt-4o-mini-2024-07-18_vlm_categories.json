@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular fields and uniform texture strongly indicate agricultural activity."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The presence of structures and varied land use indicates urban development."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense green vegetation and irregular shapes strongly indicate forested areas."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The rough texture and sparse vegetation indicate areas of bare soil or minimal plant cover."
+  }
+}

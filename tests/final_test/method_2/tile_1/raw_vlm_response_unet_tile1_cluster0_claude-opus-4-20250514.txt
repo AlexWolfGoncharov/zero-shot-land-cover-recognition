@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular fields with varied vegetation stages, organized parcels, and agricultural infrastructure clearly indicate active farming areas.'}}

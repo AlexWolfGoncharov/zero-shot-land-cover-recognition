@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Uniform dark color, smooth texture, and large extent suggest a deep, permanent water body."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric field patterns (circles, rectangles) and varied colors indicative of different crops or growth stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field shapes and colors (reddish, brown, light green) consistent with active agriculture, including fallow or different crop stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense aggregation of buildings, roads (white/gray rooftops, linear features) along the coast. Smaller patches likely represent roads."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Scattered small patches, often light brown/tan, suggesting exposed soil or very sparse, dry vegetation in agricultural/transitional zones."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Small, bright patches and linear features, including coastal sand/beach and very dry bare soil in fields."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Very bright, point-like features, predominantly corresponding to highly reflective surfaces like rooftops and roads within the main built-up area."
+  }
+}

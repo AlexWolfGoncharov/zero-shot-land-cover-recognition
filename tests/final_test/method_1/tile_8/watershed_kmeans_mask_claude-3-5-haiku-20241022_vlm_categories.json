@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green color, geometric field shapes suggest cultivated agricultural land"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Transitional coloration suggests crops in different growth stages"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Field patterns and soil exposure indicate recently planted or harvested land"
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation density suggests grassland or transitional agricultural areas"
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color, distinct shape consistent with a lake or reservoir"
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light coloration and minimal vegetation suggest fallow land"
+  }
+}

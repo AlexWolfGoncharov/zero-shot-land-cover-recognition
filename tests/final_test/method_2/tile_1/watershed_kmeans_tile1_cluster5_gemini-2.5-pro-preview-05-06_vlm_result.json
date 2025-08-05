@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Segment includes numerous geometric fields (rectangles, circles) that are fallow/bare, a state defined as cropland, mixed with a spectrally similar built-up area."
+  }
+}

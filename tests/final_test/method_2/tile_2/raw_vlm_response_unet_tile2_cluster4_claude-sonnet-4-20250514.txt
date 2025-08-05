@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, smooth, homogeneous surface with sharp boundaries adjacent to coastal development indicates permanent water body.'}}

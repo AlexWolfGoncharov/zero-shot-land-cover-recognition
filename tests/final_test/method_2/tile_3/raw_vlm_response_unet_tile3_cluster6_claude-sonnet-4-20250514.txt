@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric patterns, regular subdivisions, and systematic layout indicate human settlements and infrastructure development.'}}

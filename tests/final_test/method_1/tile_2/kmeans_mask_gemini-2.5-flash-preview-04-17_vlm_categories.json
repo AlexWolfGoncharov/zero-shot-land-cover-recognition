@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area with clear boundary, consistent with a large river or lake."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright, often rectangular fields within agricultural areas, likely bare soil or recently harvested/planted crops."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clearly defined, often rectangular fields showing signs of cultivation (different crop types/stages), typical of agricultural landscapes."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly rectangular fields with textures and colors indicative of cultivated crops, similar to Segment 2."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense collection of structures with complex patterns and textures, forming a settlement along the river."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Primarily appears as dark, linear water channels connected to the main river. Some dark patches are less clear."
+  }
+}

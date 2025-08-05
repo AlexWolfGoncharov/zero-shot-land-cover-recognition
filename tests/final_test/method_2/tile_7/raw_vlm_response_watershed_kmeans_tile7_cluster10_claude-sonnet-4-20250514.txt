@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform bright green fields with geometric boundaries in agricultural landscape indicate cultivated crops.'}}

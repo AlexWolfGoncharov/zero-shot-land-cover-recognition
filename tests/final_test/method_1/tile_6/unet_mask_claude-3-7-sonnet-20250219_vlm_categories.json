@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Vibrant green circular/rectangular parcels with uniform texture and clear field boundaries indicating intensive agricultural management."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Beige/tan colored parcels with defined boundaries, showing different crop stages (likely post-harvest or fallow)."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green/yellowish parcels with defined boundaries representing different crops or growth stages within agricultural system."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Small bright areas with geometric layout and regular patterns, indicating man-made structures/settlements."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Brownish-reddish irregular areas between fields, representing exposed soil or minimal vegetation."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Medium green areas with some variation, possibly representing less intensive agricultural use or mixed crop types."
+  },
+  "6": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Reddish-brown areas with minimal vegetation, forming boundaries between fields, indicating exposed soil surfaces."
+  }
+}

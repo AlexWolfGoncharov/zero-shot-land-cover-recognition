@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Extremely low vegetation density, dry fragmented surface typical of arid/desert regions with minimal ground cover'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniformity strongly indicate cultivated agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed textures suggest agricultural activity, but with less certainty than cluster 0."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The density and texture suggest tree cover, but the presence of agricultural land nearby reduces certainty."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The irregular shapes and lighter tones are indicative of urban development."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The presence of brown tones and irregular shapes suggests areas with little to no vegetation."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The uniformity suggests grassland, but proximity to agricultural areas introduces some uncertainty."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The dark blue color and smooth texture strongly indicate a water body."
+  }
+}

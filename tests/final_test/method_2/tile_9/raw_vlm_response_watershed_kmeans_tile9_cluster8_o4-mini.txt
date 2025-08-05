@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular, rectilinear plots with uniform tones and geometric layout indicate active agricultural fields.'}}

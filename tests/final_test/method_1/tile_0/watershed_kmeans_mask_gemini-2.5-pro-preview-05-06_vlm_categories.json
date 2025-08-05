@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Dark patches in agricultural fields, suggesting tilled moist soil, specific dark crop types, or fallow land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clearly demarcated agricultural plots with reddish-brown/tan colors, typical of bare soil, tilled, or harvested land."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes with colors (tan, light brown) suggesting bare soil or early/late stage crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clearly defined agricultural plots exhibiting greenish hues, indicative of active crop vegetation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes with distinct green coloration, indicating healthy growing crops."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Heterogeneous texture, presence of structures, roads, and mixed bright/dark pixels typical of a human settlement."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large agricultural plots with bright green coloration, suggesting healthy and dense crop cover."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Agricultural plots showing very bright green (vigorous crops) or light tan (mature/drying crops)."
+  },
+  "8": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear features with light gray/beige color and smooth texture, characteristic of paved roads and transportation infrastructure."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very bright, often linear features suggesting unpaved tracks or highly reflective bare soil/surfaces."
+  },
+  "10": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Pinpoints extremely reflective surfaces, likely small patches of bare ground, sand, or other highly reflective material."
+  }
+}

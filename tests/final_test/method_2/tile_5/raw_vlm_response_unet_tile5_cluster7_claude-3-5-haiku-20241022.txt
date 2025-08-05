@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric circular and rectangular field shapes, uniform green and pink-red color tones typical of agricultural cultivation patterns'}}

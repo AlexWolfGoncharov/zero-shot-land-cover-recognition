@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dark green center-pivot circles indicate actively irrigated crop fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot pattern and uniform green cover indicative of crops."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light tan color and lack of green imply harvested or bare soil."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns typical of arable farming."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Building footprints and road grid denote urban area."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform deep blue colour and shape of reservoir indicate standing water."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Dark soil tone and absence of green suggest recently harvested or fallow fields."
+  }
+}

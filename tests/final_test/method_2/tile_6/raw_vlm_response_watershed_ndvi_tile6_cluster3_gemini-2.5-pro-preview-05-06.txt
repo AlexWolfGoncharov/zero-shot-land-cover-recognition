@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment contains distinct grid-like street patterns and visible rooftops, which are clear indicators of human settlements and associated infrastructure.'}}

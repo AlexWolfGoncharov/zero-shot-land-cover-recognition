@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular circular and rectangular fields, typical of irrigated agriculture, indicate intensive crop cultivation.'}}

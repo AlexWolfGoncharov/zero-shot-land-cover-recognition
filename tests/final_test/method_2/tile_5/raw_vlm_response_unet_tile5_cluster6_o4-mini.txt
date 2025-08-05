@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Irrigated circular and rectangular fields with consistent textures indicating active agricultural cultivation.'}}

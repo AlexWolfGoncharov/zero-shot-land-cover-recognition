@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field with uniform green vegetation surrounded by agricultural parcels indicates active crop cultivation.'}}

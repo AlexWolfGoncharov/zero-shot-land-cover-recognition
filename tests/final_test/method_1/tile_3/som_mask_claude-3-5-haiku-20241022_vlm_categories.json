@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Consistent dark color, smooth texture, and sinuous shape typical of rivers or water channels"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, multi-toned green vegetation with complex canopy texture suggests forested area"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct rectangular field patterns, varying crop colors, and systematic agricultural layout"
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Uniform light color, strict geometric grid suggests urban or settlement infrastructure"
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Reddish-brown color suggests exposed soil or sparsely vegetated terrain"
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "Uniform green color, relatively homogeneous texture indicates grassland or pasture"
+  }
+}

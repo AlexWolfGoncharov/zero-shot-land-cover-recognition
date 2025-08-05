@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment displays geometric field patterns and coloration typical of intensively managed agricultural cropland.'}}

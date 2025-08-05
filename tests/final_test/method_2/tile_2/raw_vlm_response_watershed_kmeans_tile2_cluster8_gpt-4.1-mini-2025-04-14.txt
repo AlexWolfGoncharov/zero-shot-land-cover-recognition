@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows dense, regular patterns of small, bright, geometric shapes typical of buildings and infrastructure near water.'}}

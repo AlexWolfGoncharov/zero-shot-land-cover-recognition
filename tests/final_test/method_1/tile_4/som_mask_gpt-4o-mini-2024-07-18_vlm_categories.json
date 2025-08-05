@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniform green color are characteristic of irrigated agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The diversity in shapes and colors indicates multiple crop types, typical of cropland."
+  },
+  "2": {
+    "category": "Bare/Sparse Vegetation",
+    "confidence": "Medium",
+    "reasoning": "The lighter colors and irregular shapes suggest areas with sparse vegetation or bare soil."
+  },
+  "3": {
+    "category": "Tree Cover",
+    "confidence": "High",
+    "reasoning": "The dense, dark green texture is indicative of tree cover."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The lighter green and mixed shapes suggest grassland rather than dense crops."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The light color and irregular shapes are characteristic of urban areas."
+  }
+}

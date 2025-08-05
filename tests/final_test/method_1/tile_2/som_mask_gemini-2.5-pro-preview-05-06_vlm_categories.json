@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Appears as a large, open, dark water body with smooth texture, consistent with a river or lake."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Bright white, streaky features on the water surface, likely sun glint or turbulence; considered part of the water body."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Lighter-toned water within the main water body, possibly indicating shallower depth, sediment load, or different surface conditions."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular field patterns with varied spectral responses (red, green colors), typical of active agricultural cultivation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns characteristic of agriculture, showing diverse spectral signatures (colors) indicating varied crops or growth stages."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Heterogeneous texture with bright pixels (roofs, roads) and grid patterns, characteristic of human settlements and infrastructure."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very bright patches and linear features, likely representing exposed soil, dry/sparse vegetation, or unpaved surfaces."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Presence of center-pivot irrigation circles indicates cultivated agricultural fields.'}}

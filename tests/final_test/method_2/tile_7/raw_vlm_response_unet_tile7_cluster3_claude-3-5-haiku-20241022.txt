@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform geometric field patterns, clear agricultural plot boundaries, and varied crop color signatures indicate cultivated agricultural land.'}}

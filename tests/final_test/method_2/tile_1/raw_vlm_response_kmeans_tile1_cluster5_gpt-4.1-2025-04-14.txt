@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Long, narrow, dark, uniform feature with straight edges; typical of a canal or water channel separating cropland.'}}

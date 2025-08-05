@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment shows a small, irregularly shaped dark area with smooth texture typical of water bodies, adjacent to agricultural fields.'}}

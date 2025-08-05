@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric shapes and irrigation circles indicate managed agricultural land."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid pattern and bright structures typical of urban areas."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular shapes and texture suggest shrubland rather than grassland or trees."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark smooth texture and coastal location indicate water bodies."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color and sparse texture suggest bare or sparsely vegetated soil."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Bright green and texture indicate herbaceous vegetation typical of grassland."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed texture and irregular shapes lean towards shrubland."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "low",
+    "reasoning": "Small bright patches near urban areas likely built-up but low confidence."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense texture and dark green color suggest tree cover."
+  },
+  "9": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Smooth texture and greenish color indicate herbaceous vegetation."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors and adjacency to cropland suggest fallow or crop variation."
+  }
+}

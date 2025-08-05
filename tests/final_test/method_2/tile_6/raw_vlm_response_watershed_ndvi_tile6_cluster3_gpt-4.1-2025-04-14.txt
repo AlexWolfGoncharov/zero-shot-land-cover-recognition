@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular and rectangular fields with varied vegetation, typical of irrigated agriculture; no urban or natural land cover present.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dark green coloration with water patches, irregular boundaries, and riverine adjacency indicate wetland vegetation.'}}

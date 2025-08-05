@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark reflectance and circular ponds indicate open water bodies."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear, uniform dark channel corresponds to a water canal."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Uniform, bare‐soil appearance in agricultural plots indicates sparse or no vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Green, textured rectangular fields match active agricultural crops."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "High-density grid structures and impervious surfaces indicate an urban settlement."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Residual stubble and field patterns indicate harvested agricultural land."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dense wetland grasses at pond margins indicate marshy vegetation."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dense green vegetation with water channels adjacent to major water body shows typical wetland characteristics'}}

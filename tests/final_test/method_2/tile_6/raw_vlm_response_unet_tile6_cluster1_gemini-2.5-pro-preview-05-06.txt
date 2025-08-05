@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a clear grid pattern of roads and buildings, characteristic of a human settlement, surrounded by agricultural fields.'}}

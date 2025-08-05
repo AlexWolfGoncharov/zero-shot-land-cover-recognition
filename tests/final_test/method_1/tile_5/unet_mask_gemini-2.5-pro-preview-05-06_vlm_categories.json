@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Homogeneous dark blue/black appearance, smooth texture, and large extent typical of a large water body like a sea or lake."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Many segments are rectangular fields with colors (dark green, reddish-brown) indicative of active crops or prepared agricultural land. Some heterogeneity exists."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly regular, rectangular shapes and colors (green, red, brown) typical of cultivated agricultural fields in various stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Contains a large, dense urban settlement with characteristic grid patterns, bright rooftops, and heterogeneous texture, despite also including some agricultural fields."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dominated by circular center-pivot irrigation fields and regular rectangular plots, clearly indicating intensive agricultural use. Various colors suggest different crop stages."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Regular rectangular shapes typical of agricultural fields. Very light tan/beige colors suggest fallow land or harvested crops within an agricultural system."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Distinct circular (center-pivot) and rectangular shapes. Extremely bright, light tan/white color suggests bare, tilled soil or harvested, dry fields."
+  }
+}

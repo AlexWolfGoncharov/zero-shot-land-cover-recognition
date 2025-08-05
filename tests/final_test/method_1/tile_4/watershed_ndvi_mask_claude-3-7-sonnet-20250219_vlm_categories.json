@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dark green circular and rectangular fields with uniform appearance indicate actively growing crops at peak growth stage."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium green to brownish-green fields in geometric patterns showing crops at different growth stage or different crop types."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light tan to brownish fields maintaining agricultural patterns, likely harvested, fallow, or recently plowed cropland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Very light areas representing bare soil in agricultural context, recently harvested fields with some small possible built-up elements."
+  }
+}

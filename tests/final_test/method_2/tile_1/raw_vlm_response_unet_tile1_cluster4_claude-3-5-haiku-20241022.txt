@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric circular and rectangular field patterns, uniform green/reddish colors suggesting cultivated agricultural land with different crop stages'}}

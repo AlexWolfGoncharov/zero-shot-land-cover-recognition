@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, uniform green and reddish hues typical of agricultural fields with distinct parcel boundaries.'}}

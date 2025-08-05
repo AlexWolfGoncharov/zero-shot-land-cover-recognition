@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of structured fields and uniformity indicates cultivated land."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregularity and texture suggest natural vegetation rather than cultivated land."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The larger patches and adjacency to water suggest a grassland area."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of structures and chaotic layout indicates urban development."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric plots with varying cultivation stages, distinct boundaries, and controlled vegetation patterns indicate managed agricultural fields.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment consists of numerous distinct geometric parcels with sharp boundaries, indicating a managed agricultural landscape with active cultivation and different crop growth stages.'}}

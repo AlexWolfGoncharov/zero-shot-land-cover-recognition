@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular pivot irrigation shapes with very dark green color, indicating dense, actively growing crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular pivot irrigation shapes with brown/reddish-brown color, suggesting fallow land, harvested fields, or prepared soil within an agricultural system."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct agricultural shapes (circular pivots, rectangular fields) with bright green color, indicating actively growing crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Includes many circular agricultural fields appearing tan/brown (fallow/senescent) and interstitial areas, all within an agricultural context."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Contains a distinct gridded pattern of streets and buildings (town), alongside some bright green circular croplands. Built-up is chosen as a prominent, distinct feature."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly circular agricultural fields appearing light tan/beige, indicative of fallow land, harvested fields, or bare soil within an agricultural system."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular pivot irrigation fields with dull green or olive green color, indicating vegetated croplands, possibly at a specific growth stage or crop type."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Includes many circular agricultural fields appearing very bright tan/beige, indicative of extremely dry fallow land or bare soil within an agricultural system."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular pivot irrigation fields with light to medium green color, indicating actively growing crops."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "Low",
+    "reasoning": "Predominantly covers circular agricultural fields in various states (green, fallow, very dry), but also includes parts of a built-up settlement."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Encompasses a significant, coherent portion of the main built-up settlement (town), despite also including numerous agricultural fields and bare areas."
+  }
+}

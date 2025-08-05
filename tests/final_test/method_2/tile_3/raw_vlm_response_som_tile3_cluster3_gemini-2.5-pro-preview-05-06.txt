@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment is dominated by a clear pattern of geometric, rectangular parcels of land with varying colors, indicating different crop types or growth stages.'}}

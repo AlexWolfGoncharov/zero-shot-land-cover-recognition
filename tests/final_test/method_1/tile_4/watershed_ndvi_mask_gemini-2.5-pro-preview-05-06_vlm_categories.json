@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular and rectangular field patterns, characteristic of agricultural cultivation, with varied vegetation stages including active growth and fallow/harvested states."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear circular irrigated field patterns with predominantly green, healthy vegetation, indicative of active cropping."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Includes circular agricultural fields appearing fallow/harvested (tan, brown) and interstitial bare/sparsely vegetated areas within an agricultural landscape. \"Cropland\" includes fallow land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Clear presence of road networks, building clusters, and artificial surfaces characteristic of settlements."
+  }
+}

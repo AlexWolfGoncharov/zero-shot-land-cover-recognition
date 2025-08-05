@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a dense, grid-like pattern of roads and structures, with heterogeneous textures and colors typical of buildings, rooftops, and paved surfaces.'}}

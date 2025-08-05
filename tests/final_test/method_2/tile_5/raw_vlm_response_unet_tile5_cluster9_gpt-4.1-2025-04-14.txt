@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment is uniformly dark, smooth, and contiguous with a large water body, lacking vegetation or built features.'}}

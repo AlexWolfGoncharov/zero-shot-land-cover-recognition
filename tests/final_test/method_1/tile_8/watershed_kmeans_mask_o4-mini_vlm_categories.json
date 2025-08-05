@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Pivot-irrigated circular fields with uniform vegetation."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bare soil circles share pivot irrigation layout."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular rectangular plots with cultivated soil textures."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large homogeneous water reservoir with reflective shoreline."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Dense grid of structures and roads indicates settlement."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear non-vegetated roads/infrastructure between fields."
+  }
+}

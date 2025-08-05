@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment is a large, dark, homogeneous area with smooth texture, consistent with open water, and is adjacent to land.'}}

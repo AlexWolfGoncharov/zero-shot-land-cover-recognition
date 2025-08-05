@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Uniform circular fields with center-pivot irrigation indicate active agricultural cropland.'}}

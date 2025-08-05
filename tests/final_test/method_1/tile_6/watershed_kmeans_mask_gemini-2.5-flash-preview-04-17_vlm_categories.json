@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape and uniform bright green color indicate actively cultivated fields under center-pivot irrigation."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape and brownish-pinkish color indicate cultivated fields that are bare soil, fallow, or recently harvested."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape with mixed green and brownish patches indicates variations within cultivated fields."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense structures, geometric shapes, and high texture indicate urban or rural development."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shape and uniform bright green color indicate actively cultivated fields."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shape and brownish-pinkish color indicate cultivated fields that are bare soil, fallow, or recently harvested."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and distinct boundary are characteristic of open water."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Linear or irregular areas with patchy or sparse vegetation and bare ground, often field boundaries or unmanaged strips."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Patchy areas with mixed vegetation and bare soil within field boundaries, indicating variations in crop cover."
+  },
+  "9": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Linear features with grey/light brown color and smooth texture, likely roads or access tracks."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular/irregular areas with uniform yellowish-green/brown color, suggesting grass or dry herbaceous vegetation."
+  }
+}

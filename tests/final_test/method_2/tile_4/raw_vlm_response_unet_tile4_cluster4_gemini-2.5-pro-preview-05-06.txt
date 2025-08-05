@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of small, irregular, high-albedo patches characteristic of building rooftops and paved surfaces within a small town or settlement.'}}

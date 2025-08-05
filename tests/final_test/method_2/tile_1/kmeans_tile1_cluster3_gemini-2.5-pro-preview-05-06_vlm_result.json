@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The segment consists of distinct geometric parcels (rectangular and circular) with textures and spectral signatures characteristic of actively cultivated agricultural fields."
+  }
+}

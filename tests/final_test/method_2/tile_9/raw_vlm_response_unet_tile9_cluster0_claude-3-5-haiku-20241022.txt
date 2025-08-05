@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, sandy/rocky texture with minimal vegetation, light beige/tan coloration indicating arid or desert-like terrain'}}

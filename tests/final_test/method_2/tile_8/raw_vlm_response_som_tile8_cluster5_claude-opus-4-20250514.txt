@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular center-pivot irrigation patterns typical of mechanized agriculture with harvested/fallow fields showing exposed soil.'}}

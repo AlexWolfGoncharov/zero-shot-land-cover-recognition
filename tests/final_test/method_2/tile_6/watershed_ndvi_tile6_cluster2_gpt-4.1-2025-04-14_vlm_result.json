@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains regular, geometric fields (circular and rectangular), consistent with irrigated and non-irrigated agriculture; typical of large-scale cropland."
+  }
+}

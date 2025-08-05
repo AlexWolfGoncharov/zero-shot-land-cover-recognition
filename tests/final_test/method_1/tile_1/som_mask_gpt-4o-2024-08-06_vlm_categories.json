@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular patterns and field boundaries indicate agriculture."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Dense structures and grid-like patterns suggest urban area."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green areas with irregular shapes indicate forest."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Sparse vegetation with uniform texture suggests grassland."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth areas with clear boundaries indicate water."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light areas with little vegetation suggest bare land."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Mixed textures and low vegetation suggest shrubland."
+  }
+}

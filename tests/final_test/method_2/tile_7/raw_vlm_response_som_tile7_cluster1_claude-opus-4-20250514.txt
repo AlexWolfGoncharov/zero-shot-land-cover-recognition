@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense residential pattern with organized streets, uniform building spacing, and systematic urban layout characteristic of suburban development.'}}

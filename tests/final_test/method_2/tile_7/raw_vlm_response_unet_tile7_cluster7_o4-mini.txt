@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular, uniform fields with varied hues and straight boundaries adjacent to irrigation suggest managed agriculture.'}}

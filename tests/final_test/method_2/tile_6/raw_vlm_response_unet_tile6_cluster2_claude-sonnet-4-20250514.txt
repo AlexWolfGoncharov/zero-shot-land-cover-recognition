@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Perfect circular irrigation patterns with green vegetation in agricultural landscape indicate active crop cultivation.'}}

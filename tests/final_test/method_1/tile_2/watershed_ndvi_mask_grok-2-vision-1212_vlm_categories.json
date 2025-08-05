@@ -1,0 +1,17 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular grid pattern and color variation typical of agricultural fields."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, irregular pattern typical of urban development."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, uniform color typical of water bodies."
+  }
+}

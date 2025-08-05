@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment is dominated by a large, geometric grid of rectangular fields, a clear anthropogenic pattern indicative of an active agricultural system.'}}

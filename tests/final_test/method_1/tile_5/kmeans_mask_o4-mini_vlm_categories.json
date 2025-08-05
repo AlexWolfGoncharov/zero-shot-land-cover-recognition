@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": null,
+    "reasoning": null
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": null,
+    "reasoning": null
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": null,
+    "reasoning": null
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": null,
+    "reasoning": null
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": null,
+    "reasoning": null
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": null,
+    "reasoning": null
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": null,
+    "reasoning": null
+  }
+}

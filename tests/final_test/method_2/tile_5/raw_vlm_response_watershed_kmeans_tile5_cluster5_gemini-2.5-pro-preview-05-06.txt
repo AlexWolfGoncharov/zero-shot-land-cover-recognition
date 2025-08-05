@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of large, rectangular parcels with a uniform, bright reflectance, characteristic of fallow or recently harvested fields within a clear agricultural landscape.'}}

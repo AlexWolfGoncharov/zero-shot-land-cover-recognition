@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'medium', 'reasoning': 'The segment contains a dense settlement with a clear grid pattern of streets and buildings, a primary indicator of the built-up class.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows dense, irregularly shaped structures with sharp edges and grid-like road patterns typical of urban areas.'}}

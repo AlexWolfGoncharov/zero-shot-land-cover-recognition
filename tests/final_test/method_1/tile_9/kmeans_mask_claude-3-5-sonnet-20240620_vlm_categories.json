@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light color, spotty pattern, and lack of visible vegetation strongly indicate bare or sparsely vegetated land, typical of arid or semi-arid environments."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown coloration with patchy distribution suggests sparse vegetation cover, likely consisting of shrubs and some herbaceous plants."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns of rectangles with varying colors strongly indicate agricultural fields, typical of cultivated cropland."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and smooth texture suggest dense vegetation, likely trees. Small, scattered nature of patches makes it less certain than continuous forest cover."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright, reflective nature and sharp contrast with surrounding areas suggest man-made structures. Limited extent makes it difficult to confirm with high confidence."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Lighter green color suggests vegetation, less dense than tree cover. Scattered nature and transition zone location hint at grassland, but difficult to distinguish definitively."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Thin, dark lines forming network pattern suggest roads or other linear infrastructure. Limited width makes it challenging to confirm with high confidence."
+  }
+}

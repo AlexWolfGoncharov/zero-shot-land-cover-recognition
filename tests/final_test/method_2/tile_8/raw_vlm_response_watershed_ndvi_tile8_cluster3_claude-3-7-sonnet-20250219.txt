@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Distinct light blue/cyan coloration with smooth texture and clear boundaries, contrasting with surrounding agricultural fields.'}}

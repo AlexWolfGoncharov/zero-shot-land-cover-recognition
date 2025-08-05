@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Circular patterns and uniform texture indicate agricultural land use.'}}

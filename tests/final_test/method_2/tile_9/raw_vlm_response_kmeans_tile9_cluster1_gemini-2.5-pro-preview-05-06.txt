@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment exhibits high reflectance with a sandy color and a complex, dune-like morphology, indicating predominantly bare ground with minimal vegetative cover.'}}

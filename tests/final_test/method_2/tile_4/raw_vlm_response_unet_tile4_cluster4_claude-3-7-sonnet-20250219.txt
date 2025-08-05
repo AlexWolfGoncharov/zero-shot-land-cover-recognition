@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear feature with light coloration between agricultural fields, consistent with road infrastructure in farming areas.'}}

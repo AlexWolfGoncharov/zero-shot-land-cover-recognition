@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear, bright white feature characteristic of a major road or highway, contrasting strongly with surroundings."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large geometric shapes with varying green hues and clear field boundaries typical of agricultural land use."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes with textured appearance and darker green hues suggest natural vegetation, possibly small forested areas."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes with reddish-brown hues indicate managed land, likely bare soil or recently harvested fields in cropland cycle."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Mix of small irregular shapes and structured patterns with light coloration suggests urban or suburban area."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Low",
+    "reasoning": "Small, scattered patches could indicate exposed soil or sparse vegetation, but resolution limits confidence."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Medium-sized irregular shapes with mottled texture, often between croplands, suggest transitional vegetation or shrubland."
+  }
+}

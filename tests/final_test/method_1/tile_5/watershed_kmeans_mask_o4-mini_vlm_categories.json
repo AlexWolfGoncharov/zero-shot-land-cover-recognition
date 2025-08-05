@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot geometry and uniform crop canopy."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct field boundaries and vegetation rows."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Homogeneous soil color, lack of green cover suggests fallow."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, structureless expanse matches open water."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular street grid and rooftop signatures."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Sinuous, dark channels indicative of rivers."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Waterlogged patches and marsh-like appearance."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Open canopy grassy texture with scattered tussocks."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Unvegetated road surfaces or trails with minimal cover."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Field geometry and adjacency to other crops."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Patchy woody vegetation and shadowing suggest shrubs."
+  }
+}

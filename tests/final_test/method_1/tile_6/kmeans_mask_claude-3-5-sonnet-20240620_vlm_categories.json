@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns indicate center pivot irrigation, a common agricultural practice. Bright green suggests actively growing crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular shape suggests human-managed land. Lighter color indicates possible harvested fields or fallow cropland. Adjacent to other agricultural areas."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green suggests dense vegetation. Irregular shapes and uniform texture indicate natural growth rather than managed crops. Could be small forested areas."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectance and geometric shapes strongly suggest man-made structures. Likely buildings or other urban infrastructure within agricultural landscape."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Combination of circular (center pivot) and rectangular field shapes. Green color indicates growing vegetation. Clear agricultural patterns consistent with cropland."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Lighter green suggests less dense vegetation than forest. Irregular shapes and variable texture indicate natural rather than cultivated land. Could be grassland or shrubland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown color suggests exposed soil. Location between fields indicates uncultivated land. Lack of green vegetation points to bare or sparsely vegetated areas."
+  }
+}

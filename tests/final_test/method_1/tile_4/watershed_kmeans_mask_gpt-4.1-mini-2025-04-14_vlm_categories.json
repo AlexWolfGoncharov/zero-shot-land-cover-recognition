@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation fields with uniform green vegetation indicate active cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular fields with mixed green and brown tones typical of cropland at different stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed circular and rectangular agricultural fields with some bare patches."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular plots with patchy vegetation and bare soil typical of cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dense green circular fields with irrigation patterns indicate cropland."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Visible buildings, roads, and infrastructure indicate built-up area."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed agricultural fields with some bare soil and sparse vegetation."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large rectangular fields with uniform green vegetation typical of cropland."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Dominance of bare soil and sparse vegetation patches."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dense green circular fields typical of irrigated cropland."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Presence of buildings and roads indicates built-up area."
+  }
+}

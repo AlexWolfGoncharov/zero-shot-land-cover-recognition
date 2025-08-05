@@ -1,0 +1,52 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Predominantly light colors suggest sparse vegetation or dry soil."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "Uniform green suggests dense grass cover."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green with texture suggests tree cover."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors and texture suggest shrubland."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense dark green suggests tree cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Grid pattern typical of agricultural fields."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green with variation suggests tree cover."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Structured pattern suggests human activity."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Predominantly brown indicates sparse vegetation."
+  },
+  "9": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors suggest grassland with some variation."
+  }
+}

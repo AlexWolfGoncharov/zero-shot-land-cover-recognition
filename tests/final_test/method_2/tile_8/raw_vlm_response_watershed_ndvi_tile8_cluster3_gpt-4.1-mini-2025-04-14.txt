@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment shows a large, irregularly shaped water body with smooth texture and reflective surface typical of lakes or reservoirs.'}}

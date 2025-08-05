@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment is a large, distinct rectangular plot with a uniform, light-brown texture, situated amidst other agricultural fields, including center-pivot irrigation circles.'}}

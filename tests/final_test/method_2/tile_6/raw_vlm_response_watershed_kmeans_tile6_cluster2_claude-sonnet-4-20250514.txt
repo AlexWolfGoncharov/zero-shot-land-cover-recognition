@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dark green patches with uniform texture scattered within agricultural landscape, typical of preserved tree groves.'}}

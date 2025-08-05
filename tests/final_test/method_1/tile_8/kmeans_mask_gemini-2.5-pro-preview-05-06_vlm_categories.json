@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark color, smooth texture, and characteristic shape strongly suggest an open water body like a lake or reservoir."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes and context within an agricultural area indicate actively managed cropland, including vegetated and fallow/tilled stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes are unequivocal evidence of center-pivot irrigation systems. Green color indicates active crop growth."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Agricultural patterns (circles, rectangles, tilling) are evident. Varied colors suggest different crop stages or fallow land, consistent with cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Clear agricultural shapes (circles, rectangles) indicate cropland. Lighter colors suggest different crop types, harvested fields, or fallow land."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Distinct circular agricultural patterns indicate cropland. Very light color suggests fallow, harvested, or recently tilled fields (part of cropland)."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Prominent area shows settlement features (streets, buildings). Linear bright features are consistent with roads, fitting the 'Built-up' category."
+  }
+}

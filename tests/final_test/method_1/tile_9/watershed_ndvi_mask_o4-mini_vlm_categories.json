@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Rectangular dark basins and canals indicate anthropogenic water reservoirs."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Isolated woody patches with shadows resemble low shrubs."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, irrigated field geometry matches agricultural cropland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Dominant sand ripples with minimal vegetation indicate bare dunes."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light-colored geometric patches with smooth texture in agricultural context, indicating fallow/prepared fields with minimal vegetation.'}}

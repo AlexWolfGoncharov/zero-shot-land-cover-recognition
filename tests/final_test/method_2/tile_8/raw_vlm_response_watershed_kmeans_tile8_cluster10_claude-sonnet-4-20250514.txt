@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular center-pivot irrigation patterns with bare soil texture indicating active agricultural cultivation and management.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of distinct rectangular parcels with uniform texture and high vegetation vigor (bright red), characteristic of actively cultivated agricultural fields.'}}

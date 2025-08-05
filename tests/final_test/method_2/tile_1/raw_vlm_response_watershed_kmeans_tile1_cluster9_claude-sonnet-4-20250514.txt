@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear paved road infrastructure with smooth uniform surface cutting through agricultural landscape'}}

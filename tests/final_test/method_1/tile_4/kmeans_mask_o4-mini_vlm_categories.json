@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban street/building grid, high contrast and heterogeneity."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigated pattern indicates row crop agriculture."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irrigation circles but soil exposed; minimal live vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Agricultural field geometry with seasonal crop variation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Uniform herbaceous texture rather than woody canopy."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed soil/gravel in road corridors, minimal structures."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Likely a managed lawn or field in urban context, not large‐scale crop."
+  }
+}

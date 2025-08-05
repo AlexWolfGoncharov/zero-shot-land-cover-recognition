@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniformity strongly indicate agricultural practices typical of cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The mixed textures suggest agricultural land, but the presence of grassland is also notable."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense, dark texture is characteristic of tree cover, especially adjacent to agricultural land."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The open texture and color suggest grassland, though some areas may be sparse."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The uniformity and distinct shapes are indicative of urban infrastructure."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mixed textures and irregular shapes suggest a transition zone typical of shrubland."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The smooth texture and dark color are characteristic of water bodies."
+  },
+  "7": {
+    "category": "Bare/Sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The light texture and irregular shapes suggest areas of sparse vegetation."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "The varied textures and moisture indicators suggest a wetland environment."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense texture and irregular shapes are characteristic of tree cover."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The mixed textures suggest a grassland area, though shrubland is also present."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear intersecting features with pale color and smooth texture characteristic of paved roads amid agricultural fields.'}}

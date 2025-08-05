@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The segment consists of geometrically defined fields (rectangular and circular) within an agricultural landscape, indicating they are fallow or recently harvested cropland."
+  }
+}

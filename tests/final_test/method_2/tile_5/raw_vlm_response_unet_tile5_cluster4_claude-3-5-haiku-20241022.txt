@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field shape, uniform surface texture, and context of surrounding agricultural landscape suggest cultivated land.'}}

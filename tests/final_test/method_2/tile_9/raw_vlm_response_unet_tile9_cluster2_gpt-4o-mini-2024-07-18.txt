@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'The irregular shape and texture suggest a mix of vegetation types, typical of shrubland or grassland.'}}

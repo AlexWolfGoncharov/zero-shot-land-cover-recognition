@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and green texture strongly indicate cultivated agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The presence of mixed colors suggests agricultural activity, but the rough texture indicates possible fallow land."
+  },
+  "2": {
+    "category": "Bare/Sparse Vegetation",
+    "confidence": "High",
+    "reasoning": "The dry texture and brown color strongly indicate areas with little to no vegetation."
+  },
+  "3": {
+    "category": "Tree Cover",
+    "confidence": "Medium",
+    "reasoning": "The density and green color suggest tree cover, but the adjacency to agricultural areas creates some uncertainty."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, uniform area with smooth texture and natural boundaries, consistent with large water body.'}}

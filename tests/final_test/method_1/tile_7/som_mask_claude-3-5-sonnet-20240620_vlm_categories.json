@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns and varying colors indicate different crops or fields at various growth stages, typical of agricultural land use."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green color, smooth texture, and irregular shapes are characteristic of forested areas or dense tree cover."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Grid-like pattern of small rectangles strongly suggests an urban or suburban area with buildings and streets."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and sinuous shape are typical of rivers or streams. The abrupt change in adjacent land cover supports this interpretation."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color suggests exposed soil, possibly fallow fields or areas with little vegetation. Medium confidence due to potential confusion with very light crops."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Varied green tones suggest grass or low vegetation. Less structured than cropland, but not as dense as tree cover."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Extremely bright appearance suggests bare soil, possibly recently harvested or plowed fields. Clear boundaries indicate human activity, likely part of agricultural cycles."
+  }
+}

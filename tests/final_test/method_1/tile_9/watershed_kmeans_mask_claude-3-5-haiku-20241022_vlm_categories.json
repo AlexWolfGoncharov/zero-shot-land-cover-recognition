@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Irregular surface texture, light coloration, and absence of vegetation suggest minimal ground cover"
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mottled green-brown color suggests sparse, low-height vegetation"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform, geometrically arranged green patches strongly indicate cultivated agricultural land"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, rich green color and complex texture suggest forest or woodland vegetation"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Structured layout and uniform color suggest human-modified terrain"
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Perfectly geometric green plots with uniform color indicate intensive agricultural cultivation"
+  }
+}

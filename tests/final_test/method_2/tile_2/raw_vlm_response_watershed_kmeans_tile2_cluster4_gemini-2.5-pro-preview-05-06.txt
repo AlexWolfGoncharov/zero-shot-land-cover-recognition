@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment is a mosaic of regular, geometric parcels with varied spectral signatures, a classic pattern for actively cultivated agricultural fields.'}}

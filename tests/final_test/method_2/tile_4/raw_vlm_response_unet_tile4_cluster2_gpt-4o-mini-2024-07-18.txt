@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The uniform texture and circular patterns are characteristic of irrigated agricultural fields.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dark green color, homogeneous texture, and continuous canopy indicate dense forest vegetation distinct from surrounding agricultural areas.'}}

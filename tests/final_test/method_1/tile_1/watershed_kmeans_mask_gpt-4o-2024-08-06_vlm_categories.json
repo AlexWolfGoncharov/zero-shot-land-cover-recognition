@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The pattern shows regular grid-like shapes typical of agricultural fields, with distinct textures and colors indicating cultivated land."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The region exhibits large, uniform blue areas consistent with water bodies, with minimal vegetation or other features."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Moderate",
+    "reasoning": "The area shows signs of human activity with dense, irregular patterns and structures, suggesting urban or developed land."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Moderate",
+    "reasoning": "The region displays dense, textured green areas typical of forested or tree-covered regions."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns and patchy textures suggest agricultural fields, likely irrigated or specialized crop areas."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Moderate",
+    "reasoning": "The area shows mixed textures with some vegetation and open patches, indicative of shrubland or sparse vegetation."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Moderate",
+    "reasoning": "The region appears as open, uniform green patches with minimal structural features, typical of grasslands."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The region shows large areas with little to no vegetation, possibly bare soil or sparse cover."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "Low",
+    "reasoning": "Limited visual cues suggest wetland features, but evidence is not definitive without more detailed analysis."
+  },
+  "9": {
+    "category": "Moss and lichen",
+    "confidence": "Low",
+    "reasoning": "No clear visual indicators are present; this category is less likely based on the visible features."
+  },
+  "10": {
+    "category": "Snow and ice",
+    "confidence": "Low",
+    "reasoning": "No visible snow or ice features are apparent in the image."
+  }
+}

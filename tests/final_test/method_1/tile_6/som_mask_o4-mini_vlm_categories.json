@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dense, uniform green circular pivot fields typical of irrigated crops."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Predominantly bare soil with minimal vegetation cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Agricultural field patterns with varied growth stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Urban layout with buildings and roads."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Early-stage crops in pivot-irrigated circles."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Looks like windbreak or shelterbelt trees along field edges."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Predominantly exposed soil with scarce vegetation."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment shows a dense, radial pattern of structures, roads, and small parcels, characteristic of a human settlement, distinct from surrounding agricultural fields.'}}

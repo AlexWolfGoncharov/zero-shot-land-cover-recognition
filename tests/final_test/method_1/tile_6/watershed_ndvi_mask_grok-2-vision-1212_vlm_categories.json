@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy green suggests grass cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular patterns typical of irrigated cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Uniform green in grid pattern suggests farming."
+  },
+  "3": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "No cluster 3 in provided legend."
+  },
+  "4": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "No cluster 4 in provided legend."
+  },
+  "5": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "No cluster 5 in provided legend."
+  }
+}

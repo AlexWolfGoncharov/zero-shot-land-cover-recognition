@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue/black smooth surfaces with natural boundaries characteristic of permanent water bodies in wetland environment.'}}

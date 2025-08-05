@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular geometric patterns typical of center-pivot irrigation, uniform texture, and regular field boundaries suggest agricultural cultivation'}}

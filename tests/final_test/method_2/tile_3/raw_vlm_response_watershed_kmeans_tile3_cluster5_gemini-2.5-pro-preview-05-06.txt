@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment displays a highly structured, geometric grid pattern of individual plots, which is a classic indicator of planned agricultural land use.'}}

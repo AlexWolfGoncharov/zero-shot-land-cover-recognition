@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and geometric field shapes strongly indicate active cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed crop growth and fallow fields suggest cropland, but some bare soil patches reduce confidence."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Clear urban structures and road patterns confirm built-up land cover."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Presence of bare soil and sparse vegetation patches suggests bare/sparse vegetation rather than active cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and uniform dense vegetation indicate cropland rather than natural tree cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation and field patterns suggest cropland, but irregularity lowers confidence."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy vegetation with medium density suggests shrubland rather than grassland or bare soil."
+  }
+}

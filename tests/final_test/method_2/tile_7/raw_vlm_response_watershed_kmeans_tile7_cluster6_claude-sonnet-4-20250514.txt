@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Multiple small agricultural fields with geometric boundaries and varied crop spectral signatures indicating active cultivation.'}}

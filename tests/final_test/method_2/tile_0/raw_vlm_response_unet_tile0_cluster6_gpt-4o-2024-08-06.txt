@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular patterns and distinct field boundaries indicate agricultural activity.'}}

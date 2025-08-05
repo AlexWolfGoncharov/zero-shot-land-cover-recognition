@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric fields with center-pivot patterns are characteristic of cropland."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy, and less vegetated areas suggest sparse vegetation or fallow land."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid pattern, high reflectance, and adjacency to fields indicate urban or settlement areas."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field shapes and uniform crop vigor are typical of intensively managed cropland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Exposed soil and minimal vegetation indicate bare or sparsely vegetated areas."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, circular fields with crop residue or early growth are typical of cropland."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, rough patches with mixed green and brown suggest unmanaged grassland or field margins."
+  }
+}

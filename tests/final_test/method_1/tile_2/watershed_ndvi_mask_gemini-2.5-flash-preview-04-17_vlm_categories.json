@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area with irregular boundary, consistent with a river or large body of water in the RGB image."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "While containing significant built-up areas along the coast, the majority of the area within these segments appears to be agricultural fields."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Predominantly consists of agricultural fields with characteristic shapes and colors. Some areas may represent bare soil."
+  },
+  "3": {
+    "category": "N/A",
+    "confidence": "N/A",
+    "reasoning": "Cluster region not found in the provided segmentation mask."
+  }
+}

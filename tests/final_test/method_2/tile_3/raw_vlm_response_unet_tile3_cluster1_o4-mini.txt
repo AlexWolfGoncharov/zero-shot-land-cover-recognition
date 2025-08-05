@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct geometric grid of tilled plots with alternating bare soil and vegetation indicates agricultural fields.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Uniform color and texture indicate sparse vegetation.'}}

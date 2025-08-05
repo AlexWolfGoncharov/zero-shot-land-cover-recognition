@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment displays geometric field patterns, homogeneous texture, and color variation typical of intensively managed agricultural cropland."
+  }
+}

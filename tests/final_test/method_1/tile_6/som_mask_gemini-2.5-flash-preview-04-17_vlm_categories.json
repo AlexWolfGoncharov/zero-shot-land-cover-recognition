@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green/brown color and location within active agricultural fields indicate dense vegetation cover, consistent with a growing crop."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright brown/yellow color and uniform texture within cultivated fields are indicative of bare soil or harvested areas, part of the agricultural cycle."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Patchy green and brown appearance within cultivated fields indicates varied vegetation cover or mixed soil/vegetation, characteristic of cropland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white/light gray color, distinct geometric shapes, and location between fields are characteristic features of built-up areas and infrastructure."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Vibrant green color and uniform texture within cultivated fields indicate healthy, actively growing vegetation, consistent with cropland."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Green color within cultivated fields indicates vegetation cover, consistent with cropland, potentially representing a different crop or stage than other green clusters."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Mixed green and brown appearance within cultivated fields indicates varied vegetation cover or mixed soil/vegetation, characteristic of cropland."
+  }
+}

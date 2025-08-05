@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinctive center-pivot irrigation circles with varied crop stages indicate active agricultural use'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a high-frequency texture with grid-like patterns of roads and bright, angular features characteristic of buildings and other artificial surfaces.'}}

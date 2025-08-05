@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Distinct geometric pattern of structures with roads, high reflectance, and dense settlement organization typical of urban/suburban development.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Patchy texture with sparse vegetation, not dense enough for tree cover or cropland.'}}

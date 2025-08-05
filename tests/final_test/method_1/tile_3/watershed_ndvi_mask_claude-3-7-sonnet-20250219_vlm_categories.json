@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark black/blue coloration, smooth texture, and location within riverine system strongly indicate deep water bodies."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns, uniform bright green coloration, clear boundaries between parcels, and grid organization indicate managed agricultural land."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Mix of exposed soil with sparse vegetation patches, irregular distribution, and transitional position between other land cover types."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green-brown signature indicating woody vegetation, natural patterns rather than geometric organization, and moderate vegetation density."
+  }
+}

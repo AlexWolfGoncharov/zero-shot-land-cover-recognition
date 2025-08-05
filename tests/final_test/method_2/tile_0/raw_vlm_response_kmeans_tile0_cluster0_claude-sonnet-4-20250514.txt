@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with clear boundaries, mixed crop coloration, and organized agricultural landscape structure.'}}

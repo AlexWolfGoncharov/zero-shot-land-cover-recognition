@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Mottled texture with sparse vegetation patches and exposed substrate, lacking dense canopy or regular agricultural patterns.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform geometric fields with circular irrigation patterns typical of intensive agricultural cultivation'}}

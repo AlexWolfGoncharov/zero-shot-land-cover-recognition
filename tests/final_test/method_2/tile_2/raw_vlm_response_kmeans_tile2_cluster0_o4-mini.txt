@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense, rectilinear building blocks and road network indicate urban area.'}}

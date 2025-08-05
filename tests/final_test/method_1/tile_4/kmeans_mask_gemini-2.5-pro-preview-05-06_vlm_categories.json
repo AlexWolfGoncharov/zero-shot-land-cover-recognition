@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes are indicative of center-pivot irrigation systems. Dark colors suggest dense, mature vegetation or specific crop types."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shapes indicate center-pivot irrigation. Bright green colors suggest healthy, actively growing crops."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly circular agricultural patterns. Varied colors (duller green, yellowish, light brown) indicate different crop stages, harvested fields, or fallow agricultural land."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric agricultural plots (circles, rectangles). Light brown/tan colors suggest harvested fields, fallow land, or prepared soil within an active agricultural system."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Mix of circular and prominent rectangular agricultural plots. Colors (greens, browns, tans) indicate various crop types or stages within cultivated land."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes in interstitial areas between fields. Colors (light brown, tan, grayish) and texture suggest exposed soil or sparse, dry vegetation."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Visible structures like buildings (bright rooftops), road networks, and gridded patterns characteristic of settlements or industrial areas."
+  }
+}

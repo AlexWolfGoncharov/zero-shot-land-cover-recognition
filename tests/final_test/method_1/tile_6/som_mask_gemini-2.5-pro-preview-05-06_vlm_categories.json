@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes, very dark green color, and smooth texture strongly indicate actively growing, dense crops under center-pivot irrigation."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular agricultural patterns, dark green color, and smooth texture indicate actively cultivated land with healthy vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly circular agricultural shapes with mixed green/brown colors, indicating cultivated land, possibly with maturing or less dense crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular agricultural fields with uniform light brown/tan colors, indicating fallow, tilled, or harvested land within a crop rotation system."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Very bright circular fields indicating extremely bare/dry fallow land. Includes some brighter interstitial areas that might be mixed."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Small, bright white/light gray features, often clustered or linear, characteristic of buildings, roads, and other man-made impervious surfaces."
+  }
+}

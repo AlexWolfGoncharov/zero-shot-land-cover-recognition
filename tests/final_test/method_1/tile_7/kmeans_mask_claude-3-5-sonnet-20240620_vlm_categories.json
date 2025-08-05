@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, grid-like pattern of small structures characteristic of urban development, indicating a residential area or town."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Irregular shapes, varying shades of green, and patchwork appearance typical of agricultural fields in different stages of growth or with different crops."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and meandering shape strongly suggest this is a river or stream running through the area."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Regular, geometric shapes and uniform coloration suggest cultivated fields, possibly harvested or fallow. Light color could indicate bare soil or dry vegetation."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Circular shape and dark green color suggest small patches of dense vegetation, likely clusters of trees or small forested areas."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Mixed green tones and irregular shapes suggest natural vegetation, possibly grassland or mix of grass and shrubs. Could also be less managed cropland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light color and sharp edges suggest areas with little to no vegetation, possibly cleared land or exposed soil. Could also be newly planted fields."
+  }
+}

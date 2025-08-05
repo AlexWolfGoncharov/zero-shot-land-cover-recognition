@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light-toned agricultural fields with distinct circular and rectangular patterns showing early growth or harvested state."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Deep green circular and rectangular fields indicating actively growing crops under center-pivot irrigation systems."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium-green agricultural fields with geometric patterns showing intermediate crop growth stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Small, bright white areas representing buildings and infrastructure associated with agricultural activities."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Tan/pinkish-brown fields in geometric patterns indicating fallow or recently harvested agricultural areas."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light green fields with clear geometric boundaries showing early-stage crops or different crop varieties."
+  }
+}

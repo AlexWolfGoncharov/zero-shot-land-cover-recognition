@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright, geometric shapes and linear features indicate buildings, roads, and infrastructure typical of built-up areas."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Lighter color and patchy appearance within fields suggest bare soil, harvested areas, or sparse vegetation cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform medium green vegetation within geometric agricultural fields is characteristic of actively growing crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform darker green vegetation within geometric agricultural fields indicates actively growing crops (different type/stage)."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Distinct, dark, smooth areas consistent with ponds or reservoirs are the most prominent feature."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Includes distinct linear features likely representing roads or infrastructure boundaries, though some areas are dark soil/vegetation."
+  }
+}

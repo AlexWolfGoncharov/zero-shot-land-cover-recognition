@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'medium', 'reasoning': 'The segment shows characteristics of grassland, but proximity to cropland creates some uncertainty.'}}

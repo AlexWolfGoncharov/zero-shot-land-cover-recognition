@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular geometric pattern with light-colored structures arranged in grid formations, distinct from surrounding agricultural fields.'}}

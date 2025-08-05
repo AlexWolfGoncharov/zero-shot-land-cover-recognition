@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field boundaries with mixed vegetation and bare soil patterns characteristic of managed agricultural land.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, organized field patterns and patchwork of vegetation indicate intensive agriculture."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, less managed green patches suggest natural or semi-natural grassland."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark, rounded patches surrounded by cropland are typical of ponds or small lakes."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear, winding dark feature matches a river or canal."
+  }
+}

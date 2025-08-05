@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment is dominated by a mosaic of geometric, rectangular parcels with varying colors, indicating active cultivation, different crop types, and growth/harvest stages.'}}

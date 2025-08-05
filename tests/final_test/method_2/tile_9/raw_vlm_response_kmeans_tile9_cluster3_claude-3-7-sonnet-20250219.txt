@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Area shows predominantly sandy/soil surface with minimal vegetation, characteristic patchy texture of sparse desert/arid ecosystem.'}}

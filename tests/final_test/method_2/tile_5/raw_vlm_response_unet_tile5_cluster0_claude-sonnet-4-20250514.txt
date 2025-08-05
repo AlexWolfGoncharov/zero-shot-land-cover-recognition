@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, uniform surface with smooth texture characteristic of deep water, clearly distinct from surrounding agricultural land.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular circular and rectangular plots indicate center-pivot irrigation and intensive agriculture, characteristic of cropland.'}}

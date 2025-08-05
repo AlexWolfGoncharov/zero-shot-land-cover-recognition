@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniform green texture strongly indicate cultivated agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The mixed textures and shades suggest agricultural activity, but the variability makes it less certain."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense dark texture and uniformity suggest a significant presence of trees."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The light color and rough texture strongly suggest areas with little to no vegetation."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The smooth texture and dark coloration suggest water, but adjacent land complicates the classification."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The bright color and linear patterns strongly indicate urban development."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mixed textures and colors suggest a transitional area, likely shrubland."
+  }
+}

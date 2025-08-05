@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric rectangular structure with uniform surface and sharp boundaries characteristic of buildings or infrastructure.'}}

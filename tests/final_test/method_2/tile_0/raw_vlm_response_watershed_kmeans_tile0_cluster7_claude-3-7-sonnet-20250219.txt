@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Regular geometric field patterns with varying shades of green and brown, showing clear evidence of cultivation and human management.'}}

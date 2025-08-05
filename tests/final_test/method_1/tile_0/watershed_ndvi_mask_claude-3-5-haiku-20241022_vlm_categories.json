@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green color, geometric field patterns, typical of cultivated fields"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Irregular field patterns suggest different crop stages or types"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation texture suggests grassland or transitional agricultural areas"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, uniform dark green color suggesting continuous tree or forest cover"
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Rectilinear dense structures and grids with roads indicate urban infrastructure consistent with built-up land.'}}

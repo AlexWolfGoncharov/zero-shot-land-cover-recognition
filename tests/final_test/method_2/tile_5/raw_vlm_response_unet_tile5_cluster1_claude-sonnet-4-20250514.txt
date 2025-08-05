@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark uniform surface with smooth texture and clear boundaries typical of permanent water bodies.'}}

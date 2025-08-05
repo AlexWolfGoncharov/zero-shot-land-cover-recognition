@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, varied crop stages, irrigation circles, and agricultural landscape context clearly indicate managed cropland.'}}

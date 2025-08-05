@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'medium', 'reasoning': 'Interlaced water channels with emergent marsh vegetation on a floodplain.'}}

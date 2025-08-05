@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Irregular, dark, smooth area with no vegetation; typical of lakes or ponds in agricultural landscapes.'}}

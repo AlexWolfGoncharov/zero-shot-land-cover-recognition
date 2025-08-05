@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, uniform area with surface texture characteristic of a large body of water."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Scattered small patches and linear features of dense, dark green vegetation; likely shrubland or mixed small vegetation types."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regular, blocky areas with varying shades of green and brown, uniform texture, typical of agricultural fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regular, blocky areas with varying shades of green and brown, uniform texture, typical of agricultural fields."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regular, blocky areas with varying shades of green and brown, uniform texture, typical of agricultural fields."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regular, blocky areas with varying shades of green and brown, uniform texture, typical of agricultural fields."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense concentration of bright features (buildings, roads) with heterogeneous texture and interspersed vegetation, located along the coast."
+  }
+}

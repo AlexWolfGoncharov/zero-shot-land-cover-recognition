@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform blue-black coloration, smooth texture, large continuous area characteristic of permanent water body.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Sandy terrain with scattered dark vegetation patches typical of arid/semi-arid environments with <20% vegetation cover'}}

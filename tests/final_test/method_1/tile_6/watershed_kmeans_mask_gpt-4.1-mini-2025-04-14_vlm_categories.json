@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation patterns and uniform green vegetation strongly indicate active cropland."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Dominant bare soil texture and absence of green vegetation suggest bare or sparsely vegetated land."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Patchwork of small agricultural plots with varying vegetation indicates cropland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation patterns and uniform dense vegetation are typical of cropland."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes and lighter vegetation suggest grassland, but some cropland fallow cannot be excluded."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Presence of buildings, roads, and infrastructure confirms built-up land."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation patterns and vegetation indicate cropland, though less dense."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed vegetation and bare soil suggest cropland with fallow or harvested fields."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Dominant bare soil texture with minimal vegetation."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation and vegetation patterns typical of cropland."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed vegetation and bare soil suggest cropland with some fallow areas."
+  }
+}

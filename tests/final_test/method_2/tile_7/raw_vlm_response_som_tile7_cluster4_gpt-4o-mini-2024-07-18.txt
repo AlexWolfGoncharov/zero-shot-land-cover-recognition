@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense green vegetation and uniform texture strongly indicate tree cover.'}}

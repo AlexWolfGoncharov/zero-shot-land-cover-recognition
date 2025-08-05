@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone with clear banks indicates deep, open water."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Sinuous water–vegetation patterns typical of marshlands."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct rectangular agricultural fields and fallow rotation."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Even canopy suggests managed forestry rather than natural forest."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Dominant soil exposure with minimal vegetation cover."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Rectilinear shapes and bright roofs indicate urban infrastructure."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Patchy woody vegetation typical of shrubland environments."
+  }
+}

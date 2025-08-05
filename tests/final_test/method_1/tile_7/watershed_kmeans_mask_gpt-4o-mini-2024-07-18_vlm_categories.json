@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense green texture and circular shape suggest a significant presence of trees."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mixed texture and lighter green suggest a shrubland area rather than dense tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized rectangular shapes and uniformity indicate agricultural fields typical of cropland."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The sparse texture and darker colors suggest areas with limited vegetation."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "The texture and color suggest a wetland area, though it could also be grassland."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The presence of visible water bodies indicates this area is likely a permanent water body."
+  },
+  "6": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The light color and lack of vegetation suggest a barren area."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The organized shapes and mixed colors suggest agricultural fields."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense green texture suggests a significant presence of trees."
+  },
+  "9": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The darker tones and irregular shapes suggest a shrubland area."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized shapes and mixed colors suggest agricultural fields typical of cropland."
+  }
+}

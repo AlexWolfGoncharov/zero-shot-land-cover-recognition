@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense green texture and irregular shapes indicate a significant presence of trees."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Structured boundaries and uniform texture suggest cultivated land."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors and less dense texture suggest shrubland characteristics."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and smooth texture indicate minimal vegetation."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dark green and complex texture suggest wetland characteristics."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Presence of built structures and agricultural fields indicates urban influence."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Darker color and chaotic texture suggest dense tree cover."
+  },
+  "7": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color suggests minimal vegetation, likely bare soil."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Structured appearance and mixed colors indicate cultivated land."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dark texture and chaotic appearance indicate dense tree cover."
+  },
+  "10": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and smooth texture suggest minimal vegetation."
+  }
+}

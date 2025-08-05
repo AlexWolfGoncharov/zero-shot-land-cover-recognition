@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectilinear parcel boundaries and seasonal vegetation consistent with agricultural fields.'}}

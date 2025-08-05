@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes (circles, rectangles) are characteristic of agricultural fields. Dark color suggests fallow land or a specific crop stage."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes within an agricultural landscape. Color suggests active vegetation or specific soil/crop conditions typical of cropland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Heterogeneous texture, presence of structures and road-like patterns in the top-left area are characteristic of built-up environments."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Predominantly large agricultural plots with varied coloration (reddish, greenish), indicative of different crops or stages. Includes a canal."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly bright green and light brown agricultural plots with regular shapes, indicating active cultivation or recently tilled land."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Very bright, uniform rectangular plots in agricultural areas, likely representing fallow land or recently tilled bare soil."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, heterogeneous pattern of bright structures and surfaces in the top-left, characteristic of a residential or urban area."
+  }
+}

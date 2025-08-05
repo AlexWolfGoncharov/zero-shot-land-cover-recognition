@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric field patterns, varying colors indicating different crops or growth stages, characteristic of agricultural land use."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color and irregular shapes suggest natural vegetation. Could be small forested areas or orchards interspersed with croplands."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Light color and location between fields suggest uncultivated areas. Could be shrubland, but might also be bare soil or sparse vegetation."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Light color, smooth texture, and linear patterns strongly suggest roads or other built infrastructure connecting and separating agricultural areas."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and linear shape strongly indicate a river or canal running through the agricultural landscape."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape indicates center-pivot irrigation systems, a common agricultural practice. Varying green shades suggest different crops or growth stages."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Location and small size suggest these might be individual buildings or small settlements within the agricultural landscape. Could also be bare patches."
+  }
+}

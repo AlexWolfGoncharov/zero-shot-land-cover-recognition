@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense grid pattern, bright rooftops, and road network indicate urban development typical of built-up areas.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows regular grid patterns typical of agricultural fields with varying vegetation stages, consistent with cropland.'}}

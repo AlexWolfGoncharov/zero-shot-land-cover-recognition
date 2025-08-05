@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Brown/tan field within agricultural landscape, consistent with fallow or recently harvested cropland showing typical agricultural land use patterns.'}}

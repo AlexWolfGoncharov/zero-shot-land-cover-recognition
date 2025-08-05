@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a large, homogeneous, dark area with a smooth texture and a clear coastline, indicating a sea or large lake.'}}

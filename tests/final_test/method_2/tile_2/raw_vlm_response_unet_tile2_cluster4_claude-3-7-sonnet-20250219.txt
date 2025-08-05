@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, homogeneous appearance with smooth texture, clear contrast with adjacent land, and characteristic dark blue/black coloration typical of deep water.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light, patchy, irregular texture with minimal vegetation typical of sparsely vegetated or bare ground."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and mixed crop colors indicate cultivated cropland."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Dark green, irregular patches suggest dense shrubs rather than continuous tree canopy or open grassland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Rectilinear, dark features and reflective surfaces consistent with built infrastructure or water management facilities."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and lack of structure suggest exposed soil or sand, not water or buildings."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Large, dark rectangles likely represent fallow or recently plowed fields typical of cropland."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "High reflectance and geometric shapes suggest water surfaces, possibly reservoirs or ponds."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segments are geometric (circular, rectangular) fields, some appearing fallow or harvested (brown/tan), characteristic of an active agricultural system with crop rotation."
+  }
+}

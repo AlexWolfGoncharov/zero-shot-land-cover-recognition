@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular agricultural field geometry and crop-like textures."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Tall, contiguous canopy along watercourse indicates riparian trees."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Paved road appearance and connectivity to settlement."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Dominance of exposed soil and minimal green cover."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clear water channel with typical spectral darkness."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Urban morphology and dense man-made features."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "Low",
+    "reasoning": "Proximity to water and low-stature vegetation suggests wetland."
+  }
+}

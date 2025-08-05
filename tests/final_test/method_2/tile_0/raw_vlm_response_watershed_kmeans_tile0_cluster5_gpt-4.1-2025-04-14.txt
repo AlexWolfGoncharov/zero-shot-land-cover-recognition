@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular, rectangular plots with homogeneous texture and color variation indicate intensively managed agricultural fields.'}}

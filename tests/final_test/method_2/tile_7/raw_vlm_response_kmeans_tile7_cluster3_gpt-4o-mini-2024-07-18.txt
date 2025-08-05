@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Irregular shape and texture, adjacent to agricultural fields indicate cropland.'}}

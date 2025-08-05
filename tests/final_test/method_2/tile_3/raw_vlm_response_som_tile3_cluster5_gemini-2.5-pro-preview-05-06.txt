@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment corresponds to high-albedo surfaces with distinct geometric shapes, including a gridded street pattern and linear roads, characteristic of buildings and infrastructure.'}}

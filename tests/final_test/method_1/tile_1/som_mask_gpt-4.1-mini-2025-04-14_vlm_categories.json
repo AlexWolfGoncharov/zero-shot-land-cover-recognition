@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric fields and irrigation circles indicate active agricultural cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense, irregular dark green patches suggest tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular fields with mixed vegetation and bare soil typical of cropland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Linear dark feature adjacent to fields is a water canal."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright irregular patches near urban areas indicate built-up surfaces."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large circular green fields with irrigation patterns indicate cropland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Small patches with mixed bare soil and sparse vegetation."
+  }
+}

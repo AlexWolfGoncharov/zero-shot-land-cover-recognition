@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular center-pivot irrigation fields with varying cultivation stages and clear field boundaries indicate managed agricultural land.'}}

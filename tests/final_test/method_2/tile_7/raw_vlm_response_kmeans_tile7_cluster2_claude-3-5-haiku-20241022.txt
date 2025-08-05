@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform rectangular field patterns, consistent green tone, and organized agricultural landscape characteristics strongly indicate cultivated agricultural land.'}}

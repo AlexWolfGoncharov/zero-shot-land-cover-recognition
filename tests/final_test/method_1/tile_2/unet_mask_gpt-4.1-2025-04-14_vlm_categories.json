@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large, homogeneous, dark area with natural boundaries is characteristic of a water body."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and varied crop colors indicate intensive agriculture."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, bright, irregular pattern with grid-like features suggests urban or built-up area."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, intermediate texture and color suggest unmanaged grassy areas or pastures."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green, rough-textured patches are typical of tree cover or small forested areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and sparse texture indicate exposed soil or very sparse vegetation."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Bright green, fine texture, and field-like appearance suggest cultivated land, though isolation reduces confidence."
+  }
+}

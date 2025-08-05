@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green, uniform texture within rectangular plots, indicative of cultivated fields or plantations."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Predominantly light brown with sparse green patches, indicating bare soil or dry, sparse vegetation cover."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth area forming a river channel and connected bodies, characteristic of permanent water."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Bright green, dense vegetation, particularly along the river and adjacent areas, indicative of wetland or dense riparian vegetation."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light brown background with scattered green patches, indicating bare soil or sparse vegetation cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular fields with varying colors (dark green crops, reddish-brown soil), characteristic of agricultural activity."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Very dark green, dense vegetation within the wetland/river bend, indicative of dense herbaceous wetland or swamp vegetation."
+  }
+}

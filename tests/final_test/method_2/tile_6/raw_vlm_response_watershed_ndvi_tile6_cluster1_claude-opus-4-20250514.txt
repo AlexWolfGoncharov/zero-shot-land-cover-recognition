@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field with bare soil in agricultural area with irrigation systems, indicating fallow/harvested cropland.'}}

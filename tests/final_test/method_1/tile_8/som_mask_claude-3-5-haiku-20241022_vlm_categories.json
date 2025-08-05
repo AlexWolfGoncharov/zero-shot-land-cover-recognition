@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform dark green color, dense vegetation suggesting mature tree plantation"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Varied green shades indicate agricultural fields at different growth stages"
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Color and texture suggest exposed soil, potentially between crop cycles"
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Uniform light color indicates exposed ground or minimally vegetated areas"
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Dark, uniform color and irregular shape suggest water bodies or shadows"
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Varied texture with predominantly green-brown colors suggests grassland"
+  }
+}

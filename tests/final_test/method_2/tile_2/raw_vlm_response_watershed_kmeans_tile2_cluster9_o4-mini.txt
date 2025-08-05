@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular grid of roads and impervious structures indicates urban settlement.'}}

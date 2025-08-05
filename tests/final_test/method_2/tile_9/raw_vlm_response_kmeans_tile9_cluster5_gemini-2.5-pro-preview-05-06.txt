@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'The segment consists of large, rectangular parcels with sharp, geometric boundaries, indicative of a managed plantation. The dark green color and coarse texture suggest dense tree canopies.'}}

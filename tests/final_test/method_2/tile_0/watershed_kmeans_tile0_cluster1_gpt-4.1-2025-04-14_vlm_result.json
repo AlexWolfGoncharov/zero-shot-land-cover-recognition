@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Polygonal shape, uniform texture, and adjacency to similar fields indicate managed agricultural land typical of cropland."
+  }
+}

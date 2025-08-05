@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Segment contains distinct road grids and buildings characteristic of settlements, mixed with spectrally similar dark, fallow agricultural fields, indicating a mixed cluster."
+  }
+}

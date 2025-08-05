@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular grid pattern, mixed vegetation and bare soil, typical of agricultural fields; no tree cover or built-up features observed.'}}

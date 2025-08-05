@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Irregular, dark, smooth region follows river channel; typical of open water bodies in satellite imagery.'}}

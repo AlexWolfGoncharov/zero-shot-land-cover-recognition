@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth areas clearly representing the river and associated water bodies."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Dense, dark green vegetation in a wetland context, adjacent to water. Texture suggests herbaceous plants."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, geometric fields with uniform dark green color, indicative of active cultivation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Areas show signs of cultivation (geometric shapes) but with less vigorous growth or possibly fallow."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light brown/yellowish color and rough texture indicate dry conditions with minimal vegetation cover or exposed soil."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white areas with geometric shapes clearly represent buildings, roads, and other urban/settlement features."
+  }
+}

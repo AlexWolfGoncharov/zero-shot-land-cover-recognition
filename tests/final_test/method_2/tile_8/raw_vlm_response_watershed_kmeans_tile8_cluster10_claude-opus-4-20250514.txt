@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns with varying vegetation stages typical of managed agricultural lands'}}

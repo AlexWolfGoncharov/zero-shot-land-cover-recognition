@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Textured surface with light colors suggests arid terrain with minimal vegetation cover'}}

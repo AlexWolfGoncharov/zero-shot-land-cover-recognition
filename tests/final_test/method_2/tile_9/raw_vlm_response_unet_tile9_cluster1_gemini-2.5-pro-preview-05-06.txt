@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment is a heterogeneous mix of bright, bare ground (sand) and irregular patches of sparse, low-lying vegetation, lacking any structured patterns.'}}

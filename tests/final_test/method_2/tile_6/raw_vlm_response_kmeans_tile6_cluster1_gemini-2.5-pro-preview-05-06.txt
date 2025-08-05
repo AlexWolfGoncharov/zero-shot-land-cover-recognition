@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment consists of distinct circular fields, a classic sign of center-pivot irrigation used for large-scale agriculture.'}}

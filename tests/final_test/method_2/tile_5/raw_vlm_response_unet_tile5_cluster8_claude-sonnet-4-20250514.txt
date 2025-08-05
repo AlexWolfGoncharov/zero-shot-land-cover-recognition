@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with mixed vegetation states typical of agricultural cultivation and crop rotation.'}}

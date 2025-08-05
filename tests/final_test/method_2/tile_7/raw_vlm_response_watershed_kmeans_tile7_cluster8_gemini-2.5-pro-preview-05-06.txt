@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment exhibits a dense concentration of structures with high albedo (roofs) and a clear road network, including a distinct radial settlement pattern.'}}

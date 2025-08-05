@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns with light beige coloration indicating harvested or fallow agricultural land among other cultivated areas.'}}

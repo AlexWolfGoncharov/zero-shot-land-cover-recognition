@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular, rectangular plots and patchwork colors indicate intensive agriculture typical of cropland.'}}

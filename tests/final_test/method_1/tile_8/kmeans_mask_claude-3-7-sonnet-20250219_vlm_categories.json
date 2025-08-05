@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct circular irrigation patterns with minimal vegetation, indicating fallow or recently harvested agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium-green rectangular fields with uniform texture showing active cultivation with moderate vegetation growth."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light green to yellowish rectangular fields showing less vigorous crop growth or different cultivation stage."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dark green rectangular fields indicating mature, healthy crops with dense vegetation coverage."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Reddish-brown rectangular fields suggesting recently plowed, post-harvest, or specific crop type with distinct spectral signature."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark area with smooth texture and curved boundary characteristic of a reservoir or lake."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Small, scattered light-colored patches with irregular shapes along field boundaries representing agricultural settlements or infrastructure."
+  }
+}

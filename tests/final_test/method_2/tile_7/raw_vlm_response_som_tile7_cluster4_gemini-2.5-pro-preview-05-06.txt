@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment displays a dense, radial pattern of streets and small structures, a classic signature of a human settlement like a town or village.'}}

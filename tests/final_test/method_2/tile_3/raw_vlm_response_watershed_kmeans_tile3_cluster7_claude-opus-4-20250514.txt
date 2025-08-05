@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Clear geometric field patterns with rectangular plots showing various cultivation stages typical of agricultural land use.'}}

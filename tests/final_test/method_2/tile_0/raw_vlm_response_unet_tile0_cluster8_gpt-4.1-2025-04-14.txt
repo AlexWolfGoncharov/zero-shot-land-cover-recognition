@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows large, regular, rectangular fields with uniform texture and distinct boundaries, typical of intensively managed agricultural cropland.'}}

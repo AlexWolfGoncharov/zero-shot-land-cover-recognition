@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Mosaic of varied textured rectangular and circular irrigated plots typical of agricultural fields.'}}

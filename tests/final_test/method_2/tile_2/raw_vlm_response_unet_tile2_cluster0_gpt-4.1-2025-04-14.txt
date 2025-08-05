@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Homogeneous dark region, natural boundaries, no vegetation or built features; typical appearance of a large water body.'}}

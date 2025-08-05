@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Brown/tan areas within agricultural fields, indicating bare soil or harvested land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Green vegetated areas within defined agricultural fields (circular and rectangular)."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Green vegetated areas within defined agricultural fields, showing active plant growth."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Irregular areas containing structures, bare ground, and linear features like roads."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Brown/tan areas within agricultural fields, indicating bare soil or harvested land."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Green vegetated areas within defined agricultural fields, showing active plant growth."
+  }
+}

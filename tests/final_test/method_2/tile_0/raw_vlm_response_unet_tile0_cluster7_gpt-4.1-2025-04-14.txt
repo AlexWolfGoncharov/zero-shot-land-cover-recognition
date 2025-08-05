@@ -1,0 +1,1 @@
+{'0': {'category': 'N/A', 'confidence': 'N/A', 'reasoning': 'The binary mask does not highlight any region (all pixels are black), so there is no segment to classify in this instance.'}}

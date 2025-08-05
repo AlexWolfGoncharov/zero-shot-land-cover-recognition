@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and uniform vegetation strongly indicate active cropland."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular patchiness and mixed vegetation suggest shrubland rather than managed cropland or grassland."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, reflective surface clearly indicates a water body."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green and rough texture suggest tree cover rather than shrubland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Lack of vegetation and smooth texture indicate bare or sparsely vegetated soil."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Fine texture and irregular patches suggest natural grassland rather than managed cropland."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Presence of roads and buildings clearly indicates built-up urban or rural settlements."
+  }
+}

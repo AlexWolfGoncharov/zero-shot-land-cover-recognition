@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Patchy texture suggests cultivation, typical of cropland."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "Uniform green suggests dense grass cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed colors and texture typical of crop rotation."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Darker green and structure suggest tree cover."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Rough texture and color mix indicate sparse vegetation."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "Bright green and smooth texture typical of dense grass."
+  }
+}

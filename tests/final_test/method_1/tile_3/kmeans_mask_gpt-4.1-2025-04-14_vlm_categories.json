@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, sinuous regions follow river channels, indicating open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular, patchwork fields with variable tones are typical of cultivated cropland."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy, light brown/green areas suggest sparse or bare ground."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, dark green, contiguous blocks are characteristic of tree-covered areas."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Light green, fine texture along water edges suggests wetland vegetation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright, regular grid and fragmentation indicate built-up or urban areas."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy, medium green areas with irregular texture are consistent with grassland."
+  }
+}

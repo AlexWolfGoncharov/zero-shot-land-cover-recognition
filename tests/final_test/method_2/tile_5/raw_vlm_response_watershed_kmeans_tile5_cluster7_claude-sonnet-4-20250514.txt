@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Large rectangular structure with uniform bright surface, sharp geometric boundaries, typical of industrial/agricultural buildings.'}}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct agricultural patterns with varying crop stages visible."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green suggests tree cover, but some lighter areas could indicate shrubland."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter color and less structure suggest grassland over shrubland."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with some bare soil suggests shrubland."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform dark green indicates dense tree cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Structured patterns suggest agricultural use, less defined than typical cropland."
+  }
+}

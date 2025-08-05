@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns with systematic color variations indicating managed agricultural cultivation with distinct crop parcels.'}}

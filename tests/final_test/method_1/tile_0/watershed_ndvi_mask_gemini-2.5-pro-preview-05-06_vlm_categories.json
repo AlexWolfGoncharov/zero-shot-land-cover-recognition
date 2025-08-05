@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Strong geometric patterns, distinct field boundaries, and varied colors/textures typical of different crops or stages of cultivation."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The cluster clearly delineates the road network (infrastructure). While it also includes riparian vegetation, the road component is distinct and extensive."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clear, dark, meandering feature characteristic of a river, showing typical water reflectance in RGB."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly geometric field patterns with diverse colors and textures, typical of active agricultural cultivation and fallow land."
+  }
+}

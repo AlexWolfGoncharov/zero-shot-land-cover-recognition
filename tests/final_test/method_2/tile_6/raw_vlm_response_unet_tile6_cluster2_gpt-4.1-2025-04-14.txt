@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric plots, center-pivot patterns, and varied crop colors are characteristic of intensively managed agricultural land.'}}

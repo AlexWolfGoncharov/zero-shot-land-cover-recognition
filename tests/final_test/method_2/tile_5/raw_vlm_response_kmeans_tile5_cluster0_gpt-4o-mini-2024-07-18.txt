@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The geometric patterns and surrounding context indicate agricultural land use.'}}

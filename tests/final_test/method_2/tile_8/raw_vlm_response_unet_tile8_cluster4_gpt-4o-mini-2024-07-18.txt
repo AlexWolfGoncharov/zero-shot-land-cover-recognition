@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The uniformity and agricultural context strongly indicate that this segment is cultivated land.'}}

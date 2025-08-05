@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniform green color strongly indicate cultivated agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of diverse agricultural patterns and textures suggests active farming practices."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The mixed colors and shapes suggest agricultural use, but the presence of browns indicates possible fallow land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The irregular shapes and lighter colors are characteristic of urban development, distinct from agricultural areas."
+  }
+}

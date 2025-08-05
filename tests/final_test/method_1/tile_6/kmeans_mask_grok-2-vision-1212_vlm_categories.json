@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy green and brown texture suggests grassland with some sparse areas."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular patterns are indicative of irrigated cropland."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Uniform texture with mixed colors suggests shrubland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Dark uniform texture suggests built-up areas."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Lighter green and uniform texture suggest tree cover."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy texture with more brown suggests sparse vegetation."
+  }
+}

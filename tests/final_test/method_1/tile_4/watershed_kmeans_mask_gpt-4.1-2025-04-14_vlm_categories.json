@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and irrigation circles are definitive indicators of cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The regular, managed field structure is characteristic of cropland, not natural grassland."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy, irregular, and less vegetated areas suggest sparse vegetation or fallow land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban grid pattern and high reflectance are typical of built-up areas."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dense, uniform, irrigated fields are indicative of cropland, not natural grassland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color and lack of vegetation suggest bare or sparsely vegetated ground."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular, managed plots are typical of cropland."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Mixed color and irregular pattern suggest sparse or transitional vegetation."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brightness and lack of vegetation indicate bare or recently harvested land."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Managed, irrigated fields are characteristic of cropland."
+  },
+  "10": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregularity and exposed soil suggest sparse vegetation."
+  }
+}

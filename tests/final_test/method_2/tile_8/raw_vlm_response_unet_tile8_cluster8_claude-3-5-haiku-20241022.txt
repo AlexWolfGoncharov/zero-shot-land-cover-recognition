@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular, uniform light beige/yellow patches suggesting irrigated circular pivot agricultural fields in an agricultural landscape.'}}

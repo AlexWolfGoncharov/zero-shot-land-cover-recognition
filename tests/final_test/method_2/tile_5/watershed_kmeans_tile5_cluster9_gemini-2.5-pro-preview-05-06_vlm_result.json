@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The segments are geometrically regular fields within a larger agricultural matrix. Their bright, uniform appearance indicates they are fallow or recently harvested."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Unclassifiable', 'confidence': 'high', 'reasoning': 'The provided segmentation mask is entirely black, with no white pixels to define the segment of interest for analysis.'}}

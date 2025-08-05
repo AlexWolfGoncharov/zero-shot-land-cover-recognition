@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, uniform rectangular plots, clear agricultural land subdivision typical of intensive farming'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and meandering patterns characteristic of rivers or water channels. Adjacent to larger water body."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large size, dark uniform color, and clear contrast with surrounding land strongly indicate a major water body, likely a river or lake."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric patterns, varying shades of green, and clear field boundaries typical of agricultural areas with different crops or growth stages."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color suggests exposed soil or minimal vegetation. Irregular shapes and proximity to croplands indicate fallow fields or sparse natural vegetation."
+  }
+}

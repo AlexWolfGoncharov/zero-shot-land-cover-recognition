@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Large, dark, homogeneous body with smooth texture separating land masses. Characteristic deep blue/black color of open water.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Segment covers irregular, water-adjacent areas with dense green vegetation and water channels, typical of herbaceous wetlands.'}}

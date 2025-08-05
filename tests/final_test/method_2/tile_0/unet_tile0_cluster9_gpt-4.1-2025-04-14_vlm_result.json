@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "No Data",
+    "confidence": "high",
+    "reasoning": "The mask contains no white pixels, indicating no segment is selected for analysis in this image."
+  }
+}

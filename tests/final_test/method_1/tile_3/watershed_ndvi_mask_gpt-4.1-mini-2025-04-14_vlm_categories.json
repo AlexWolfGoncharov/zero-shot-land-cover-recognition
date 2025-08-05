@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Water bodies with adjacent green vegetation and wetland textures near river indicate herbaceous wetland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular grid pattern and patchy vegetation strongly indicate agricultural cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, continuous green with uniform texture suggests tree cover, though shrubland possible."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Dominance of bare soil and sparse vegetation patches fits bare/sparse vegetation best."
+  }
+}

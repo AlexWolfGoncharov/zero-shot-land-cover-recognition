@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green color and uniform texture within geometric fields strongly indicate healthy crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green color and uniform texture within geometric fields strongly indicate healthy crops, possibly different type/stage."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Green color and uniform texture within geometric fields indicate crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green/yellowish color and texture within geometric fields indicate crops, possibly nearing harvest or different type."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Brown color and patchy texture within geometric fields indicate bare soil or harvested areas typical of cropland."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green/yellowish color and texture within geometric fields indicate healthy or specific crops."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "White/gray linear and patchy features outside fields are clearly built structures (roads, buildings), representing the dominant non-agricultural component."
+  }
+}

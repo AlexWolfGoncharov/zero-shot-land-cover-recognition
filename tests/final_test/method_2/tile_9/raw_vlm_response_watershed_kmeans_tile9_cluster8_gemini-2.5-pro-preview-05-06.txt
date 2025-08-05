@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'medium', 'reasoning': 'The segment includes large, bright, rectangular parcels within an agricultural grid, consistent with fallow or harvested fields, despite also containing water bodies.'}}

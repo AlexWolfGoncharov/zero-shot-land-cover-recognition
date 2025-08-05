@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, rough terrain with light brownish-beige coloration, minimal vegetation, and a textured, uneven surface characteristic of arid or desert-like conditions.'}}

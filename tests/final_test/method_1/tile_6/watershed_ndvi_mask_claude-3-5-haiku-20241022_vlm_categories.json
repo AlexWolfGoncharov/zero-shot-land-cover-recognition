@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinctive circular irrigation patterns, uniform field textures typical of mechanized agriculture"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, dark green coloration suggests mature forest or woodland with full canopy coverage"
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Pale coloration, lack of dense vegetation, suggests exposed soil or sparsely vegetated terrain"
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric shapes, dense arrangement, mixture of green and white indicating urban infrastructure"
+  }
+}

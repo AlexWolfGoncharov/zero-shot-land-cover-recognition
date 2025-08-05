@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular circular fields suggest agricultural irrigation, with distinct crop growth stages visible"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Uniform dark green suggests mature tree plantations or dense forest areas"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Varied green tones and irregular field boundaries suggest natural grassland vegetation"
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Dry, light brown color indicates minimal plant cover, potentially fallow or uncultivated land"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric shapes with sharp boundaries suggest urban or infrastructure development"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mottled green-brown texture suggests sparse, mixed vegetation characteristic of shrubland"
+  }
+}

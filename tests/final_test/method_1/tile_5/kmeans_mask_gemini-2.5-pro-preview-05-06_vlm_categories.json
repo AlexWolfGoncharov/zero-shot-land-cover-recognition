@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes (circles, rectangles) and context clearly indicate actively cultivated agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns and varied colors consistent with different crops or cultivation stages within an agricultural area."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area clearly identifiable as a significant body of water."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric shapes suggest agriculture. Light tan/beige color likely represents harvested fields, fallow land, or prepared soil."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The prominent coastal segment shows clear signs of urban structures: granular texture, roads, and buildings."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shapes and green colors are characteristic of active agricultural fields with growing crops."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes, location near water channels (bottom-left), and mixed green/brown colors suggest vegetated, moist areas, consistent with herbaceous wetlands."
+  }
+}

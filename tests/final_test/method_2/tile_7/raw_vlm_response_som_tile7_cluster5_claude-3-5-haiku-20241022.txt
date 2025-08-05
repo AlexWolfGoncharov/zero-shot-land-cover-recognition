@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform green color, geometric field shape, and regular agricultural parcel layout indicate cultivated land.'}}

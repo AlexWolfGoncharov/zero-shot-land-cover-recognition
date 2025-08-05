@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectilinear parcels with varied soil/vegetation stages and irrigation infrastructure indicate organized agricultural fields.'}}

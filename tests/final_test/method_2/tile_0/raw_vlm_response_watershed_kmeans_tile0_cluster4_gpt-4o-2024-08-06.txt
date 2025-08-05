@@ -1,0 +1,1 @@
+{'0': {'category': 'Your Category', 'confidence': 'high/medium/low', 'reasoning': 'Your reasoning'}}

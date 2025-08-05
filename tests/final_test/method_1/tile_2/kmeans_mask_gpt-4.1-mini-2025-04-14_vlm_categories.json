@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and smooth texture indicate water body."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields with varied green and brown tones typical of cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, irregular canopy texture and shadows indicate mature tree cover."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter green and uniform texture suggest grassland rather than shrubland."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid pattern and bright small structures indicate urban or built-up areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Visible soil and sparse vegetation indicate bare or sparsely vegetated land."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Linear features along water edges with mixed vegetation suggest herbaceous wetlands."
+  }
+}

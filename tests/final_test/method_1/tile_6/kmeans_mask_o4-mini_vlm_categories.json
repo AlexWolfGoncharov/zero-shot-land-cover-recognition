@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright, uniform green circles denote irrigated crop fields."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Brown, unplanted circular fields indicate fallow or bare soil."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Green row‐striped rectangles clearly show active cultivation."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Distinct urban layout with roads and buildings."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense linear belts match shelterbelt or hedgerow tree cover."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Dark, rough circles resemble plowed or unplanted fields."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Pivot‐irrigated circles with moderate vegetation cover indicate active crops."
+  }
+}

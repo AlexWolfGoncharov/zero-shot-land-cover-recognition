@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Clear geometric field patterns with varying colors indicating different cultivation stages and crop types."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid pattern of light-colored structures with organized street network typical of human settlement."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark blue-black area with smooth texture along coastline showing clear land-water boundary."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Agricultural fields with different management practices but sharing geometric boundaries and cultivation patterns."
+  }
+}

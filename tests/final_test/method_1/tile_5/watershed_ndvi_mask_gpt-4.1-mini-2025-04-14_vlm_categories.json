@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, irregular fields with smooth texture and linear boundaries typical of agricultural cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns indicate center-pivot irrigated cropland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, geometric grid pattern and bright colors typical of urban built-up areas."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark blue-black color and smooth texture indicate water body adjacent to built-up area."
+  }
+}

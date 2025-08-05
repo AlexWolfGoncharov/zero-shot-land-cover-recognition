@@ -1,0 +1,12 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric field patterns with varying colors indicating different crops and cultivation stages. Clear human management evident."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large continuous dark blue/black area with characteristic water texture separating land masses. Consistent with a river, lake or coastal water body."
+  }
+}

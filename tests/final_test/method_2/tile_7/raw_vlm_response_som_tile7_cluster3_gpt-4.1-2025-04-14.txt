@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows a patchwork of small, rectangular fields typical of intensively managed agricultural cropland.'}}

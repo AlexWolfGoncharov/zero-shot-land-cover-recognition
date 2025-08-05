@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, grid layout, light-colored structures, clear contrast with surrounding vegetation, and organized urban infrastructure.'}}

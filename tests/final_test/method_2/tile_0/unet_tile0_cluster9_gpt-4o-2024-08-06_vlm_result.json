@@ -1,0 +1,12 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": null,
+    "reasoning": null
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": null,
+    "reasoning": null
+  }
+}

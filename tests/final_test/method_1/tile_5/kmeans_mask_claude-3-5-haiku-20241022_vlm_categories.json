@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field layouts, uniform green color, and circular irrigation systems"
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Orthogonal street grid, dense pixel arrangement, urban infrastructure"
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dark green, uniform texture, continuous canopy indicate mature forest"
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Structured field patterns suggest agricultural land in different growth stages"
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color, smooth surface, clear coastal boundary"
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mottled green-brown texture suggests mixed low-height ground cover"
+  }
+}

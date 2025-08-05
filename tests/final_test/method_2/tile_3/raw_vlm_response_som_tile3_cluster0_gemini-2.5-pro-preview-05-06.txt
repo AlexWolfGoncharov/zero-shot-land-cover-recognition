@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment exhibits a large, distinct geometric grid of individual fields, a definitive characteristic of a managed agricultural system for crop cultivation.'}}

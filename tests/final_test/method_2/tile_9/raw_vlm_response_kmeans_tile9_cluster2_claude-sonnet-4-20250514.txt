@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'high', 'reasoning': 'Irregular patches with mixed brown-tan coloration and heterogeneous texture characteristic of shrub vegetation in agricultural landscape.'}}

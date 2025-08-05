@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dense green vegetation in river floodplain with visible water channels and irregular natural patterns typical of wetlands'}}

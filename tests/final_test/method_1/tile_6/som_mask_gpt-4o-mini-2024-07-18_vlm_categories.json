@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniform texture strongly indicate cultivated fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The mixed patterns and agricultural context suggest active farming."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniform green color and circular patterns are characteristic of cultivated fields."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed colors suggest a less managed area, possibly shrubland."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The dense green texture and irregular shapes suggest a forested area."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The muted colors and irregular shapes indicate areas of bare soil or sparse vegetation."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The grid pattern and varied colors strongly indicate urban development."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense residential area with organized street patterns, uniform houses, and clear urban infrastructure visible.'}}

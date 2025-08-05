@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Region shows exposed soil with patchy, sparse vegetation and no dense plant cover, typical of bare/sparse vegetation areas.'}}

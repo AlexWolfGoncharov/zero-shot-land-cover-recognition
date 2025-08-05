@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Patchwork of regularly bounded, rectangular fields with varied vegetation tones characteristic of agricultural use.'}}

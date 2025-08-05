@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Consistent pivot-irrigated fields with dense green canopy characteristic of cropland"
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed soil and very low vegetation cover indicate fallow or sparse ground"
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban settlement patterns and man-made structures clearly visible as built-up area"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Linear vegetated belts likely planted windbreaks or riparian trees"
+  }
+}

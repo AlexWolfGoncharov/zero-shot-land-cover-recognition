@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, pivot irrigation circles, and varied vegetation stages clearly indicate managed agricultural land.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'High', 'reasoning': 'Regular geometric grid pattern with light-colored structures and road networks indicating human settlement/urban development.'}}

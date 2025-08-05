@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Riparian linear dense canopy with shadows indicates tree vegetation along channel."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Uniform bright reflectance field with no vegetation texture suggests tilled bare soil."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with crop spectral patterns and textured canopy indicate active cultivation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Large homogeneous dark green fields with uniform texture typical of mature cereal crops."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Narrow linear features connecting areas, consistent width indicative of paved roads."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense small-structure grid pattern of buildings and roads marks urban settlement."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Smooth dark region with specular glint following valley morphology indicates water."
+  }
+}

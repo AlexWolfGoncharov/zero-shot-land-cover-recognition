@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segment consists of distinct parcels with highly regular geometric shapes (rectangles and circles), indicative of managed agricultural fields, including center-pivot irrigation systems."
+  }
+}

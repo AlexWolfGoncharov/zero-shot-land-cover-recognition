@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform circular fields with center-pivot irrigation and regular division indicate managed agricultural land.'}}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular parcel boundaries with grid layout and uniform spectral patterns indicate irrigated farmland."
+  }
+}

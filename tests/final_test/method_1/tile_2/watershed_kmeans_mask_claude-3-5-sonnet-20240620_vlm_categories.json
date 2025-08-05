@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area with no visible land features, characteristic of a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular shapes and varying shades of green typical of agricultural fields in different stages of growth."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright appearance and irregular shapes suggest man-made structures. Linear features indicate roads."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and continuous coverage suggest tree cover, but could also be dense shrubland or lush cropland."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Lighter green color suggests grass or low vegetation, but could also be sparse cropland or early crop growth."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown color indicates exposed soil or sparse vegetation. Could be fallow fields or naturally bare areas."
+  }
+}

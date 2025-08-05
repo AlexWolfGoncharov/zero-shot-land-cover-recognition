@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes, clear field boundaries, and varying shades of green indicate active agricultural cultivation."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green suggests denser vegetation. Irregular shapes and uniform color indicate possible forest areas, but some uncertainty due to potential confusion with dense crops."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "High reflectance and lack of vegetation color suggest exposed soil or harvested fields. Clear boundaries indicate human influence, likely agricultural practices."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Color suggests less dense vegetation than surrounding crops or trees. Irregular shapes and distribution pattern indicate natural growth rather than cultivated areas."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectance and small size suggest man-made structures. Location at intersections indicates possible buildings or infrastructure in rural setting."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear pattern and consistent width strongly indicate roads or transportation infrastructure connecting agricultural areas and settlements."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "Low",
+    "reasoning": "Dark color suggests possible water, but small size and scattered distribution create uncertainty. Could also be shadows or areas of dense vegetation."
+  }
+}

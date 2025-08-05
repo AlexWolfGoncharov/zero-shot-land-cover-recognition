@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Clear agricultural field patterns with geometric boundaries, varied crop colors, and typical farming infrastructure.'}}

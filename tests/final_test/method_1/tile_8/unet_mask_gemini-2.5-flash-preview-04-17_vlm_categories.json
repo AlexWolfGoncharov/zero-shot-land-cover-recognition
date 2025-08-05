@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric field patterns, including center-pivot circles, and varied vegetation colors indicate active agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes and adjacency to irrigated fields suggest cultivated areas or associated non-cropped agricultural land."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Located within and adjacent to clear agricultural fields, showing vegetation patterns consistent with cultivation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, contiguous dark area with a clear boundary, consistent with a lake or reservoir."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light color and lack of dense vegetation cover within an agricultural area suggest bare soil or recently harvested/prepared fields."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shape and vegetation color consistent with agricultural fields."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Located within or immediately adjacent to the main water body, appearing as a bright reflection or shallow/turbid water."
+  }
+}

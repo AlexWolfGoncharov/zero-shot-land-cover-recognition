@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment has a very low spectral reflectance (dark color) and a smooth, uniform texture, characteristic of a lake or reservoir, with a bright shoreline.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular rectangular patterns with varying colors."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Dense, irregular patterns with gray tones."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green areas with visible soil patches."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, dark green areas with irregular shapes."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark blue areas indicating water."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Light-colored areas with little vegetation."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Green areas with visible water patches."
+  }
+}

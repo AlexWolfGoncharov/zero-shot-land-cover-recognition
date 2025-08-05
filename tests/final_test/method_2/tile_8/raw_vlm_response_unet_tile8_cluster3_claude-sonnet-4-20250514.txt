@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue coloration, smooth uniform texture, and well-defined boundaries characteristic of permanent water feature.'}}

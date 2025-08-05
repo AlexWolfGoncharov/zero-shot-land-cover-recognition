@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns typical of center-pivot irrigation systems used in agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular plots are characteristic of agricultural fields."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense green areas suggest tree cover, possibly shelterbelts or small woodlots."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Lack of vegetation and light color indicate bare soil or sparse vegetation."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectance and structure indicate urban or built-up areas."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Dark color and irregular shape suggest water bodies, though vegetation is possible."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Mixed textures and transitional nature suggest grassland or unmanaged vegetation."
+  }
+}

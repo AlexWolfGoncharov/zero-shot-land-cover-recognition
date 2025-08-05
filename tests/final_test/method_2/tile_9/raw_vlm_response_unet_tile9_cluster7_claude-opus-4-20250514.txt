@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Distinctive sand dune morphology with rippled texture, high reflectance, and complete absence of vegetation clearly indicates bare sandy terrain.'}}

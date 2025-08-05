@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with circular irrigation pivots and rectangular fields showing varying stages of cultivation and crop development.'}}

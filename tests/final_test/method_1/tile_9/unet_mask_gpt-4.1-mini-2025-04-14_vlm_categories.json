@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Sandy texture with sparse dark patches indicates mostly bare ground with minimal vegetation."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense dark green texture suggests tree cover, with some linear features causing slight uncertainty."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric rectangular shapes and organized pattern strongly indicate cultivated fields."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular patchy vegetation with mixed colors suggests shrubland rather than uniform grassland."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Grid-like linear features and fragmented dark patches suggest human-made structures."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Water channels and dark green vegetation indicate wetland rather than open water."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Very dark patches could be shadows or bare soil; lack of structure lowers confidence."
+  }
+}

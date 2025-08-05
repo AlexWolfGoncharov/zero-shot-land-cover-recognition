@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular center-pivot and rectangular cultivated patterns indicate irrigated agricultural fields.'}}

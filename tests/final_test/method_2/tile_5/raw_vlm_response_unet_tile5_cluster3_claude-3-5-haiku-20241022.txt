@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric shape, uniform surface, near urban area, suggests developed infrastructure or built environment'}}

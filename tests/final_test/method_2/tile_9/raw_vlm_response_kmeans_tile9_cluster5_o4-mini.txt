@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular sandy–tan texture with scattered low vegetation patches, no structured rows or dense canopy indicates sparse ground cover.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Center-pivot fields with uniform textures and patchwork arrangement indicate irrigated cropland.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area with clear boundary, consistent with the visual characteristics of a lake or sea in RGB imagery."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular and circular field shapes with varying vegetation/soil colors, indicative of agricultural practices."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform green color and distinct rectangular shapes are characteristic features of cultivated fields with growing crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform green color and distinct rectangular shapes are characteristic features of cultivated fields with growing crops."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometrically defined rectangular fields with varying colors indicate areas under agricultural cultivation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Segment includes a significant, distinct built-up area along the coast, although it also covers extensive agricultural land. Classified based on the presence of urban infrastructure."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear circular field shapes, indicative of center-pivot irrigation, are a definitive sign of intensive agricultural activity."
+  }
+}

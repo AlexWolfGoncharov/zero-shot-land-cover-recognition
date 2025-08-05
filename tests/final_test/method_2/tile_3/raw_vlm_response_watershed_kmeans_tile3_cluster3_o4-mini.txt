@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Exposed light‐colored soil patches and mudflats with minimal vegetation cover.'}}

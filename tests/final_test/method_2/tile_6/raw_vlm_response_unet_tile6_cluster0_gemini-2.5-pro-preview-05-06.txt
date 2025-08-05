@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The highlighted areas are dominated by distinct circular (center-pivot irrigation) and rectangular fields, which are unambiguous, man-made patterns characteristic of active agriculture.'}}

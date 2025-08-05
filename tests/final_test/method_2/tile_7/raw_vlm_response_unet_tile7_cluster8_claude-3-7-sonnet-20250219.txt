@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense concentration of small rectangular structures in organized pattern with connecting pathways, characteristic of human settlement/urban development.'}}

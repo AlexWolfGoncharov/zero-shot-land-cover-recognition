@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with varying shades of green indicating cultivated vegetation in different growth stages within an agricultural matrix.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 0.85, 'reasoning': 'The area exhibits patterns typical of cultivated land, such as regular shapes and possible irrigation circles.'}, '1': {'category': 'Grassland', 'confidence': 0.75, 'reasoning': 'The region shows uniform green coloration with no distinct patterns, consistent with natural grassland.'}}

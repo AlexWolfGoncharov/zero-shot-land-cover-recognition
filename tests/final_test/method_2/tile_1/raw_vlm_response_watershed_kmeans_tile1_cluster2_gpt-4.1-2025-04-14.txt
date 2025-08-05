@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields, varied crop colors, and irrigation infrastructure strongly indicate managed agricultural land.'}}

@@ -1,0 +1,52 @@
+{
+  "0": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green texture suggests grass cover, but some brown indicates sparse areas."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Intense green and consistent texture typical of tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Patchwork pattern typical of agricultural fields."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mix of green with darker patches suggests shrubland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Less uniform texture with brown areas suggests sparse vegetation."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Very green and uniform texture typical of tree cover."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Linear features suggest agricultural pathways, typical of cropland."
+  },
+  "7": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mix of green with darker patches suggests shrubland."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Very uniform green texture typical of dense tree cover."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Linear features suggest agricultural pathways, typical of cropland."
+  }
+}

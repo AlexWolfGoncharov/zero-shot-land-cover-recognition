@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of geometrically regular parcels, including distinct center-pivot irrigation circles, which are characteristic features of actively managed agricultural land.'}}

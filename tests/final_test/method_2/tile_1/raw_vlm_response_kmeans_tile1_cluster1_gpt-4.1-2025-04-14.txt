@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment contains geometric, managed fields with varied crop patterns, typical of intensive agriculture; no signs of urban, forest, or water features.'}}

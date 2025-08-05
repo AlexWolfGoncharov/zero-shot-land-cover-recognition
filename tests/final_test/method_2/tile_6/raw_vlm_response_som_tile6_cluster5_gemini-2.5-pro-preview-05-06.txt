@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The highlighted segments are circular fields, an unambiguous sign of center-pivot irrigation. Their brown/tan color indicates they are fallow or recently harvested agricultural land.'}}

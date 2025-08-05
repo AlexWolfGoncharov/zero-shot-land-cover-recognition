@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular/rectangular fields, varying vegetation colors (dark green/reddish-brown), uniform texture, typical of agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green, dense vegetation in large circular fields indicates actively growing crops under irrigation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Lighter green/yellowish circular fields within agricultural landscape represent crops at different growth stages or types."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Reddish-brown/light brown circular fields indicate bare soil or harvested areas, classified as cropland."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear features (roads) and clusters of bright, textured areas indicate buildings and associated infrastructure."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Patchy, dry ground with scattered vegetation and irregular shapes, consistent with bare soil and sparse plant cover."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, uniform areas with clear boundaries are characteristic of water bodies in true color imagery."
+  }
+}

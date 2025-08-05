@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment covers small, regular patches within a matrix of agricultural fields, showing typical cropland patterns and textures.'}}

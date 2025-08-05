@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense green texture and circular shape strongly indicate tree cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The distinct rectangular patterns and varied colors are characteristic of cultivated fields."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "The irregular shapes and mixed vegetation suggest a less managed grassland area."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The dark, smooth texture is indicative of a water body."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "The light color and rough texture suggest areas with little to no vegetation."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mixed vegetation and uniform texture suggest shrubland."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The structured shapes and light color strongly indicate urban development."
+  }
+}

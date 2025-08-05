@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense clustering of structures with visible street patterns and rooftops characteristic of residential settlement.'}}

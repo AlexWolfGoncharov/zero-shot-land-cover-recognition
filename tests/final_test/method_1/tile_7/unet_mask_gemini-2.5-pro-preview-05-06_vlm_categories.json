@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense structures, road patterns, heterogeneous texture indicate settlement."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric fields, dark green/brown color, uniform texture typical of active cultivation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns, light green/yellowish colors, suggesting different crop types or stages."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regular fields, light brown/tan color, indicating harvested or fallow agricultural land."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very bright tan areas: dry beds of circular features and very dry/bare fields."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Wide, linear dark feature with smooth texture, characteristic of a river or large canal."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Extremely bright white/light tan rectangular fields, suggesting highly reflective bare soil with minimal vegetation."
+  }
+}

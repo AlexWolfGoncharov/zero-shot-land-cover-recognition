@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Patchy, irregular vegetation with mixed density suggests shrubland rather than uniform cropland or bare soil."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large geometric fields and irrigation circles strongly indicate cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, dark green, contiguous vegetation patches with coarse texture are typical of tree cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear features and proximity to roads with mixed texture suggest built-up areas."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Smooth, light-toned areas with minimal vegetation indicate bare or sparsely vegetated land."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Narrow, dark linear features correspond to water canals, indicating permanent water bodies."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Scattered small patches with mixed green and brown tones suggest grassland rather than dense shrubland."
+  }
+}

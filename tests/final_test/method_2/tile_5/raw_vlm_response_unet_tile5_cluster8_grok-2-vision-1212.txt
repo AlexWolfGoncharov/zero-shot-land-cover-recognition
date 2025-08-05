@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'medium', 'reasoning': 'Proximity to water and built-up areas, irregular patchwork suggests human modification.'}}

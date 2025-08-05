@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Smooth, dark homogeneous surface with no internal texture indicates open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular, geometric field patterns typical of cultivated agriculture."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Grid pattern of buildings and roads indicates urban development."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Linear hedgerows with crown texture match tree vegetation."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Vegetation–soil mix in floodplain indicates marsh or wet meadow."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Uniform grassy cover lacking crop boundaries suggests pasture or natural grass."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Bright soils and sparse leftover stubble indicate bare or sparse vegetation."
+  }
+}

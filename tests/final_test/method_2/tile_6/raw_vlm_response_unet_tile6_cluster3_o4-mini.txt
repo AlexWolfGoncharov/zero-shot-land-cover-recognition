@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Numerous center-pivot circles and rectangular plots with uniform textures indicate irrigated agricultural fields.'}}

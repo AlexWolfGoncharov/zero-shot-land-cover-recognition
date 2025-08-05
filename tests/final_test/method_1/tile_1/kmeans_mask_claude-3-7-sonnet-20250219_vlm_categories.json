@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Heterogeneous texture with small structures and fragmented pattern typical of rural settlements, though mixed with some vegetation."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with bright green vegetation indicate actively cultivated crops in various growth stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with reddish-brown coloration indicate recently tilled, harvested, or early-stage agricultural fields."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Linear dark feature with consistent width and sharp boundaries characteristic of an irrigation canal or water channel."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinctive circular patterns and moderate green vegetation indicate center-pivot irrigation agricultural systems."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric patterns with medium-intensity green vegetation indicate agricultural fields with varying crop types or growth stages."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectance patches within or near settlement areas suggest built structures with reflective roofing materials."
+  }
+}

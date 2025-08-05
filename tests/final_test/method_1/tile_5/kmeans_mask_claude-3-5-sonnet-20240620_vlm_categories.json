@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth-textured area characteristic of a water body, likely a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes and varying shades of green typical of agricultural fields with different crops or growth stages."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Mixed texture and less structured appearance suggest natural vegetation, likely grassland or pasture areas between croplands."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Grid pattern and dense, small rectangular shapes characteristic of urban areas with buildings and streets."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green tones and less structured appearance suggest natural vegetation, possibly a mix of shrubs and small trees."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Bright reflectance suggests exposed soil or bare areas, possibly fallow fields or areas with very sparse vegetation."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation fields and rectangular plots indicate active cropland with varied crop stages."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular fields and plowed soil typical of agricultural land use."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with crop rows indicate managed cropland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dominant agricultural field patterns with no urban or natural vegetation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation fields and smooth textures typical of cropland."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Dark green circular fields likely dense crops, not natural tree cover."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Mixed green and brown fields with clear agricultural patterns."
+  }
+}

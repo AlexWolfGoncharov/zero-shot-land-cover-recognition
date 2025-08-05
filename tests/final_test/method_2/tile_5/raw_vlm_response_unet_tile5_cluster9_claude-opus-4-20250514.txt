@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense cluster of buildings with visible rooftops, roads, and organized settlement pattern characteristic of human development.'}}

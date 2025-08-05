@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark center with lighter edges typical of water bodies in agricultural areas.'}}

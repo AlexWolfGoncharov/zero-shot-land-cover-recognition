@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth areas with distinct linear and circular shapes are characteristic of water bodies in RGB imagery."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, geometrically shaped fields (rectangles, circles) with varying vegetation states (green, brown, reddish) indicate agricultural activity."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Lighter brown/gray color and texture suggest bare soil or very sparse vegetation, distinct from dense vegetation or built structures."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform reddish color within clearly defined rectangular fields suggests a specific crop type or stage of growth, characteristic of agriculture."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green color and dense texture within geometric fields indicate actively growing crops."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Complex pattern of structures, roads, and varied vegetation in the top left is consistent with a built-up area."
+  }
+}

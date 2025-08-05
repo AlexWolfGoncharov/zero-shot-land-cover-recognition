@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields, varied crop coloration, and irrigation infrastructure indicate cropland."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular, coarse-textured, non-geometric areas suggest shrubland or semi-natural vegetation."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Heterogeneous, less vibrant, and partially irregular areas suggest grassland or fallow fields."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear, dark feature matches canal/river, indicating permanent water presence."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Large, uniformly dark area with smooth texture, clearly distinct from adjacent terrestrial features, characteristic of water body.'}}

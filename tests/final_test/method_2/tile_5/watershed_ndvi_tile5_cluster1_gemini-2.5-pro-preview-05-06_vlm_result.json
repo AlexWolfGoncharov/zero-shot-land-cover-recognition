@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Low",
+    "reasoning": "The segment is highly heterogeneous, including a large water body and a built-up area. Cropland is selected as it's the most extensive terrestrial cover."
+  }
+}

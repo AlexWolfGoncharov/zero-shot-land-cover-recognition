@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'medium', 'reasoning': 'Floodplain island with marshy vegetation and open water channels indicating herbaceous wetland'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes and light coloration typical of harvested or fallow agricultural fields. Clear contrast with surrounding vegetated areas indicates human-managed land use."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes and uniform dark green color suggest actively growing crops. Patchwork pattern with contrasting lighter areas indicates different crop types or growth stages in agricultural use."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectance and small, clustered areas suggest man-made structures. Often located at intersections of field boundaries, indicating settlements or farm buildings. However, size is small for major urban areas."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color and irregular shapes suggest natural vegetation. Likely forested areas or windbreaks between agricultural fields. Could also be dense shrubland, hence medium confidence."
+  }
+}

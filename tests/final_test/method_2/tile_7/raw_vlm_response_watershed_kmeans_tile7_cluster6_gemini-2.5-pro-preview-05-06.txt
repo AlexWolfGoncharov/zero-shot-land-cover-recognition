@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment is dominated by a dense settlement with a clear radial street pattern, a classic indicator of a built-up environment.'}}

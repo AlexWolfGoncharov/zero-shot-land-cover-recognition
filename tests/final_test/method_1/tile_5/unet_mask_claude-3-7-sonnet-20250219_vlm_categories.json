@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark blue/black appearance with clear land-water interface and large continuous extent"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric patterns, varied coloration, clear field boundaries indicate agricultural land under cultivation"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric shapes, uniform coloration within parcels, integration with other agricultural areas"
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns within agricultural matrix and light coloration indicate cultivated fields"
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Extremely bright areas with circular boundaries suggest fallow fields or recently cleared agricultural land"
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid pattern with small structures and road network indicates urban/suburban development"
+  }
+}

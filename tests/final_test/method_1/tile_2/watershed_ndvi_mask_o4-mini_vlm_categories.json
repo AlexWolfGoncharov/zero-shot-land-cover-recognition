@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular, uniform fields with crop‐like texture and rotation patterns."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Grid road patterns and roof reflections indicate urban settlement."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Uniform dark tone and shoreline outline indicate open water."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Canopy structure and shadows suggest scattered trees along shore."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark blue-green coloration, smooth texture, and clear land-water interface characteristic of deep water bodies.'}}

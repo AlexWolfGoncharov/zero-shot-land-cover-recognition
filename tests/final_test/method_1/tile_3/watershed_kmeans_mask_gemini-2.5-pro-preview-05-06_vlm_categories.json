@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark, smooth appearance characteristic of deep, open water in RGB imagery."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Dark green, mottled texture in low-lying floodplain areas, suggesting waterlogged vegetation or shallow water with plants."
+  },
+  "2": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dense, green herbaceous cover in floodplain areas, likely regularly inundated or waterlogged, consistent with wetland vegetation."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright, linear features forming a network, characteristic of roads and transportation infrastructure."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns with light brown/tan color, indicating bare soil, fallow land, or harvested crop residue."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very bright, whitish/light tan patches suggesting highly reflective bare soil or extremely sparse vegetation."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green color and regular, rectangular shapes characteristic of actively growing agricultural crops."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Located within agricultural field patterns, showing mixed green/brown colors indicative of varied crop stages or density."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Very dark green, textured patches suggesting dense canopy, likely small stands of trees or tall, dense shrubs."
+  },
+  "9": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Muted green to brownish-green areas, suggesting herbaceous cover, less dense or vigorous than active cropland."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct reddish-brown color within clear rectangular agricultural field patterns, indicating a specific crop type or soil condition."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, smooth, contiguous region follows river course; lacks vegetation texture; typical spectral and spatial signature of open water.'}}

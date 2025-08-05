@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular pivot irrigation patterns with varying crop colors indicating agricultural management and different growth stages.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, uniform green and light green textures indicating agricultural fields with different crop types or growth stages.'}}

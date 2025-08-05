@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Represents reddish-brown soil in spaces between cultivated fields, indicating limited or no active vegetation cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes typical of irrigated fields; colors (dark green, brown) indicate active or fallow cultivation stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigated fields with bright green or yellowish-green colors, characteristic of actively growing crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigated fields showing various shades of green and brown, consistent with different crop types or growth stages."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigated fields, with colors like bright green or pale hues, indicative of active crops or recently harvested land."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly pale circular fields, indicating fallow, harvested, or recently seeded agricultural land within crop rotation systems."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Corresponds to highly reflective surfaces like roads, bright roofs, and infrastructure within developed areas."
+  }
+}

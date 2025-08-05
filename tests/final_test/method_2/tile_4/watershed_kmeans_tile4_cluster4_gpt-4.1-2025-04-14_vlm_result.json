@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains circular and rectangular fields typical of irrigated agriculture; texture and context indicate intensive crop production."
+  }
+}

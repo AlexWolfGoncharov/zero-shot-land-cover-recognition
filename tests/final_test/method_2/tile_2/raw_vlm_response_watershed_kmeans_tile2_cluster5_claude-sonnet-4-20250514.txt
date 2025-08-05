@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, regular boundaries, varied crop colors indicate systematic agricultural land use.'}}

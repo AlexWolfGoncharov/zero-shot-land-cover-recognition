@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of numerous buildings and roads strongly indicates urban land use."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized pattern of fields is characteristic of agricultural land."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The reflective surface and irregular shape confirm it as a water body."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mix of sparse vegetation suggests shrubland rather than dense grassland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniformity and rectangular shape strongly indicate agricultural use."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The presence of structures suggests urban development, albeit less dense than Cluster 0."
+  },
+  "6": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The presence of bare patches among vegetation suggests disturbance or sparse growth."
+  }
+}

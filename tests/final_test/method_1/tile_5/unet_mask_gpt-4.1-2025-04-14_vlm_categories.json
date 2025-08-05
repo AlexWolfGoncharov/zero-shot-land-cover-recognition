@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields and center-pivot irrigation patterns are characteristic of cropland."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, bright, grid-like pattern with small structures is typical of urban/built-up areas."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark region adjacent to coast is consistent with a large water body."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy areas with mixed green/brown tones suggest unmanaged or semi-managed grassland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light, linear patches along infrastructure suggest bare ground or sparse vegetation."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green, irregular patches along watercourses or field edges are typical of tree cover."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Intermediate tone and irregular shape suggest sparse shrubland, but distinction from grassland is uncertain."
+  }
+}

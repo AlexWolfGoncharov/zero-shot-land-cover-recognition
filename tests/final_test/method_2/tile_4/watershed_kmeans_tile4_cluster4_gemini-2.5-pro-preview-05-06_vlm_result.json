@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segments are circular center-pivot irrigation fields. This distinct shape is definitive for agricultural land use, even when fields appear fallow or harvested."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Irrigation circles and structured field patterns indicate active cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Circular irrigation patterns suggest cropland, but denser vegetation texture adds uncertainty."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Field boundaries and agricultural layout indicate cropland, some areas may be fallow or bare."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Agricultural field patterns dominate, but presence of bare soil reduces confidence slightly."
+  }
+}

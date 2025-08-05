@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large areas show distinct rectangular field patterns with varying vegetation cover (green/brown), characteristic of agriculture."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Dense, dark green vegetation with irregular shapes, located adjacent to water bodies, consistent with herbaceous wetland vegetation."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth surface with clear boundaries, forming river channels and internal ponds, characteristic of permanent water bodies."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Areas appear light brown/tan with low vegetation cover, including bare soil, dry sparse vegetation, and potentially unpaved surfaces."
+  }
+}

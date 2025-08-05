@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Segment shows irregular, patchy light brown and tan areas with sparse vegetation, typical of bare or sparsely vegetated land, lacking dense green cover.'}}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense green texture suggests tree cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular patterns characteristic of irrigated cropland."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy texture suggests grassland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark color typical of water bodies."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Uniform texture suggests shrubland."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid pattern and structures indicate built-up areas."
+  }
+}

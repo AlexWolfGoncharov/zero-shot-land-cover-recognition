@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, uniform dark area with smooth texture characteristic of a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes, varied colors, and regular patterns typical of agricultural fields with different crops or cultivation stages."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, regular pattern of small structures characteristic of urban or suburban development, likely a town or city."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes and varied green tones suggest natural vegetation, likely grassland or pasture areas between croplands."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and lack of vegetation patterns suggest exposed soil or areas with very sparse vegetation."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and dense, uniform texture suggest areas of tree cover, possibly small forests or wooded areas."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Intermediate color and texture between croplands and tree cover suggest shrubland, but could be mixed vegetation."
+  }
+}

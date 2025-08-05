@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The density and texture indicate a significant presence of trees."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The rectangular patterns and uniformity strongly suggest cultivated fields."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The patchiness and mixed vegetation suggest shrubland rather than uniform grassland."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The rough texture and sparse coverage indicate a lack of dense vegetation."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The dark, smooth texture is indicative of water bodies."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The grid patterns and presence of structures suggest urban development."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "The mixed textures suggest a less dense area, typical of grassland."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Segment covers irregularly shaped, dark green areas with water channels, typical of wetland vegetation near a river.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric plots, uniform texture, and field boundaries indicate intensive agricultural use typical of cropland.'}}

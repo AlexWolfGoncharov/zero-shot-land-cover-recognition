@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regularly shaped, contiguous plots with alternating bare soil and vegetation indicate cultivated fields.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'medium', 'reasoning': 'Uniform green vegetation with smooth texture, lacking tree canopy patterns or visible crop management indicators.'}}

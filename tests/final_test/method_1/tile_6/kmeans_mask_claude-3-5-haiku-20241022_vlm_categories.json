@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns, uniform texture, and color variations typical of cultivated agricultural lands"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform dark green color suggests mature, dense forest or woodland vegetation"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter green color and varied texture suggest grassland or low-density vegetation"
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Uniform light color and lack of vegetation cover indicates bare ground or sparsely vegetated area"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric shapes with high reflectivity characteristic of urban infrastructure"
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Dark color and irregular shapes suggest water bodies or shadowed regions"
+  }
+}

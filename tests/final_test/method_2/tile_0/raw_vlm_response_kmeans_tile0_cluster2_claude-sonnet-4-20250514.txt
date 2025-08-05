@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field parcels with organized boundaries, varied crop spectral signatures, and systematic agricultural layout patterns.'}}

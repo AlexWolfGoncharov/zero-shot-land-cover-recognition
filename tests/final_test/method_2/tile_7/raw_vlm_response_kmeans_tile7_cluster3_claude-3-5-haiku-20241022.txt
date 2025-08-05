@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense, uniform dark green color and texture suggests a forest or woodland area with continuous tree canopy.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular field pattern, uniform light beige/tan color, typical of irrigated agricultural land with center-pivot irrigation systems'}}

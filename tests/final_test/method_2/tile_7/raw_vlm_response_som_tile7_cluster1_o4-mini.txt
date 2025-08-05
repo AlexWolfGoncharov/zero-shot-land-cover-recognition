@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense network of roads, rectilinear structures, and uniform rooftops indicate urban built-up area.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Clear geometric structures, roads, and buildings with characteristic light coloration of built materials in agricultural setting'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'medium', 'reasoning': 'The mask highlights multiple land cover types. The classification is based on the largest contiguous area, which shows a heterogeneous texture, grid patterns, and bright reflective surfaces characteristic of buildings and roads.'}}

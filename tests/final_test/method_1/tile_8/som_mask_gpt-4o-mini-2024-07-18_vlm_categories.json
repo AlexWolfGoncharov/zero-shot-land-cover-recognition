@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and smooth texture strongly indicate cultivated fields."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mixed vegetation and irregular shapes suggest a less managed area, typical of shrubland."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The dark, smooth texture and proximity to water suggest this is a water body."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and proximity to other agricultural areas indicate cultivated land."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The light texture and irregular shapes suggest areas with little to no vegetation."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense, dark texture strongly indicates the presence of tree cover."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed textures suggest urban development."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large, dark, homogeneous area with smooth texture and sharp boundaries against land, characteristic of a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric pattern of fields in various shades of green and brown, typical of agricultural land use with different crops or cultivation stages."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Fine-grained texture, lighter color, irregular shape with very light spots indicate urbanized areas with buildings and infrastructure."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark, irregularly shaped areas within cropland suggest patches of trees. Organic shape and slightly rougher texture differentiate from water bodies."
+  }
+}

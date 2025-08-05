@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains regular, geometric fields (rectangular and circular), typical of mechanized agriculture; uniform texture and clear field boundaries indicate cropland use."
+  }
+}

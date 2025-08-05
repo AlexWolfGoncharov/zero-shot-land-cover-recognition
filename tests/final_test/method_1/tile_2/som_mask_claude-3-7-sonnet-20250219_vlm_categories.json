@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, homogeneous appearance with wave patterns and clear boundaries with land masses."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns, bright reflective surfaces, dense rectangular structures in grid formation along coastlines."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns, varying green/red tones, clear boundaries between parcels."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Darker green tones, less geometric than cluster 2 but still shows some field patterns."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Lighter colored rectangular fields, geometric patterns consistent with agricultural management."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Dark appearance similar to main water body but in smaller isolated patches within land areas."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Located within main water body but shows different texture/reflectance patterns than main water."
+  }
+}

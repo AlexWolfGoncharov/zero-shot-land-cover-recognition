@@ -1,0 +1,1 @@
+{'0': {'category': 'No Data', 'confidence': 'high', 'reasoning': 'The provided mask is entirely black, containing no white pixels to define the segment for analysis.'}}

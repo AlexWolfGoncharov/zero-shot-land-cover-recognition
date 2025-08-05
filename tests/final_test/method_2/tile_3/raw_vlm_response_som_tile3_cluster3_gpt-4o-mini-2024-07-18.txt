@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The grid-like pattern and uniform texture are characteristic of agricultural practices.'}}

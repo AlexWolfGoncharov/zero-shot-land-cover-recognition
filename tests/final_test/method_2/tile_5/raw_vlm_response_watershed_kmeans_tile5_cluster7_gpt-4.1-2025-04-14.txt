@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular shape, uniform texture, and adjacency to similar parcels indicate managed agricultural fields typical of cropland.'}}

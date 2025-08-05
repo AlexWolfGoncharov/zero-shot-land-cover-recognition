@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and lack of texture strongly indicate open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns and irrigation circles are characteristic of intensively managed cropland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, bright, rectilinear grid and road network are typical of urban or built-up areas."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, mixed green-brown areas suggest natural or semi-natural grassland, but could also include sparse vegetation."
+  },
+  "4": {
+    "category": "",
+    "confidence": "",
+    "reasoning": ""
+  },
+  "5": {
+    "category": "",
+    "confidence": "",
+    "reasoning": ""
+  }
+}

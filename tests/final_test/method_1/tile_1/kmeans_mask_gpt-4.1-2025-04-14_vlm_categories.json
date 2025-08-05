@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field patterns and irrigation circles are characteristic of intensive agriculture."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, linear feature with water-like reflectance is consistent with a canal or river."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Mottled, irregular, and less vegetated appearance suggests sparse vegetation or fallow land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright, grid-like pattern with road adjacency is typical of urban or industrial areas."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigation circles are a hallmark of cropland."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dark, irregular patches near water channels suggest wetland vegetation."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Regular field shapes indicate agriculture, though some fields may be fallow or recently harvested."
+  }
+}

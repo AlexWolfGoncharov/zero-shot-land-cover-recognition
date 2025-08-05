@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The segments are clearly agricultural fields, evidenced by distinct circular center-pivot irrigation patterns. The pale, tan coloration indicates they are likely fallow or post-harvest."
+  }
+}

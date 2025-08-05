@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Covers a large, dark, smooth body of water along the coast, which is the dominant feature in this cluster."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Covers vast areas of agricultural fields displaying characteristic patterns (circular irrigation) and varying crop signatures, representing the dominant land use."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Includes large bright, non-vegetated areas inland consistent with bare soil or sparse vegetation, which is the most significant component."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Cluster 3 is not identifiable or present in the provided grayscale segmentation mask image."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Cluster 4 is not identifiable or present in the provided grayscale segmentation mask image."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Cluster 5 is not identifiable or present in the provided grayscale segmentation mask image."
+  }
+}

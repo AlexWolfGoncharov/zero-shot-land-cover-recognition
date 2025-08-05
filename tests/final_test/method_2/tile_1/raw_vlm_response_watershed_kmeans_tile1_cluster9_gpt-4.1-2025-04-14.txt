@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Linear, dark, textureless feature consistent with a canal or river; surrounded by cropland, indicating an irrigation channel.'}}

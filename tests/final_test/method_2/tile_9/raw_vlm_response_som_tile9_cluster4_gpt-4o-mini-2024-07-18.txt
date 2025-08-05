@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'The segment displays dense vegetation consistent with tree cover, surrounded by agricultural land.'}}

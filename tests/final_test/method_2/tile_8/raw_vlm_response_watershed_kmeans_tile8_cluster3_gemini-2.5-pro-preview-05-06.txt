@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of numerous distinct, geometric fields, including many center-pivot irrigation circles, which are definitive indicators of intensive agricultural cultivation.'}}

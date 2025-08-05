@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The segment is heterogeneous, but dominated by fallow agricultural fields and bare soil between plots. Smaller built-up areas are present but not dominant."
+  }
+}

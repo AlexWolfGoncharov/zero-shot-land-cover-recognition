@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Multiple circular center-pivot irrigation fields with varied cultivation stages and distinct field boundaries typical of agricultural land use.'}}

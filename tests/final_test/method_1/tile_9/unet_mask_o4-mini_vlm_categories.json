@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Extensive sand dunes, minimal plant cover, clear bare-soil signatures."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Numerous low woody shrubs among dunes, sparse canopy."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Defined water reservoirs with stable water surfaces."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Intensive rectangular cultivation patterns."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Bare tilled fields in farm layout, awaiting planting."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Engineered canals with persistent water signal."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense, rounded green canopies consistent with tree stands."
+  }
+}

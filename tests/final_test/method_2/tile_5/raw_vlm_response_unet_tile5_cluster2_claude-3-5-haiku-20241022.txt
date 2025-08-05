@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform green and beige patches with geometric shapes, typical of agricultural fields with different crop stages and types'}}

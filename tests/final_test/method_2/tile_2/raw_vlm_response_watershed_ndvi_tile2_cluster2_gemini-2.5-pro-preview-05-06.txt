@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a large, homogenous, dark-colored area with a smooth texture, characteristic of a large river or lake, clearly distinct from adjacent land.'}}

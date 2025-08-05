@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular geometric grid patterns, urban infrastructure, systematic street networks, and building density clearly indicate developed urban area.'}}

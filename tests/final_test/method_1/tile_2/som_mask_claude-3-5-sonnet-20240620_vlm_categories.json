@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark area with smooth texture and clear boundaries, characteristic of a sea or lake."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular patches of varying green/brown shades in a grid pattern, indicating cultivated fields."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense concentration of small, bright rectangular structures along coastline, typical of urban areas."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very bright, irregular areas within agricultural regions, suggesting exposed soil or fallow fields."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green areas with irregular shapes at field edges and near water, indicating natural vegetation."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Light green areas with smoother texture than croplands, possibly indicating grass or low vegetation."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Low",
+    "reasoning": "Bright, elongated features in water; could be shallow areas or sediment patterns."
+  }
+}

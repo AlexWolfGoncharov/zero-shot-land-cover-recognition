@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue coloration, smooth texture, and distinctive meandering river pattern characteristic of permanent water bodies.'}}

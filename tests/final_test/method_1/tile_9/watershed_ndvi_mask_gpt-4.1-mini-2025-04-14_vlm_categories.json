@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Patchy, sandy texture with sparse vegetation indicates bare or sparse vegetation land cover."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Moderate vegetation density and irregular pattern suggest shrubland rather than cropland or grassland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and varied vegetation states are characteristic of cropland."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dense green vegetation adjacent to water and water channels suggests wetland vegetation."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark, smooth, linear (canals) and patch features, typical of water bodies in an agricultural landscape."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns, reddish-brown/dark brown colors typical of bare soil or fallow land in cultivated areas."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright, heterogeneous areas including a distinct settlement in the top-left with buildings and roads."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field shapes, bright green color indicating healthy vegetation, and context within an agricultural landscape."
+  }
+}

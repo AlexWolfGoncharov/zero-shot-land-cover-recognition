@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense geometric pattern of rectangular structures typical of urban/city development"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Systematic rectangular field patterns with clear agricultural plot divisions"
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform dark green color, continuous texture indicative of forest or woodland"
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed color palette and irregular field shapes suggest agricultural landscape"
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Patchy, non-uniform surface with mixed light green and brown tones"
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Distinct linear dark feature with consistent texture of water channel"
+  }
+}

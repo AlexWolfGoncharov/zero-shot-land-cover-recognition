@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular fields and uniform texture strongly indicate cultivated land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The presence of agricultural patterns suggests cropland, but the mixed shapes reduce certainty."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The bright green color and circular pattern strongly indicate active crop cultivation."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and darker hues suggest a less cultivated area, likely shrubland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The uniform brown color and lack of vegetation strongly indicate bare soil."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The dense green texture suggests tree cover, but proximity to agriculture adds uncertainty."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The blue hues and irregular shapes strongly indicate the presence of water."
+  }
+}

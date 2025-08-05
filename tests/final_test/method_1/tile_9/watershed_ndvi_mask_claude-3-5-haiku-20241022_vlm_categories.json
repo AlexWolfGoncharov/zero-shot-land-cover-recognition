@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Uniform light color, granular texture, and absence of vegetation indicates a desert or barren landscape"
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed green and brown tones suggest sparse vegetation with exposed ground typical of shrubland ecosystems"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green color, rectangular field divisions, and systematic layout indicate managed agricultural land"
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed green and brown tones, scattered vegetation, and open landscape suggest grassland characteristics"
+  }
+}

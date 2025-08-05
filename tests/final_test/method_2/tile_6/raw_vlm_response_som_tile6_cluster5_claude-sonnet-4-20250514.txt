@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns with varied crop stages and systematic agricultural organization characteristic of managed farmland.'}}

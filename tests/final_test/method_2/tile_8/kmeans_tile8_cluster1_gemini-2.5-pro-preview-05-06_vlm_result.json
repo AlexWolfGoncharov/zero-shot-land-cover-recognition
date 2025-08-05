@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The segment consists of large, geometrically regular parcels (rectangles) with internal linear patterns, characteristic of tilled fields and managed agricultural land."
+  }
+}

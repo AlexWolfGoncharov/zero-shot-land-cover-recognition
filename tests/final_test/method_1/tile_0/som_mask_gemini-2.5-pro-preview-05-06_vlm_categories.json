@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The very dark green color and occurrence as linear features or dense patches suggest woody vegetation like trees or dense shrubs along boundaries/waterways."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shapes, colors (browns for soil/residue, dark greens for crops) are characteristic of active agricultural land use."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The regular geometric shapes (fields) and colors (greens for growing crops, browns for fallow/harvested) strongly indicate cropland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The presence of a clear settlement (buildings, roads in upper left) and major road lines are strong indicators of built-up areas."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Large areas of bright, lush green vegetation, some with natural-looking boundaries, suggest grassland or pasture, distinct from typical row crops."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very light brown/tan colors and smooth texture strongly indicate exposed soil or very sparse, dry vegetation, typical of fallow or harvested land."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular field shapes with bright, uniform colors (including unusual reds and bright greens) indicate actively managed agricultural plots with specific crops."
+  }
+}

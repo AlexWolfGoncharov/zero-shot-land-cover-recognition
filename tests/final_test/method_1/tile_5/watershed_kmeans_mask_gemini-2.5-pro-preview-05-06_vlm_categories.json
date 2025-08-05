@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dominant areas show dense structures, roads, and impervious surfaces, characteristic of urban and developed land."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light-toned, relatively smooth areas, often adjacent to built-up zones, suggesting cleared land or minimal vegetation cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric shapes (circular, rectangular fields) and reddish-brown color, indicative of active agricultural land use."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clearly defined agricultural plots with bright green to yellowish-green coloration, indicating active cultivation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Vibrant green, uniformly textured agricultural fields with geometric shapes, indicating healthy, growing crops."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Agricultural plots with pale green or light tan-green color, suggesting a specific crop stage or type."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Brown to dark brown agricultural fields, likely representing tilled soil, fallow land, or harvested fields."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green, uniformly textured circular and rectangular agricultural fields, indicating dense, mature crops."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green, textured vegetation, particularly along the riverine corridor, suggesting dense natural woody vegetation like riparian trees."
+  },
+  "9": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Very dark, almost black areas, particularly forming linear features within the riverine system, indicative of open water surfaces."
+  },
+  "10": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, contiguous, very dark blue/black area with smooth texture and visible wave patterns, clearly representing a major water body."
+  }
+}

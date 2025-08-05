@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, grid-like parcels and varying crop vigor indicate active agricultural fields."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous canopy adjacent to water is typical of riparian forest."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy cover and visible soil suggest sparse vegetation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Consistently dark, smooth surfaces in river channels indicate open water."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and lack of structure suggest exposed soil or sparse cover."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green and fine texture without clear crop boundaries suggest natural or semi-natural grassland."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Mixed texture and color in transitional areas may indicate shrub-dominated cover."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, bright green patches with straight edges are typical of cultivated fields."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Proximity to water and mottled texture suggest wetland vegetation."
+  },
+  "9": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "High reflectance and blocky pattern suggest impervious surfaces or buildings."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Coarse texture and mixed color at edges suggest shrub-dominated transition zones."
+  }
+}

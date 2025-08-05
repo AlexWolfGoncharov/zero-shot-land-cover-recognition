@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dense green vegetation interspersed with water patches along river indicates water-tolerant herbaceous plants typical of wetlands'}}

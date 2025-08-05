@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Pivot irrigation circles and structured fields indicate active cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation and bare soil likely represent cropland in fallow or early growth."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Clear water body with no vegetation or built-up features."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, irregular vegetation patches suggest tree cover."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Structured fields with crop rows indicate active cropland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse vegetation and exposed soil dominate the area."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Vegetation density and texture suggest shrubland rather than mature trees."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Clear urban layout with buildings and streets."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform grassy texture without crop rows or irrigation."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Dominance of bare soil with minimal vegetation."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Presence of irrigation circles and structured fields typical of cropland."
+  }
+}

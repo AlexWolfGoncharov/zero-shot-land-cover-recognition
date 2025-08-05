@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field shapes with uniform bare soil appearance in agricultural landscape context'}}

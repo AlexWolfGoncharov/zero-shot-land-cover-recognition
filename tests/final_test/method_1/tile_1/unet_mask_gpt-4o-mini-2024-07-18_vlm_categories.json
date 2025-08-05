@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniformity and rectangular shapes indicate cultivated land, typical of cropland."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and patchiness suggest a mix of shrubs rather than uniform grassland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense green texture is characteristic of tree cover, distinguishing it from shrubland."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The presence of bare patches indicates sparse vegetation rather than dense grassland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns are typical of irrigated cropland, especially in agricultural settings."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The dark uniform texture suggests water presence, but adjacent vegetation complicates definitive classification."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The proximity to urban areas and mixed textures suggest built-up land rather than purely agricultural."
+  }
+}

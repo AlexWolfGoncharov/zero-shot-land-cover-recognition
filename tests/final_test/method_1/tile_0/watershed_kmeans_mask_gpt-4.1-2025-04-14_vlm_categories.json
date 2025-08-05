@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The grayscale value corresponds to dense vegetation typical of tree cover."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "high",
+    "reasoning": "The gray level indicates medium-density vegetation consistent with shrubland."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "The gray value matches open grassy areas with low vegetation density."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Gray values suggest cultivated fields, but some ambiguity remains due to mixed land use."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The gray level indicates urban or built-up areas with high reflectance."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Gray values correspond to areas with minimal vegetation cover."
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": "high",
+    "reasoning": "Very high reflectance typical of snow and ice surfaces."
+  },
+  "7": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Gray levels match water bodies with consistent reflectance."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Gray values suggest wetland areas with herbaceous vegetation, but some overlap exists."
+  },
+  "9": {
+    "category": "Mangroves",
+    "confidence": "medium",
+    "reasoning": "Gray levels are indicative of mangrove areas, though spectral similarity with other vegetation types causes some uncertainty."
+  },
+  "10": {
+    "category": "Moss and lichen",
+    "confidence": "medium",
+    "reasoning": "Gray values are consistent with moss and lichen-covered surfaces, but differentiation from other low-vegetation areas is limited."
+  }
+}

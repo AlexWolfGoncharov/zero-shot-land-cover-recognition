@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Clear geometric field patterns with circular center-pivot irrigation structures and rectangular plots showing various crop growth stages.'}}

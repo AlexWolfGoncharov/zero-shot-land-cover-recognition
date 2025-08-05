@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, featureless expanse characteristic of a sea or lake. Sharp boundary with land areas."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Patchwork of different shades of green with geometric shapes typical of agricultural fields. Variety in color suggests different crops or growth stages."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense concentration of small, regular shapes characteristic of urban development. Location along the coast suggests a coastal town or city."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Bright green color and smooth texture suggest grassy areas. Mix of natural grasslands and possible managed pastures adjacent to cropland."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and mottled texture indicative of tree canopy. Irregular shapes and proximity to water suggest natural forest or woodland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and smooth texture suggest areas with little vegetation. Could be sandy beaches along coast or exposed soil inland."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Small, scattered bright spots likely represent highly reflective surfaces such as metal roofs or structures within urban areas."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields with varied agricultural colors indicating active cultivation and crop rotation patterns.'}}

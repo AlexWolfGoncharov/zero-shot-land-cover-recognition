@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'medium', 'reasoning': 'Segment located within intensive agricultural area dominated by pivot irrigation and rectangular crop fields'}}

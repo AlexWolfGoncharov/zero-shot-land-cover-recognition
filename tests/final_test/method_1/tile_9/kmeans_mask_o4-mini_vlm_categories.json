@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Uniform bright dunes lack green cover, typical of sparsely vegetated sand."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular dark clumps on dunes indicate small shrubs rather than grass or bare sand."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Defined basins with dark water, engineered canal geometry indicate permanent water."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular rectangular fields with uniform crop canopy indicate active agriculture."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Rectangular furrows and field layout suggest fallow/tilled farmland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Uniform bare parcels exhibit no crop or shrub structures, typical of unvegetated plow."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "low",
+    "reasoning": "Linear roads and isolated structures suggest agricultural infrastructure rather than vegetation."
+  }
+}

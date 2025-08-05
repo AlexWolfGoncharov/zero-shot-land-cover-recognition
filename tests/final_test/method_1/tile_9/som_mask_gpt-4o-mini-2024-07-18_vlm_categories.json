@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense, dark green area indicates significant tree cover, typical of forested regions."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "The structured appearance and lighter color suggest cultivated land, typical of cropland."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The presence of bare soil and sparse cover indicates a lack of significant vegetation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The reflective nature of the surface strongly suggests the presence of water bodies."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mix of vegetation types and irregular shapes suggest a shrubland environment."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "The geometric shapes and uniformity suggest urban development rather than natural vegetation."
+  }
+}

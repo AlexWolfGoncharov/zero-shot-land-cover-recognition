@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "low",
+    "reasoning": "Includes the river channel (water) but also linear features resembling roads (Built-up), indicating a mix."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, geometric fields with uniform bright green color characteristic of active agriculture."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, geometric fields with varied colors consistent with different crop stages or bare soil within agriculture."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, geometric fields with reddish-brown/light colors typical of bare soil or senescent crops."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Includes a concentrated area of bright features and linear structures clearly identifiable as a settlement."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, geometric fields with green color and uniform texture indicative of active agricultural cultivation."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Includes areas along the river with dense vegetation (likely riparian/wetland) and other non-geometric natural patches."
+  }
+}

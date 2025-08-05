@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment covers dense, grid-like structures typical of urban areas adjacent to water, with clear roads and buildings visible.'}}

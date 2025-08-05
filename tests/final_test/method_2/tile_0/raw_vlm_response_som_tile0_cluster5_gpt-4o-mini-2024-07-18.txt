@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The uniform texture and linear patterns suggest agricultural cultivation typical of cropland.'}}

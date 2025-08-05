@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment is a small, irregularly shaped patch within a highly agricultural landscape dominated by circular and rectangular fields typical of cropland.'}}

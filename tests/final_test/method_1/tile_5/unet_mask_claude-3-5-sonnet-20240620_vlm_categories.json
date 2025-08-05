@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth appearance with clear boundary against land strongly indicates a large water body, likely a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes, varied green shades, and visible field patterns are characteristic of agricultural land use."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Bright appearance suggests exposed soil or sand, possibly fallow fields or natural bare areas within agricultural landscape."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Less structured appearance and mottled texture suggest natural vegetation, likely grassland or pasture areas between cultivated fields."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown color and geometric shapes suggest agricultural use, possibly different crop types or growth stages."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, regular pattern of small structures is characteristic of urban or suburban development near water."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small, scattered white areas likely represent roads, buildings, or infrastructure associated with agricultural and urban areas."
+  }
+}

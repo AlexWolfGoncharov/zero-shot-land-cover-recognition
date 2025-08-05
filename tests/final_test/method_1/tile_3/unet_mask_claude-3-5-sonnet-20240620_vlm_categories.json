@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color and meandering shapes characteristic of rivers or water channels within a larger water body."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Bright green color and irregular shapes suggest natural vegetation. Varied textures indicate different types or densities of tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes and regular patterns within each plot typical of agricultural fields. Different colors likely represent various crops or growth stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Regular grid pattern and light color characteristic of urban areas. Contrast with surrounding vegetation supports this classification."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Location within water body and dark green color suggest wetland vegetation. Smooth texture indicates herbaceous rather than woody plants."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and irregular shapes suggest areas with little vegetation. Could be fallow fields or naturally sparse areas between croplands."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Very light color and straight boundaries suggest man-made structures or cleared areas within urban zones. Possibly large buildings or infrastructure."
+  }
+}

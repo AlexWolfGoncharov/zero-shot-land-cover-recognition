@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Grid-like rectangular structures adjacent to water indicate urban built-up area.'}}

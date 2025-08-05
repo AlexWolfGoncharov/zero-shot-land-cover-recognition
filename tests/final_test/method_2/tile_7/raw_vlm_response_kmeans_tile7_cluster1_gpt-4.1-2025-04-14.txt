@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular, geometric parcels with varying vegetation indicate intensive agricultural activity typical of cropland.'}}

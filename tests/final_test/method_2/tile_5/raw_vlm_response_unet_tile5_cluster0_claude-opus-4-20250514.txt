@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear coastal infrastructure (road/seawall) with uniform texture, separating agricultural land from water, with visible human structures.'}}

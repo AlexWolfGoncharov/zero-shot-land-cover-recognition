@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark coloration, smooth texture, and sharp boundaries with agricultural/built-up areas clearly indicate permanent water.'}}

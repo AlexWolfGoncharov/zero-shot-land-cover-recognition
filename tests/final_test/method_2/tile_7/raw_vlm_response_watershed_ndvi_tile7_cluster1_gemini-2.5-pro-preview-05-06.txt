@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment displays a dense, radial pattern of streets and small, bright, rectangular features, which are characteristic signatures of a planned human settlement (town/village).'}}

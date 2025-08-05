@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment has a very low albedo (dark color) and smooth texture, characteristic of a water body, surrounded by a bright, possibly saline, shoreline.'}}

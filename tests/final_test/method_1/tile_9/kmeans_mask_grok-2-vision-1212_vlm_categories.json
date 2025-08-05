@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Uniform light texture suggests sparse vegetation cover."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Green patches suggest grass presence, mixed with brown areas."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense dark green indicates tree canopy cover."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Grid pattern typical of agricultural fields."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Dark uniform texture suggests water presence."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Visible structures indicate human settlement."
+  }
+}

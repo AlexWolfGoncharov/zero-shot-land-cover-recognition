@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Rectilinear grid, dense bright features, and adjacency to roads indicate urban/built-up area."
+  }
+}

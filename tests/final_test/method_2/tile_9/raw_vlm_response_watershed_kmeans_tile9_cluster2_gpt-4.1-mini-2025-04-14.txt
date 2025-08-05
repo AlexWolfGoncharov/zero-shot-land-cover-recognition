@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment shows a pattern of light-colored sandy or soil patches with sparse, scattered vegetation, typical of bare or sparsely vegetated land.'}}

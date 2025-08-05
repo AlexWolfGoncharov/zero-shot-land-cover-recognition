@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Circular dark feature with smooth texture typical of water, surrounded by agricultural fields.'}}

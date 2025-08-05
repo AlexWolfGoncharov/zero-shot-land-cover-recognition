@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular grid pattern, blocky shapes, and high reflectance indicate urban infrastructure typical of built-up areas.'}}

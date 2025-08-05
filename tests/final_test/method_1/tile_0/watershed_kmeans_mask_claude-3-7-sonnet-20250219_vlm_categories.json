@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Small bright white/beige geometric structures with high reflectance, appearing as isolated buildings or infrastructure amid agricultural landscape."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Vibrant green rectangular fields with uniform texture and distinct boundaries, showing active crop growth in geometric patterns."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric fields with variable coloration (light green/tan) indicating different crop types or harvest stages within agricultural system."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Darker green areas with heterogeneous texture, appearing as natural vegetation fragments along possible drainage features."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Thin light-colored linear features forming network across landscape; clearly road infrastructure connecting agricultural areas."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Very small bright white dots at road intersections; likely individual buildings or small settlement clusters."
+  }
+}

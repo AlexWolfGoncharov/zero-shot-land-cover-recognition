@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular sand dunes with light tones and sparse vegetation indicate bare/sparse ground.'}}

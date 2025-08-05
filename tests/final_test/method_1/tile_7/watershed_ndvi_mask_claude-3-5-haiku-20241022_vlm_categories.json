@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Distinctive urban grid pattern with compact, uniform rectangular structures typical of city/town layout"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Systematic field divisions, multiple crop colors, and clear agricultural land management patterns"
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Predominant dark green areas suggest forest/woodland, but mixed textures introduce some uncertainty"
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Straight, uniform dark feature characteristic of a river or canal"
+  }
+}

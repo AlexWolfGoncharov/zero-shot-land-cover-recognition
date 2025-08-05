@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Linear dark blue/black feature consistently separating agricultural fields, showing characteristic canal/waterway appearance without vegetation.'}}

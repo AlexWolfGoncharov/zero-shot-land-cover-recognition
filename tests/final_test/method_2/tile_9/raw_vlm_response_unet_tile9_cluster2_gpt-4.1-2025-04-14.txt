@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Region shows sandy, open ground with scattered sparse vegetation, typical of bare/sparse vegetation in arid environments.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment covers a large dark area with smooth texture and no vegetation patterns, consistent with water body characteristics.'}}

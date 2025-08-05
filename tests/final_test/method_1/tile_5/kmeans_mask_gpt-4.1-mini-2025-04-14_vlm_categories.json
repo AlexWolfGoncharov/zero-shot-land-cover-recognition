@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct geometric fields with varied green and brown shades indicate active agricultural land."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, grid-like pattern of buildings and roads near coast clearly shows urban area."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, uniform areas along coast typical of water bodies."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular lighter green patches with rough texture suggest grassland."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Medium green, irregular textured patches adjacent to cropland indicate shrubland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light-colored, low-texture patches resemble bare soil or sparse vegetation."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "low",
+    "reasoning": "Mixed textures and colors suggest cropland but proximity to built-up lowers confidence."
+  }
+}

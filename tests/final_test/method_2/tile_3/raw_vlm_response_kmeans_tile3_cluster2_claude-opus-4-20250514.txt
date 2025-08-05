@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dark green vegetation with sinuous water channels, adjacent to river, typical wetland spectral signature and texture.'}}

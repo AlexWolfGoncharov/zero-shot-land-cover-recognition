@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct regular rectangular field patterns and alternating bare and planted plots indicate active agricultural cropland.'}}

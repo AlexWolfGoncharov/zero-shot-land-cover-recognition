@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform rectangular fields with distinct color variations typical of cultivated agricultural landscapes with crop rotation patterns.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Clear geometric field patterns, varying green intensities, rectangular parcels, and visible cultivation boundaries indicate managed agricultural land.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'Medium', 'reasoning': 'Segment contains clear gridded patterns of streets and buildings characteristic of settlements, a primary indicator for the built-up class.'}}

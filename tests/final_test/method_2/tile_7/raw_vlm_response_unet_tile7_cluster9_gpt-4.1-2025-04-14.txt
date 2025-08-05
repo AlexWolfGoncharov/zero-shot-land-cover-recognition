@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Patchwork of rectangular plots, clear field boundaries, and varied vegetation indicate intensive agricultural use typical of cropland.'}}

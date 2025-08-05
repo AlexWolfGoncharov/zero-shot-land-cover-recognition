@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform grid pattern typical of agricultural fields, varying green/brown indicating crop growth stages.'}}

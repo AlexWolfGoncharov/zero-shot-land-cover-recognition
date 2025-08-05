@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Straight‐edged, rectangular field patterns and tonal variability indicate active agriculture.'}}

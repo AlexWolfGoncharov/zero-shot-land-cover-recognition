@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Irregular, low‐profile green patches on sandy terrain without field geometry indicate natural shrub cover.'}}

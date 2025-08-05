@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segments are rectangular parcels with uniform texture, typical of fallow or recently harvested agricultural fields within a larger agricultural mosaic."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Perfect circular shapes with uniform dark green coloration indicate actively growing, irrigated crops in center-pivot agricultural systems."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field boundaries and managed appearance with medium-dark green coloration indicate cultivated crops at different growth stages or crop types."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Maintained field geometry with lighter green/yellowish coloration suggests cropland at early growth stage or different cultivation practices."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Maintained field boundaries with minimal vegetation indicate agricultural land in fallow or post-harvest state within farming rotation."
+  },
+  "4": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Extremely light coloration with high reflectance within agricultural matrix indicates exposed soil with minimal vegetation but still within managed landscape."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Extremely bright reflectance with rectangular geometries and non-natural appearance indicate human-made structures and developed areas."
+  }
+}

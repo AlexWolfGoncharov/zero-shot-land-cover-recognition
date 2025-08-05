@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous green vegetation with natural boundary patterns typical of forest or woodland ecosystem"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Systematic rectangular field divisions, uniform surface suggesting cultivated agricultural landscape"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation density suggests grassland with scattered tree/shrub elements"
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark surface, natural curved boundaries consistent with river or lake"
+  }
+}

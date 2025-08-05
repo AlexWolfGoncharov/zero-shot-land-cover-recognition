@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns, uniform colors, clear agricultural parcel boundaries typical of intensive crop cultivation'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular center-pivot irrigation fields with varying green tones indicate active agricultural cultivation.'}}

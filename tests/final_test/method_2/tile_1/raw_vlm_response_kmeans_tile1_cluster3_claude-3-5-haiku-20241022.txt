@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular fields with distinct parcel boundaries, uniform green and reddish hues typical of agricultural landscapes with different crop stages'}}

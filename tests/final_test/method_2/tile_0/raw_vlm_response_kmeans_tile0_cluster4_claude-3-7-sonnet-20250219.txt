@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Clear geometric field patterns with varying green tones indicating different crops or growth stages in a managed agricultural landscape.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Multiple circular pivot-irrigated fields with uniform interior texture in an agricultural grid.'}}

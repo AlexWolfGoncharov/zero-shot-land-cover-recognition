@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Irregular patchy fields with soil and crop residue colors typical of cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct circular irrigation patterns characteristic of cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense dark green canopy with shadows indicating mature tree cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Irregular patches near roads suggest built-up areas with some bare soil."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large rectangular uniform fields typical of managed cropland."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear dark features consistent with irrigation canals or water bodies."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Small scattered light patches with sparse vegetation near built-up zones."
+  }
+}

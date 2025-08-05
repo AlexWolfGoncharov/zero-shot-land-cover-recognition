@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform rectangular fields with distinct color variations and clear agricultural plot boundaries indicate intensive crop cultivation.'}}

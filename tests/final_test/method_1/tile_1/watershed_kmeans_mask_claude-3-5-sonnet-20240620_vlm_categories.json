@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Irregular patterns and varied green shades suggest natural vegetation, likely trees. Mottled texture indicates canopy variation typical of forest areas."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns, regular shapes, and varying colors indicate agricultural use. Circular patterns suggest pivot irrigation systems."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectivity and geometric patterns are characteristic of urban areas. Sharp contrast with surrounding vegetation supports this classification."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, linear shape, and consistent width strongly suggest a river or canal. Straight path indicates it may be man-made."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shapes indicative of center pivot irrigation systems. Uniformity and contrast with surrounding fields support cropland classification."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mix of irregular and geometric shapes suggests transition zone. Varied textures indicate diverse vegetation, likely shrubs."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Uniform texture and lighter color suggest herbaceous vegetation. Lack of clear field patterns differentiates it from cropland."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "High reflectivity suggests exposed soil or rock. Small, scattered nature indicates areas of sparse vegetation."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Small, scattered dark spots could be individual trees or small clusters within agricultural landscape. Potential confusion with shadows."
+  },
+  "9": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Linear shape and connection to main water body suggest smaller streams or irrigation channels. Lighter color may indicate shallower water."
+  },
+  "10": {
+    "category": "Herbaceous wetland",
+    "confidence": "Low",
+    "reasoning": "Irregular shapes and proximity to water suggest wetland areas. Darker green indicates denser vegetation. Potential confusion with other types."
+  }
+}

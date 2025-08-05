@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Segment is dominated by geometric fields (circular, rectangular) appearing fallow/bare. Significant built-up areas are also present, lowering confidence."
+  }
+}

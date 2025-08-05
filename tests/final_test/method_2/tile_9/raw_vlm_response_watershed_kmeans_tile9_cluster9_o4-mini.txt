@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Irregular light‐toned dune patterns with scattered dark specks indicate sandy terrain with sparse vegetation.'}}

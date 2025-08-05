@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinctive circular pivot irrigation patterns and geometric field boundaries indicate active agricultural cultivation'}}

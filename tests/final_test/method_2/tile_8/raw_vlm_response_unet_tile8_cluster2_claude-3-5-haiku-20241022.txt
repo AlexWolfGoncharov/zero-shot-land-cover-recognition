@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular geometric pattern, uniform color variation, typical of center-pivot irrigation agricultural fields.'}}

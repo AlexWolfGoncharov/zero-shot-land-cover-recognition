@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes, varied colors, and patchwork pattern characteristic of agricultural fields in different stages of growth or with different crops."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color, less geometric shape, heterogeneous texture, and fuzzy edges indicative of tree cover, but could also be dense shrubland."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Lighter green color, smoother texture, transitional nature, and smaller patches consistent with grassland areas in an agricultural landscape."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright reflectance, geometric shapes, and stark contrast with vegetation typical of built structures, roads, or other man-made surfaces in rural areas."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown color, irregular shape, and rough texture suggest exposed soil or sparse vegetation, differentiating it from cropland."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark color, linear shape, and winding pattern characteristic of rivers or streams. Connectivity in the landscape supports this classification."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Color and texture suggest vegetation denser than grassland but less tall than tree cover. Challenging to distinguish from dense grassland or sparse tree cover."
+  }
+}

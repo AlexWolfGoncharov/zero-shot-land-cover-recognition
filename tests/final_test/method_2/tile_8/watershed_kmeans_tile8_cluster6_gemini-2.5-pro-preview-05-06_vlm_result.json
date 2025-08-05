@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The segment consists of large, rectangular fields with varied spectral signatures, indicating active crops and fallow land, which is characteristic of agriculture."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segments are clearly defined geometric parcels with uniform internal textures, characteristic of managed agricultural fields in various stages of growth or harvest.'}}

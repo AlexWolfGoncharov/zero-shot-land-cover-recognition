@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth surface in river channel and lake-like shapes."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Dense, dark green/brown vegetation adjacent to water, typical wetland appearance."
+  },
+  "2": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Dense, dark green vegetation within the wetland complex area."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Covers large, distinct rectangular areas with uniform green color."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Covers large, distinct rectangular areas with green and brown tones."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Covers large areas of light brown/tan, appearing as bare soil or very sparse cover."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Large areas of light brown/tan bare soil or sparse vegetation, including fields."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Large areas of very light brown/tan bare soil or sparse vegetation."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Brightest areas, very light brown/white, clearly bare soil or very sparse cover."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very light brown/tan areas, often linear, appearing as bare soil or sparse cover."
+  },
+  "10": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very light brown/white areas, often linear, appearing as bare soil or sparse cover."
+  }
+}

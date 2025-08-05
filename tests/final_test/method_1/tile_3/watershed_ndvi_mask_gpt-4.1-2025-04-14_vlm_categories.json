@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, contiguous areas follow river/floodplain, typical of open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and variable green tones are characteristic of cropland."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy, light-toned areas with little vegetation suggest bare or sparsely vegetated land."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous green canopy with natural boundaries typical of tree cover along riverine areas."
+  }
+}

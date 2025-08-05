@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment exhibits clear characteristics of agricultural land use, typical of cropland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Sinuous water channels with emergent vegetation indicate inland marshland.'}}

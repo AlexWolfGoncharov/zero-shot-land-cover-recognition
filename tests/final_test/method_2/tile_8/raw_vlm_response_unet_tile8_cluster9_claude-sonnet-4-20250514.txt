@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field boundaries, uniform texture, varied crop colors, and systematic agricultural landscape pattern indicate cultivated farmland.'}}

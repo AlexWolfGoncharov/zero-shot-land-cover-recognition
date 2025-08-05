@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'Medium', 'reasoning': 'The segment is dominated by numerous circular fields, a clear sign of irrigated agriculture, despite the erroneous inclusion of a large water body.'}}

@@ -1,0 +1,37 @@
+{
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green areas with irregular shapes suggest forested regions."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Sparse vegetation and exposed soil suggest bare land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Rectangular patterns and grey tones suggest urban structures."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with irregular patterns suggests shrubland."
+  },
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Grid patterns and varied vegetation suggest agricultural use."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Sparse vegetation with uniform texture suggests grassland."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Distinct blue areas indicate water presence."
+  }
+}

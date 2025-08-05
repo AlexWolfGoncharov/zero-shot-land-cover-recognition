@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The highlighted areas show a dense grid of streets and buildings along the coast, plus other large, angular structures, all characteristic of man-made infrastructure.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Sparse vegetation with sand-like texture and minimal plant cover observed.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense, regular grid-like pattern with small, uniform rectangular shapes typical of urban infrastructure and buildings.'}}

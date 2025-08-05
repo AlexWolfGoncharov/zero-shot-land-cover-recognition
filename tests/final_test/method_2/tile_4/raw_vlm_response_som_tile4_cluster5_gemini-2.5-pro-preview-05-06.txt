@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment consists of circular fields characteristic of center-pivot irrigation. The dark, uniform surface indicates fallow land, which is classified as cropland.'}}

@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area with sharp boundary, indicative of a significant body of water like a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Area consists of geometrically shaped fields with varied colors (bare soil, sparse vegetation, early crops), typical of agricultural land use."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Fields with uniform bright green color and dense texture, strongly suggesting actively growing crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometrically defined fields exhibiting colors consistent with different crops or growth phases within an agricultural system."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High density of structures, complex texture, and presence of linear features (roads) indicate an urban or suburban area."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Area comprises distinct fields with visual characteristics (colors, shapes) typical of cultivated land."
+  }
+}

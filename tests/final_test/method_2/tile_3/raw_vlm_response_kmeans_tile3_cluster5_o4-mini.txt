@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Uniform, light‐brown geometric fields with minimal green texture indicate exposed soil and sparse plant cover.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular irrigation fields with uniform bright green vegetation, characteristic of actively cultivated crops in center pivot systems.'}}

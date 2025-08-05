@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and geometric fields indicate active cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green, textured patches suggest tree canopy but mixed with shrubland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric fields with vegetation and soil patches typical of cropland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright, uniform, sharp-edged areas adjacent to settlements indicate buildings."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Circular irrigation patterns suggest cropland; uniform green could be grassland."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Smaller, dense, rough-textured patches suggest shrubland rather than mature trees."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Predominantly bare soil with minimal vegetation and geometric boundaries."
+  }
+}

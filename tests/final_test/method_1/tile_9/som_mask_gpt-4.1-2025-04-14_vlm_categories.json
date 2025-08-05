@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The cluster corresponds to areas with high greenness and canopy cover."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The cluster shows moderate greenness typical of shrub-dominated areas."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "The cluster exhibits uniform low to moderate greenness consistent with grasslands."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The cluster aligns with cultivated areas showing seasonal greenness."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The cluster displays very low greenness and high reflectance typical of urban areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The cluster shows low greenness with sparse vegetation cover."
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": "High",
+    "reasoning": "The cluster corresponds to high reflectance with very low greenness, indicative of snow or ice."
+  }
+}

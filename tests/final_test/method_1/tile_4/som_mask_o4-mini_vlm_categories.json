@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Pivot-irrigated circular fields indicate active agricultural cropland."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light‐toned circles correspond to recently harvested or fallow soil with little cover."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, low-reflectance surfaces match water retention features."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Grid of buildings and roads clearly denotes settlements."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Woody vegetation lines marking hedgerows or windbreaks."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Narrow herbaceous strips likely roadside or field-margin grass."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Patchy medium-height vegetation resembles unmanaged shrubs."
+  }
+}

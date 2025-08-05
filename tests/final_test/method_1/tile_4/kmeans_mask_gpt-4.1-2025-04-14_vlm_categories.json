@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigated fields are a hallmark of intensive agriculture; the regularity and context strongly indicate cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with crop rows and varied tones are typical of cropland under different management or crop cycles."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse, patchy cover and irregular shapes suggest fallow or bare ground, not built-up due to lack of urban structure."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The blocky, high-contrast pattern and road adjacency are characteristic of urban or built-up areas."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "The rough, mixed texture and peripheral location suggest unmanaged grassland or pasture."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches are indicative of tree cover, possibly shelterbelts or small woodlots."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The absence of vegetation and very light color indicate bare soil or recently disturbed ground."
+  }
+}

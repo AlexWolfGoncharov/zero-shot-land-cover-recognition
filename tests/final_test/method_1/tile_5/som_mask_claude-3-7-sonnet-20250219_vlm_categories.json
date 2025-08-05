@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, homogeneous appearance with sharp land boundary and no internal texture, characteristic of deep water absorption."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid pattern with high reflectance, showing clear street networks and compact structures typical of urban development."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Reddish-brown geometric fields showing exposed soil from recent harvest or plowing within agricultural landscape."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green rectangular fields with uniform texture indicating actively growing crops under intensive management."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Medium green areas with less geometric structure than cropland, suggesting natural or semi-natural vegetation cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinctive circular center-pivot irrigation patterns with varying crop growth stages, clearly managed agricultural land."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light tan/beige areas with minimal vegetation cover, likely exposed soil between fields or naturally sparse vegetation."
+  }
+}

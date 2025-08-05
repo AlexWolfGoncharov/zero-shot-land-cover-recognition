@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and uniform texture strongly indicate cultivated agricultural fields."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed textures suggest a natural area with shrubs rather than uniform grassland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense green texture and irregular shapes are indicative of tree cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of rectangular shapes and varied colors strongly indicates urban development."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The linear patterns and mixed colors suggest agricultural activity, though less distinct than cluster 0."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The darker tones and low texture suggest areas with little to no vegetation."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The smooth texture and reflective surface strongly indicate the presence of water."
+  }
+}

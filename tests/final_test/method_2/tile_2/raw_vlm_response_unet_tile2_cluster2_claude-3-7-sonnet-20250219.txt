@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark blue/black appearance with smooth texture, clear boundaries with shorelines, and characteristic water body shape.'}}

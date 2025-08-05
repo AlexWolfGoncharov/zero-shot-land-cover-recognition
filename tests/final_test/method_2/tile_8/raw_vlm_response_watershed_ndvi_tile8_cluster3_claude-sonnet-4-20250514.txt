@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Light blue coloration, smooth texture, and curved boundaries characteristic of water body in agricultural landscape.'}}

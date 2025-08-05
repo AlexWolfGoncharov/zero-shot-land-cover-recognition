@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 0.85, 'reasoning': 'The white region corresponds to dense vegetation with high reflectance typical of tree canopies.'}, '1': {'category': 'Built-up', 'confidence': 0.75, 'reasoning': 'The white area shows characteristics of urban structures with high reflectance and regular patterns.'}}

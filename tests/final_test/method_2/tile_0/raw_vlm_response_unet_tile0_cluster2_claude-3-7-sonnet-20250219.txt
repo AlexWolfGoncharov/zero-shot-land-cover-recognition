@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with varying shades of green indicating agricultural parcels in different growth/harvest stages and clear field boundaries.'}}

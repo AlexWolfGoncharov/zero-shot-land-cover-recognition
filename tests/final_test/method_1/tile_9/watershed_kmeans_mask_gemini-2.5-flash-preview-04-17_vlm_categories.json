@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green/brown rectangular fields with visible rows. Clearly cultivated land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Brown/light green rectangular fields, cultivated appearance."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Large, uniform dark green area with straight edges, dense canopy. Planted forest."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green/brown, irregular shapes in transition zone. Natural vegetation, likely grassland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Predominantly light brown/yellowish, patchy appearance. Dry soil with very sparse vegetation."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Darker green/brown patches within bare area. Denser grass or low shrubs."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, uniform, rectangular areas with straight edges. Artificial water bodies."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light brown/gray areas around water bodies. Likely bare ground or access areas."
+  },
+  "8": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Very bright white/light gray areas, distinct shapes. Appears to be structures or paved areas."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light brown/yellowish rectangular fields. Bare soil or harvested cropland."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green/brown rectangular fields. Cropland with vegetation or stubble."
+  }
+}

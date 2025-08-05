@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Organized geometric patterns, light-colored impervious surfaces, and structured urban infrastructure clearly indicate developed built environment.'}}

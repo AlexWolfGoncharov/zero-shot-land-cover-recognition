@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The linear, dark feature is consistent with a man-made canal or river. Its straight edges and contrast with surrounding land indicate a permanent water body."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The geometric patterns, varied colors, and clear field boundaries are characteristic of actively managed agricultural land with diverse crops."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The high reflectivity and geometric shapes suggest man-made structures or urban areas. However, some could be bare soil or harvested fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The perfect circular shape and uniform color within each circle are indicative of center-pivot irrigation systems, a common agricultural practice."
+  }
+}

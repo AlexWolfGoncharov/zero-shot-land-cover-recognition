@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Bright, light-colored surface with geometric boundaries within agricultural context, lacking vegetation patterns typical of surrounding croplands.'}}

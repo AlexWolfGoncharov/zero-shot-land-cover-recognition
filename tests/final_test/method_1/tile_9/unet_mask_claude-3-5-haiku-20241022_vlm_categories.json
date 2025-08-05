@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Irregular surface texture, low vegetation density, light coloration"
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Rough terrain with minimal vegetation, predominantly earthy color palette"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns, uniform dark green indicating cultivated agricultural land"
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Systematic field layout, multiple green tones indicating cultivated agricultural land"
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, uniform dark green color indicating continuous forest or woodland"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixture of vegetation and exposed ground, suggesting transitional vegetation type"
+  }
+}

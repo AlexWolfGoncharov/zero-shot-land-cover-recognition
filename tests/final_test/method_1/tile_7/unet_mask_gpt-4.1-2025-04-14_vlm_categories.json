@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, irregular patchwork and network of roads indicate a rural settlement core."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large, regular parcels and uniform texture are characteristic of cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches suggest tree cover, but proximity to water could indicate wetlands."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark, smooth, and isolated patches are consistent with small lakes or ponds."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color and sparse texture suggest bare soil or areas with minimal vegetation."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Linear, moist areas along watercourses are typical of herbaceous wetlands."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green color and softer texture suggest grassland, but could be fallow cropland."
+  }
+}

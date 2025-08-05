@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric fields and irrigation circles indicate managed agricultural land.'}}

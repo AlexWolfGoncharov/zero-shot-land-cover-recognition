@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense, dark green vegetation with continuous canopy texture distinct from surrounding agricultural landscape'}}

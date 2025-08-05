@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Patchwork pattern and smooth texture with varied green shades indicate cultivated fields typical of cropland."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Fragmented rough texture and dark green patches suggest shrubland rather than dense tree cover or cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green linear features along water bodies typical of riparian tree cover."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Bright, uniform appearance and lack of texture indicate bare soil or sparse vegetation."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense dark green color and rough texture characteristic of tree cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Regular shapes and adjacency to cropland suggest cultivated fields rather than grassland."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark tone and linear shape strongly indicate water bodies such as rivers or canals."
+  }
+}

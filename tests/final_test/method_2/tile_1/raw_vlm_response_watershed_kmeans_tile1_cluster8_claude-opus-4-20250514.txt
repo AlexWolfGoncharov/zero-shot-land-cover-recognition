@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark linear feature with uniform texture consistent with irrigation canal in agricultural landscape'}}

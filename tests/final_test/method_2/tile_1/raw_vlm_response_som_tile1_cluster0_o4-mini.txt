@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular parcel patterns, irrigation circles, varied crop textures indicate active agricultural fields.'}}

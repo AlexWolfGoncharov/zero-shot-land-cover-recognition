@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue-green uniform coloration and smooth texture typical of deep water bodies adjacent to coastline.'}}

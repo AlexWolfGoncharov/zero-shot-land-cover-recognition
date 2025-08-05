@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Smooth, dark, homogeneous area with water-like texture and context; adjacent to land, no vegetation or built-up features visible.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'medium', 'reasoning': 'Uniform texture with mixed green/brown hues suggests grassland.'}}

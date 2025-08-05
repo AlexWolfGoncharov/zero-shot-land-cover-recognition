@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense geometric urban grid with rectangular structures typical of human settlement infrastructure'}}

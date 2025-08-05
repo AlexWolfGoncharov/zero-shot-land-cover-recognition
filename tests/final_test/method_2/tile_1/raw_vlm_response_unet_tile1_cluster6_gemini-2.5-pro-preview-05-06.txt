@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The highlighted areas exhibit a granular texture, high albedo, and geometric patterns consistent with buildings, roads, and other artificial surfaces of a settlement.'}}

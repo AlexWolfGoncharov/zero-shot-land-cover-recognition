@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular/rectangular field patterns, varied vegetation colors indicative of different crops or growth stages, characteristic of agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Predominantly rectangular fields with brown/tan coloration, suggesting fallow or harvested croplands within an agricultural landscape."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular irrigated fields, light tan/beige color suggesting bare soil, harvested fields, or specific light-colored crops within an agricultural system."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Appears as an open water body with characteristic light blue-gray/whitish color, darker fringes, and a naturalistic shape, distinct from surrounding agricultural land."
+  }
+}

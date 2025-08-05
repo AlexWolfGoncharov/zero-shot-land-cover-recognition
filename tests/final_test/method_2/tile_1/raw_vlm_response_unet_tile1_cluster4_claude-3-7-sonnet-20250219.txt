@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct geometric field patterns with uniform texture, varying cultivation states, and clear evidence of agricultural management including center-pivot irrigation systems.'}}

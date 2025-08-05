@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric plots, mixed vegetation stages, and irrigation patterns are characteristic of intensively managed cropland.'}}

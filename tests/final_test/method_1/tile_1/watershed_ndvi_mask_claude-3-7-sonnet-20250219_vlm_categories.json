@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric field patterns, varied cultivation stages, and distinct boundaries indicate actively managed agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric patterns, field boundaries, and irrigation circles indicate agricultural use with different crop types or growth stages than Cluster 0."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Linear dark feature with consistent width and sharp contrast to surrounding land suggests an irrigation canal or waterway."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Brighter patches with irregular textures and complex patterns suggest settlements or infrastructure amid agricultural landscape."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segments are rectangular agricultural fields with a bare soil signature, indicating they are fallow cropland within a larger agricultural mosaic.'}}

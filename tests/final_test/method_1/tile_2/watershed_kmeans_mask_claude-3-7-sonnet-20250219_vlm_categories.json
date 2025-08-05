@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth surface with consistent coloration and clear boundaries with land features. Exhibits classic spectral signature of deep water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns with varying vegetation intensity. Clear field boundaries and diverse crop signatures indicate agricultural management."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense clusters of high-reflectance structures with geometric patterns and linear features (roads). Organized spatial arrangement indicates human settlement."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Darker green coloration, irregular shapes, and heterogeneous texture suggest natural vegetation stands, likely forest patches amidst agricultural landscape."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Location at land-water interface, irregular shape, and mottled appearance suggest saturated soils with emergent vegetation characteristic of wetlands."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Medium reflectance with light green to yellowish tones. Less structured than cropland but still shows vegetation coverage typical of grass-dominated areas."
+  }
+}

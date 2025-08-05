@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Clear water-like appearance with smooth, dark surface typical of river or water body"
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric layout resembles urban settlement or planned development with structured block design"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green color, geometric field patterns indicate agricultural cultivation"
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Transitional color and texture suggest sparse vegetation without dense tree cover"
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Consistent deep green color and complex texture typical of forested regions"
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Minimal green cover, exposed ground surface suggesting low vegetation density"
+  }
+}

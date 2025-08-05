@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric agricultural fields with irrigation systems, mixed crop stages, and systematic cultivation patterns clearly indicate cropland.'}}

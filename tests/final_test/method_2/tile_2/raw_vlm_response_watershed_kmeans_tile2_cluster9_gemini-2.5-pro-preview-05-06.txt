@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of a distinct mosaic of geometric, rectangular parcels with varying vegetation cover, characteristic of an actively managed agricultural landscape.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular center-pivot irrigated field with uniform bright green vegetation typical of actively managed agricultural crops.'}}

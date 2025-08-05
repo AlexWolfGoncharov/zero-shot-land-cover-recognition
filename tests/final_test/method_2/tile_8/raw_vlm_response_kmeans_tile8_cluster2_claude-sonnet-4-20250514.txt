@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Perfect circular geometry indicates center-pivot irrigation systems with uniform brown coloration typical of managed agricultural land.'}}

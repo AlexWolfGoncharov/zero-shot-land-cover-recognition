@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense dark green canopy with irregular shape and shadowing."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field patterns and uniform vegetation signature."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Harvest‐stage fields with uniform, geometric parcels."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Active cropland with consistent parcel geometry."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban morphology with rooftops and road networks."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Homogeneous dark tone and context of a river/lake channel."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Underlying water body morphology obscured by cloud shadows."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green color, regular shape, and smooth texture characteristic of managed forest plantations or dense tree cover in agricultural landscape."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape, light coloration, and evidence of cultivation patterns typical of center-pivot irrigation agriculture."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Varied color and texture suggest mix of grasses and sparse vegetation. Irregular shape and proximity to cropland indicate natural/semi-natural grassland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very light color and smooth texture indicative of exposed soil or areas with minimal vegetation cover."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright white color and small, scattered nature suggest man-made structures or roads. Resolution limits detailed identification."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Smooth texture, distinctive blue-green color, and large continuous area characteristic of a water body (lake/large pond)."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular shapes, varied green colors, and visible cultivation patterns typical of agricultural fields in different growth stages."
+  }
+}

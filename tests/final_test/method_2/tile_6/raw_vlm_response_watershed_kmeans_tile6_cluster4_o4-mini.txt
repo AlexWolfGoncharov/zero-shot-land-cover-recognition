@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Center-pivot circles and rectangular plots indicate irrigated crop fields.'}}

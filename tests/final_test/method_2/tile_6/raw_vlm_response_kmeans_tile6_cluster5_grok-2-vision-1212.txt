@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular patterns typical of center-pivot irrigation, varying green/brown indicating crop growth stages.'}}

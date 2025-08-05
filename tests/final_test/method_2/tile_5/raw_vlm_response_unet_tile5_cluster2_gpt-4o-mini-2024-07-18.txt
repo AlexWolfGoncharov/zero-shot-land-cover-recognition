@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The presence of distinct agricultural patterns indicates a managed cropland area.'}}

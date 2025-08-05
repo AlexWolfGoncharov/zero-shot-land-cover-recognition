@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field parcels with uniform textures and clear boundaries characteristic of mechanized agriculture.'}}

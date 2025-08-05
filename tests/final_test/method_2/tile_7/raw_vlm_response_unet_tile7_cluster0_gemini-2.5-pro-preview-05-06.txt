@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment highlights a large, dark, linear canal and several dark, circular ponds, which are characteristic features of open water bodies.'}}

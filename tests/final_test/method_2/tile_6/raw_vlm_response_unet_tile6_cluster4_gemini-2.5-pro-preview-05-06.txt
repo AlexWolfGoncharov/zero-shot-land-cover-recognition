@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment consists of a small cluster of very bright, high-albedo pixels with a granular texture, characteristic of buildings and artificial surfaces.'}}

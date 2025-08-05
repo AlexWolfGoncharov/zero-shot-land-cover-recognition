@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Dominant sandy textures with widely scattered low‐lying vegetation indicate sparsely vegetated dune terrain.'}}

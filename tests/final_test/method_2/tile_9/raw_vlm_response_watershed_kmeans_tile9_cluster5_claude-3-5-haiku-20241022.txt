@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Minimal ground cover, irregular terrain with earth tones suggesting exposed ground with very limited plant life'}}

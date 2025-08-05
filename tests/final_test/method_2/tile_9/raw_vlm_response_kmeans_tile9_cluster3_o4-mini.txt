@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular bright sand dunes with minimal green cover, indicative of bare or sparsely vegetated surfaces.'}}

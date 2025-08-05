@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Sandy/beige surface with scattered dark spots indicating sparse vegetation typical of arid landscapes'}}

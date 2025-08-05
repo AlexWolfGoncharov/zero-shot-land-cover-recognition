@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Small linear feature within intensive agricultural landscape with circular pivot irrigation fields and rectangular parcels.'}}

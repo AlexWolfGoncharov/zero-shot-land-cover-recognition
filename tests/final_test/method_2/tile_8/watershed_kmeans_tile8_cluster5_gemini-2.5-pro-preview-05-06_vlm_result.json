@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Segment contains a clear settlement with a grid pattern, but also includes large fallow cropland fields and a water body, indicating a mixed-class segment."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular shape, uniform texture, and context of adjacent irrigated fields indicate intensive agriculture typical of cropland.'}}

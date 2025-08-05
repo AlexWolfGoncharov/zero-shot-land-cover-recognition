@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric shapes (circles, rectangles) typical of agricultural fields, varied vegetation color suggesting different crops or growth stages."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly geometric field patterns, though with more color/texture variation than Cluster 0, suggesting different crop stages, types, or fallow land."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Cluster combines large water bodies (sea, river) and a coastal town. Water bodies cover a visibly larger area within this cluster."
+  },
+  "3": {
+    "category": "Not identifiable",
+    "confidence": "N/A",
+    "reasoning": "No unique gray value region in the provided segmentation mask can be attributed to a distinct 'Cluster 3'."
+  }
+}

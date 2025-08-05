@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Appears as a large, open water body with characteristic dark color and smooth texture in the RGB image."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dark, irregular patches in RGB, suggesting waterlogged soil or dense, low, moist vegetation, often found near water."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clearly demarcated agricultural fields with dark green or dark reddish colors in RGB, indicating active cultivation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes in an agricultural landscape; colors (green, reddish-pink) suggest varied crop types or stages."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct agricultural plots with textures and colors (lighter green, light reddish-pink) indicative of different crops."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns. Colors (light brown, tan) suggest harvested, fallow, or sparsely vegetated agricultural land."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Located in settlements, showing patterns of roads and paved surfaces with light gray tones in RGB."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright reflectance in RGB, concentrated in settlement areas, characteristic of roofs and man-made impervious surfaces."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very bright, rectangular patches in agricultural areas, likely highly reflective bare soil (e.g., dry, saline)."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Extremely bright, rectangular areas in RGB, suggesting highly reflective bare ground like salt-affected or very dry soil."
+  },
+  "10": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Green, textured areas in RGB, often irregular in shape, consistent with tree groups or dense woody vegetation."
+  }
+}

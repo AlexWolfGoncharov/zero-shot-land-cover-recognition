@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense residential area with clear street grid, numerous buildings, and typical suburban development pattern'}}

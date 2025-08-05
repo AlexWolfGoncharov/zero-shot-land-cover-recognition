@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense radial pattern with small structures indicates urban settlement."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Patchy rectangular fields with varying vegetation suggest agriculture."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Continuous dark linear feature characteristic of a canal or river."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Circular dark patches likely water bodies, edges irregular, possibly wetlands."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Rectangular patches with vegetation variation suggest agricultural land."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse vegetation and visible soil indicate bare or sparsely vegetated land."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Small green patches with moderate texture suggest grassland or small cropland."
+  }
+}

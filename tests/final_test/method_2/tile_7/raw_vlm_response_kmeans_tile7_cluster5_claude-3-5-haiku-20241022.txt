@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular fields with regular geometric patterns, uniform color variations indicating different crop types and growth stages.'}}

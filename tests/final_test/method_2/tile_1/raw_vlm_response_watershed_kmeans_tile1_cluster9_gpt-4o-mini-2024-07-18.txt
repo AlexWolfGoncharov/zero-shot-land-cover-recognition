@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': "Segment's shape and texture are consistent with agricultural fields."}}

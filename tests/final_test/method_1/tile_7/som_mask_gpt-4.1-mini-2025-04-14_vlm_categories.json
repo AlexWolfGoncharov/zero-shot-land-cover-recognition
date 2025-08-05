@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, geometric radial pattern indicates urban settlement, not agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Patchy, bounded fields with varied colors and textures suggest agricultural land."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear dark feature with water reflections indicates canal or river with permanent water."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches near water suggest tree clusters or small forest patches."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform, bounded rectangular fields with varied colors typical of cropland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color and sparse texture indicate bare or sparsely vegetated soil."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Scattered small dark patches with rough texture consistent with shrubland."
+  }
+}

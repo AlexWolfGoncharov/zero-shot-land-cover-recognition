@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The segment is heterogeneous, containing both forest and bare ground. Bare/sparse vegetation is chosen as it appears to be the areally dominant class."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense, dark vegetation suggests a significant presence of trees."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Uniform texture and adjacency to structures suggest agricultural use."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Patchy appearance and mixed colors suggest sparse vegetation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Bright reflective surface strongly indicates the presence of water."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Geometric shapes and proximity to urban areas indicate built structures."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Uniform texture and lighter color suggest grassland."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense, dark texture indicates a significant presence of trees."
+  }
+}

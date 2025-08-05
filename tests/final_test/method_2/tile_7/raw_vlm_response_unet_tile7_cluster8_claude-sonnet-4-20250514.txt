@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense dark green canopy with characteristic branching pattern and organic boundaries typical of forest vegetation.'}}

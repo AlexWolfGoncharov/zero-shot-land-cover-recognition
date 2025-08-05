@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns, varied crop colors, clear boundaries, and organized agricultural structure indicate active cropland management.'}}

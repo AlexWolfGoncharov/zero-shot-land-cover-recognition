@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns (circles/rectangles) with uniform dark green color indicating intensively managed irrigated agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Medium green fields with clear boundaries and managed appearance, showing different crop types or growth stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light brown/tan fields with regular geometric shapes suggesting fallow or recently harvested cropland."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light tan areas with minimal vegetation but still within agricultural landscape pattern."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white patches with high reflectance and geometric layout indicating buildings and infrastructure."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Mixed light green and tan areas with less defined boundaries showing less intensive management."
+  }
+}

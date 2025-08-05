@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment consists of numerous highly reflective, irregular, bright tan patches, characteristic of sand dunes or bare ground, with minimal vegetation.'}}

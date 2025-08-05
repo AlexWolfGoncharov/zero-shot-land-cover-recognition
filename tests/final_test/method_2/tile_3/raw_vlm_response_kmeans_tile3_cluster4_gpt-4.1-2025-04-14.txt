@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular grid of plots, heterogeneous vegetation, and geometric boundaries are characteristic of managed agricultural fields.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The patchy texture and linear patterns indicate cultivated land, consistent with cropland characteristics.'}}

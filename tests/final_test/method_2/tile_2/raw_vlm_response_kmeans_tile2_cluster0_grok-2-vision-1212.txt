@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense grid pattern, roads, and structures typical of urban areas.'}}

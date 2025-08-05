@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Rectilinear parcels, roads and dense impervious surfaces indicative of urban infrastructure'}}

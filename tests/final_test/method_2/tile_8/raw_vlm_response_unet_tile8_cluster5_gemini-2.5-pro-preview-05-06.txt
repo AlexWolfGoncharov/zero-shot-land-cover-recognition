@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment is dominated by distinct geometric shapes (circles and rectangles) characteristic of agricultural fields, including numerous center-pivot irrigation systems.'}}

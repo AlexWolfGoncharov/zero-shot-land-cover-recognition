@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows regular grid patterns with varying shades of green and brown, typical of agricultural fields with active cultivation.'}}

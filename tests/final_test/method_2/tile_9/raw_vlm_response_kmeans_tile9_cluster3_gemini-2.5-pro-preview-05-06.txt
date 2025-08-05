@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment exhibits a coarse, mottled texture of bright, exposed sandy soil mixed with darker patches of very low-density vegetation, typical of dune fields.'}}

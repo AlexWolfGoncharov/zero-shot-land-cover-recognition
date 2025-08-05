@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform patchwork fields with crop tones."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular irrigation crop fields."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Elongated dark water canal."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Urban grid and buildings."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Exposed soil without crop structure."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Linear rows of taller canopy trees."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Heterogeneous low-shrub texture."
+  }
+}

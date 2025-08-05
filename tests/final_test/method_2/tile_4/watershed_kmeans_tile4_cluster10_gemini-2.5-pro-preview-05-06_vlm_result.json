@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segments are geometrically shaped fields within an agricultural landscape. Their bare appearance indicates fallow land, which is part of a crop rotation system."
+  }
+}

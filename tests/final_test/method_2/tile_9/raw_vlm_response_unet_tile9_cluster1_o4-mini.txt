@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular, uniform fields indicating organized agriculture typical of cropland.'}}

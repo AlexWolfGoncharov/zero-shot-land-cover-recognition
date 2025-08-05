@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Sandy/desert terrain with distinctive dune patterns and no visible vegetation cover'}}

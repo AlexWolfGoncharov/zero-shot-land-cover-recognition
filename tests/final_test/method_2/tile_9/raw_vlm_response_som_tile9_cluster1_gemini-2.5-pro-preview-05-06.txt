@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'The segment exhibits a dark green color, coarse texture typical of a forest canopy, and a distinct grid-like pattern indicating a managed tree plantation.'}}

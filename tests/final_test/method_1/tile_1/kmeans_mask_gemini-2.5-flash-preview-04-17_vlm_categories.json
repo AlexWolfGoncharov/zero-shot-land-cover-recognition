@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "Low",
+    "reasoning": "Includes main canal (clear water body) and significant areas of dense vegetation (trees/shrubs), indicating a mixed cluster of spectrally similar dark features."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct field shapes (circles, rectangles) and varied colors consistent with active agricultural cultivation or bare/harvested fields."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes and colors consistent with agricultural cultivation, indicating different crop types or stages within the agricultural landscape."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes and colors consistent with agricultural cultivation, representing different crop types or stages within the agricultural landscape."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes and colors consistent with agricultural cultivation, representing different crop types or stages within the agricultural landscape."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes and colors consistent with agricultural cultivation, representing different crop types or stages within the agricultural landscape."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes and colors consistent with agricultural cultivation, representing different crop types or stages within the agricultural landscape."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'medium', 'reasoning': 'Dominant floodplain with emergent marsh vegetation and sinuous water channels'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Large radial irrigated agricultural fields with uniform textures and clear field boundaries typical of cropland.'}}

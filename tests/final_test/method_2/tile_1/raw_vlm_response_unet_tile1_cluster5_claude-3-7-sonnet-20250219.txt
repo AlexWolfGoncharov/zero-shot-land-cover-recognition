@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Linear water canal/channel with dark blue coloration running between agricultural fields, showing characteristic water reflection patterns.'}}

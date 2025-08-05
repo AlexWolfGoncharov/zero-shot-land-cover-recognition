@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular shape and uniform green texture strongly suggest cultivated land."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mixed texture and color variation indicate a less managed area."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The fragmented patches and green areas suggest cultivated land."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The smooth, dark appearance is characteristic of water bodies."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The mix of textures and colors suggests open land."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The irregular shape and mix of textures indicate areas with limited vegetation."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The smooth texture and uniformity suggest human development."
+  }
+}

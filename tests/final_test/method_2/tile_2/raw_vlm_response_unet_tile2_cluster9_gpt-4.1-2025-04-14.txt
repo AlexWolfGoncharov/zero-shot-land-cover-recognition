@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment covers a large, contiguous dark area with smooth texture, lacking vegetation or built structures, consistent with a water body such as a lake or river.'}}

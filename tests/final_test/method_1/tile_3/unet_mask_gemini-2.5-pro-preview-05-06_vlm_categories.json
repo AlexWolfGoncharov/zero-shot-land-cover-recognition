@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Predominantly very dark green rectangular plots suggest dense, healthy crops. Floodplain areas show similar color, possibly dense natural vegetation."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clearly open water with characteristic dark color, smooth texture, sun glint, and riverine morphology."
+  },
+  "2": {
+    "category": "Herbaceous wetland",
+    "confidence": "High",
+    "reasoning": "Green, vegetated areas directly adjacent to water bodies in the floodplain, consistent with non-woody wetland vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dominantly forms rectangular agricultural plots with varied vegetation color and texture, typical of active cultivation cycles."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light brown/tan rectangular plots within agricultural areas, likely representing fallow, tilled, or harvested fields."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Very bright, reflective surfaces forming clear geometric patterns of roads and buildings, especially in the top-right."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Extensive very bright areas indicating exposed dry soil, sand, or minimal vegetation cover across various contexts."
+  }
+}

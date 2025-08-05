@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The bright green color and uniform texture indicate dense tree cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The lighter green suggests cultivated crops, but the texture variability indicates mixed vegetation."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The patchy texture and irregular shape suggest a mix of shrubs and open areas."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The brown color and rough texture indicate a lack of dense vegetation."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dark green and uniform texture strongly indicate dense tree cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The light brown color and smooth texture suggest cultivated land."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The dark gray color and linear features indicate urban development."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The mixed colors and varied texture suggest a transitional area, likely grassland."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The bright green color and smooth texture indicate dense tree cover."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The light brown color and rough texture indicate a lack of dense vegetation."
+  },
+  "10": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dark green color and uniform texture strongly indicate dense tree cover."
+  }
+}

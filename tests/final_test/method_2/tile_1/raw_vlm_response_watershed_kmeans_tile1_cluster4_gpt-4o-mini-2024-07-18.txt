@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment exhibits organized agricultural patterns and smooth textures typical of cultivated land.'}}

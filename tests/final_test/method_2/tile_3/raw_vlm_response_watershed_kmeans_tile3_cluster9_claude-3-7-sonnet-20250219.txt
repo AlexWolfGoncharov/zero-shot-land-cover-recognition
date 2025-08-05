@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dark green vegetated area with irregular patterns adjacent to water body, showing characteristic wetland features with possible periodic inundation.'}}

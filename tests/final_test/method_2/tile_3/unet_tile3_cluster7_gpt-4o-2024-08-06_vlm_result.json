@@ -1,0 +1,12 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The shape appears rectangular and organized, typical of agricultural fields. Surrounding areas suggest cultivated land, but without more detail, confidence is moderate."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The region shows a large, consistent area with a smooth texture and a distinct boundary, indicative of a water body such as a lake or reservoir."
+  }
+}

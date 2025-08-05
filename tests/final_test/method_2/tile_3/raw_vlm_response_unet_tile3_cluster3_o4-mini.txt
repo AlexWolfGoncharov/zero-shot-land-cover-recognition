@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'medium', 'reasoning': 'Emergent vegetation in inundated, meandering channels along the river indicates freshwater wetland habitat.'}}

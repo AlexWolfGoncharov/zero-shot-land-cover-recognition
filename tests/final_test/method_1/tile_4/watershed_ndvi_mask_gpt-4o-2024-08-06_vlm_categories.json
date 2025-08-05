@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns suggest irrigated agriculture."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Presence of linear and grid-like patterns."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Irregular texture suggests natural vegetation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "Low",
+    "reasoning": "Lack of vegetation or presence of water."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, structured pattern with roads and buildings clearly visible, typical of urban areas."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns and uniform texture indicate managed agricultural land."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, irregular green patches suggest tree canopy but some ambiguity with shrubland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Linear, smooth features consistent with roads or paved surfaces."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dark green with water reflections near fields suggests wetland vegetation."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse vegetation and rough texture indicate bare or sparsely vegetated soil."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Moderate vegetation density and texture consistent with grassland rather than shrubland."
+  }
+}

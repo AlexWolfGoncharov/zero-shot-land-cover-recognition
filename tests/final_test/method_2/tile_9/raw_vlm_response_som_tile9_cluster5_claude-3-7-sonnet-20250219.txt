@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light tan/beige coloration with patchy texture, minimal green vegetation, and clear contrast with agricultural areas indicates arid/semi-arid bare land.'}}

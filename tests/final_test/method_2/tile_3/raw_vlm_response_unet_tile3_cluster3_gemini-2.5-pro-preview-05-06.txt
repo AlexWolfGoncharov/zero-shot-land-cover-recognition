@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'The segment shows a complex of open water (oxbow lake) and dense, non-forest vegetation within a river floodplain, characteristic of a wetland environment.'}}

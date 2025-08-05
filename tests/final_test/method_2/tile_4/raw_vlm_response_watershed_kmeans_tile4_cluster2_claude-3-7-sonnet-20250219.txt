@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular circular patterns, uniform texture, and various green tones indicate managed agricultural fields with center-pivot irrigation systems.'}}

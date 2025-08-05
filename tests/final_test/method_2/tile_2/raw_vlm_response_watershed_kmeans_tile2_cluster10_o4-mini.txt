@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Grid-like patterns of buildings, roads, and infrastructure indicate an urban settlement.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform circular center-pivot irrigation patterns with harvested/fallow crop coloration in agricultural landscape'}}

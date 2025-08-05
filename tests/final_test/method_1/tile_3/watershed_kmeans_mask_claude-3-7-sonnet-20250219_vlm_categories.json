@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark coloration, clear water-like appearance, follows river channel patterns, shows smooth texture characteristic of deep water."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dark green interspersed with black, irregular patterns adjacent to water, suggesting wetland vegetation in shallow water areas."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Bright green, dense continuous canopy pattern, irregular natural boundaries, and consistent texture indicates mature tree vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns, regular boundaries, varying green intensities, and clear evidence of cultivation in grid-like arrangements."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Light green to brownish coloration, less regular than cropland but more open than forest, showing characteristics of open grassy areas."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light tan/beige coloration, minimal vegetation signature, and homogeneous texture indicating exposed soil or minimal plant cover."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white/light reflectance, geometric patterns, linear features consistent with roads, and contrasting sharply with vegetation areas."
+  }
+}

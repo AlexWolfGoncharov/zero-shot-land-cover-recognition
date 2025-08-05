@@ -1,0 +1,1 @@
+{'0': {'category': 'No Data', 'confidence': 'high', 'reasoning': 'The segmentation mask contains no white pixels; thus, there is no segment to classify in the provided image.'}}

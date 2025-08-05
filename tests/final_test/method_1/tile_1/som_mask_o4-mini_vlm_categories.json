@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform circular fields with dense green vegetation indicate irrigated cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regularly shaped, green rectangular plots match active cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Alternating green strips within fields show managed crop rows."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Exposed soil and crop residue in defined fields suggest recently harvested cropland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Uniform light soil color and lack of vegetation indicate fallow or tilled ground."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Scattered farmsteads and infrastructure consistent with rural built‐up areas."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Compact, high‐density buildings and road network indicate urban settlement."
+  }
+}

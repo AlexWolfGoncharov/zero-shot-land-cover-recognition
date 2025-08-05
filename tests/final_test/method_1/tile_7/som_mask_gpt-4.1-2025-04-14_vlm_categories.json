@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and patchy color variation are characteristic of intensively managed cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Homogeneous dark green tone and irregular shapes suggest dense tree cover, possibly forest patches or shelterbelts."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark, smooth patches with water adjacency are indicative of ponds or small lakes."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear, dark, smooth features following a channel are characteristic of rivers or canals."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and lack of vegetation indicate exposed soil or sparsely vegetated ground."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Regular, sharp-edged patches within cropland matrix suggest different crop types or rotations."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, rough patches at field edges are typical of unmanaged grassland or fallow areas."
+  }
+}

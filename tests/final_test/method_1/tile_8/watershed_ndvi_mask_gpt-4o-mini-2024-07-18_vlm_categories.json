@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patches and uniform green color strongly indicate cultivated agricultural fields."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed vegetation suggest a shrubland area, though some grassland characteristics are present."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The dark color and smooth texture strongly indicate a water body, consistent with the surrounding agricultural landscape."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The rough texture and patchy appearance suggest areas of bare soil or sparse vegetation, likely due to agricultural practices."
+  }
+}

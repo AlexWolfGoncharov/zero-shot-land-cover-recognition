@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Sparse vegetation with sandy texture and no visible water bodies.'}}

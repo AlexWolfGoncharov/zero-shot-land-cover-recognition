@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes, uniform texture, and vibrant green color typical of cultivated agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green color, uniform texture, and distinct geometric shapes indicate mature crops or well-irrigated agricultural fields."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light color suggests harvested fields or dry crops. Geometric patterns indicate human management, consistent with agricultural practices."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Extremely light color suggests exposed soil or bare ground. Could be fallow fields or recently harvested cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Green color and geometric shapes consistent with agricultural fields. Slight texture variation suggests different crop types or growth stages."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright white color and location at field intersections suggest small buildings or structures, possibly farm-related infrastructure."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Grid pattern suggests a network of roads or access paths between agricultural fields, indicating human-made infrastructure."
+  }
+}

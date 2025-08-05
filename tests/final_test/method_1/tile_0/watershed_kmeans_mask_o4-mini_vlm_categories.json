@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular parcel geometry and planted‐row texture indicate active agricultural fields."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense infrastructure pattern and rooftop signatures mark an urban settlement."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Low‐reflectance channel and ponds consistent with open water."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Exposed soil and plow marks indicate fallow or bare fields."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Mixed crop signatures and parcel layout characteristic of agricultural land."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Predominantly bare soil with crop residue, indicating post‐harvest fields."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Floodplain herbaceous vegetation dominates channel margins."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Even canopy lacking agricultural furrows suggests natural grass cover."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Linear woody stands likely planted shelterbelts or riparian trees."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular plots and faint row structure indicate intensive cropping."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Parcel mosaic and regenerating crops suggest variable‐stage agricultural use."
+  }
+}

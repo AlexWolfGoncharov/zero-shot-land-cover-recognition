@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 0.75, 'reasoning': 'The detected region exhibits characteristics typical of dense foliage and canopy cover.'}, '1': {'category': 'Cropland', 'confidence': 0.65, 'reasoning': 'The region shows patterns consistent with agricultural fields and crop arrangements.'}}

@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "low",
+    "reasoning": "Contains linear features appearing as roads and dark fields. Roads indicate built infrastructure, but fields are mixed."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with dense dark green/brown vegetation. Indicates active cultivation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with dense green/brown/red vegetation. Indicates active cultivation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with varying dense green/brown/red vegetation. Indicates active cultivation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with varying dense green/brown/red vegetation. Indicates active cultivation."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with varying dense green/brown/red vegetation. Indicates active cultivation."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with varying dense green/brown/red vegetation. Indicates active cultivation."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with varying dense green/brown/red/yellow vegetation. Indicates active cultivation."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Rectangular fields appearing light brown/yellow, mostly bare soil or sparse cover. Indicates tilled land or senescent crops."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Rectangular fields appearing light brown/yellow, mostly bare soil or sparse cover. Indicates tilled land or senescent crops."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Contains the settlement area with buildings and structures, plus some bare fields. Settlement indicates built infrastructure."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape and uniform dark green color typical of irrigated crops. Regular spacing and sharp edges indicate human-managed agriculture."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light coloration suggests exposed soil or minimal vegetation. Patchiness and proximity to cropland indicate fallow or less productive agricultural areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shape and clear field boundaries typical of cropland. Varied green shades and visible patterns indicate different crops or growth stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectance and geometric shapes suggest man-made structures. Location near fields and roads consistent with farm buildings or small settlements."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Light coloration suggests grass or low vegetation. Irregular shapes and interspersion with other vegetation types indicate natural or semi-natural areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Linear shape and light color consistent with unpaved roads or field access paths. Network pattern suggests transportation infrastructure in agricultural area."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Darker green than grassland suggests denser vegetation. Irregular shapes and continuous patches indicate natural vegetation, possibly shrubs or small trees."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "High reflectance suggests man-made objects. Small size and distribution pattern consistent with isolated structures or equipment in agricultural setting."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Green color and proximity to other cropland suggest agricultural use. Mottled texture may indicate non-irrigated or different crop types than circular fields."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Dark green color and irregular shapes suggest natural vegetation. Continuous patches and location between fields may indicate remnant forest or windbreaks."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Light to medium green color consistent with grass or low vegetation. Smooth texture and natural boundaries suggest pasture or natural grassland areas."
+  }
+}

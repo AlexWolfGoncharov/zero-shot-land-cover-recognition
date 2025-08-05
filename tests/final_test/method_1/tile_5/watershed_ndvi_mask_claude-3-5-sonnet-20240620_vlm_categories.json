@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark area with smooth texture and clear boundary with land, characteristic of a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular patterns and varying shades of green and red typical of agricultural fields in different stages of growth."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Highly reflective circular and rectangular shapes suggest recently harvested or fallow fields, but could be early-stage crops."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, structured pattern of small geometric shapes characteristic of urban or suburban development."
+  }
+}

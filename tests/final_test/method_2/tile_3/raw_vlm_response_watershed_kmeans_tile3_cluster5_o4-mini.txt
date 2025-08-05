@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Straight-edged grid of rectangular plots with bare and vegetated soils characteristic of cultivated fields.'}}

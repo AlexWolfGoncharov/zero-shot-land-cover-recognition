@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric shapes and uniform texture indicate agricultural fields."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, irregular dark green patches suggest tree cover near water."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform light green areas without boundaries suggest natural grassland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Bright, sparse texture and irregular shapes indicate bare soil or sparse vegetation."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear bright spots near roads suggest buildings or infrastructure."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Dark irregular patches likely shrubland or dense undergrowth, less dense than trees."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark linear features following drainage patterns indicate water bodies."
+  }
+}

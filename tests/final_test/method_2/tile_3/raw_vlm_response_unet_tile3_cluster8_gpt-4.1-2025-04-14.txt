@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Grid-like, rectangular plots with varied vegetation indicate managed agricultural fields typical of cropland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular grid of rectangular fields with bare and cultivated patches indicating agricultural land'}}

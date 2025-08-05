@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns with varying colors indicating different crops/growth stages. Agricultural landscape dominates the highlighted regions.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment consists of a large expanse of bright, sandy terrain with a hummocky, dune-like texture, indicating predominantly bare ground with minimal vegetation.'}}

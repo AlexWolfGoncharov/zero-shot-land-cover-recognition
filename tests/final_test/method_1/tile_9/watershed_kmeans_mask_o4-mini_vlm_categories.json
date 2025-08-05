@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Distinct sand dune ripples with minimal vegetation cover."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Scattered low shrubs in a semi-arid matrix, not continuous grass."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field geometry and irrigation indicative of cultivated crops."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clearly standing water in engineered ponds and canals."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Linear shelterbelts or windbreaks of trees bordering fields."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Fallow or recently plowed agricultural parcels."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Road network and possibly small structures amid fields."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Agricultural use with variable crop phenology."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Possible herbaceous cover between dune and shrub zones."
+  },
+  "9": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Irrigation canals carrying water through agricultural matrix."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Sparse woody vegetation in transitional zone between dunes and fields."
+  }
+}

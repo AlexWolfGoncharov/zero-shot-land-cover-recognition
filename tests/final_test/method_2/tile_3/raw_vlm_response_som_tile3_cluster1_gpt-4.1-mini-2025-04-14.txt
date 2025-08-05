@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows regular grid patterns with distinct rectangular plots typical of agricultural fields, consistent with cropland land cover.'}}

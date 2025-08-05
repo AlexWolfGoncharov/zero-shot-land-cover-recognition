@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns and varying crop vigor are typical of agricultural land."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, contiguous, dark green areas along watercourses are characteristic of riparian forests."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark, smooth, and sinuous areas along river channels indicate open water."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy, light-toned areas with little vegetation suggest bare or sparsely vegetated land."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Mixed tones and proximity to water suggest seasonally or permanently wet herbaceous vegetation."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, deep green blocks with some straight boundaries likely represent managed forest or plantations."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy, intermediate-density vegetation without clear field or forest structure suggests grassland."
+  }
+}

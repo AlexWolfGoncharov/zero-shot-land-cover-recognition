@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Contains the main river/canal (dark linear feature) and also includes agricultural fields with varying vegetation/soil colors."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field shapes with colors indicating bare soil, stubble, or sparse vegetation, characteristic of agricultural land use."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field shapes with vibrant green color, indicating dense, healthy crop vegetation. Includes a small area of potential tree cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Contains a large area with a dense network of structures and roads in a radial pattern, characteristic of a settlement."
+  }
+}

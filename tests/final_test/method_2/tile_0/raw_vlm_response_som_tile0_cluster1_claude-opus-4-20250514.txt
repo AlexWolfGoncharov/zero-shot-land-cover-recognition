@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns, organized parcels, and varying green tones indicate active agricultural cultivation.'}}

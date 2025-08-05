@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green rectangular parcels with uniform texture and distinct field boundaries indicate actively managed agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Medium to light green rectangular fields with mixed vegetation coverage showing different growth stages or crop types."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinctive circular fields with light tan coloration characteristic of center-pivot irrigation agriculture in fallow/harvested state."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large irregular bright area with distinct shoreline and reflective surface characteristic of a lake or reservoir."
+  }
+}

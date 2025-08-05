@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Distinct buildings grid and impervious roads."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Emergent grasses and saturated soils along river."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Clear cultivated field patterns and planting rows."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed plowed soil with scarce vegetation."
+  }
+}

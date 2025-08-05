@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with uniform vegetation, clear field boundaries, and evidence of active cultivation within an agricultural landscape.'}}

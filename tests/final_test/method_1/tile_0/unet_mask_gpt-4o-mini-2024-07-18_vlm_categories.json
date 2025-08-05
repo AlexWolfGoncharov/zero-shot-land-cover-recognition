@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized rectangular patterns and green hues strongly indicate cultivated crops."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed textures suggest a less managed area, typical of shrubland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense, darker texture is characteristic of tree cover, especially near water."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "The uniform texture and lighter shades indicate open grassland rather than cultivated fields."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of rectangular shapes and proximity to roads indicates urban development."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The darker textures and irregular shapes suggest the presence of water bodies."
+  },
+  "6": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The light shades and sparse vegetation indicate areas with little to no cover."
+  }
+}

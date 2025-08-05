@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The highlighted pixels correspond to spectrally bright, tan-colored areas with a smooth texture, indicating exposed soil, sandbars, and unpaved tracks with minimal vegetation."
+  }
+}

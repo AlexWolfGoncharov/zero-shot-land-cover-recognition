@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dark green color, smooth texture, and irregular shapes characteristic of dense tree canopies. Distribution suggests patches of forest within agricultural areas."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric shapes, varied colors (light green, yellow, beige), and patchwork pattern typical of agricultural fields with different crops or growth stages."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Distinct grid-like pattern with densely packed small rectangular shapes, characteristic of urban or suburban areas with buildings and streets."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark color, smooth texture, and sinuous shape strongly suggest a river or stream flowing through the agricultural landscape."
+  }
+}

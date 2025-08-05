@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a dense grid-like pattern of streets and a complex, granular texture characteristic of buildings, roofs, and other impervious urban surfaces.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Shrubland",
+    "confidence": "high",
+    "reasoning": "Mottled appearance and rough texture suggest sparse vegetation cover typical of shrubland environments."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green color and smoother texture suggest grass cover, but variations in tone indicate possible mixed vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinct rectangular shapes with sharp edges and varying colors strongly indicate agricultural fields."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green scattered patches suggest groups of trees, but small size could also represent dense shrubs."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Very light color and smooth texture strongly suggest exposed soil or sand with little vegetation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Thin, dark lines likely represent roads or infrastructure, but some could be natural features."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark color, smooth texture, and distinct boundaries are characteristic of water bodies in satellite imagery."
+  }
+}

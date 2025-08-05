@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment shows a dense, radial settlement pattern and scattered individual buildings, which are characteristic features of artificial, man-made structures and impervious surfaces.'}}

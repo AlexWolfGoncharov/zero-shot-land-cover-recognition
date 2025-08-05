@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clear visual evidence of a meandering river (dark blue/black) and potentially smaller water channels or canals."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and texture suggest dense woody vegetation, likely trees along water bodies or in patches. Shrubland also possible."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns strongly indicate agriculture. Red color assumed to be a specific crop type or stage in TCI."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns and green color (vegetation in TCI) clearly point to active agricultural cultivation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes suggest agriculture. Brown/tan colors indicate bare soil, fallow, or harvested fields, part of crop rotation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright, angular structures and concentrated patterns typical of buildings, roads, and other man-made surfaces, especially the village-like cluster."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric field shapes indicate agriculture. Extreme brightness suggests specific reflective crop, very light dry soil, or covered agriculture."
+  }
+}

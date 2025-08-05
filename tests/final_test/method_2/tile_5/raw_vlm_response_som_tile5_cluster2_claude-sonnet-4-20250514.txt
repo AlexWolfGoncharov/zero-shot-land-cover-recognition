@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, varied spectral responses between parcels, clear boundaries indicate active agricultural cultivation.'}}

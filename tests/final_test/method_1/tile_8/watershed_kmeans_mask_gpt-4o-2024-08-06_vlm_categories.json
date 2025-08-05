@@ -1,0 +1,17 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns and uniform texture suggest irrigated agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular patches with varied textures indicate different crop types."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, smooth, dark area typical of water."
+  }
+}

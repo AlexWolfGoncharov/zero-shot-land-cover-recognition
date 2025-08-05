@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular and circular field patterns with varied crop colors and adjacent irrigation canals indicate agricultural land use.'}}

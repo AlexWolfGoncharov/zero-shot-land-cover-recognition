@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field parcels with mixed crop stages, clear agricultural boundaries and systematic land management patterns.'}}

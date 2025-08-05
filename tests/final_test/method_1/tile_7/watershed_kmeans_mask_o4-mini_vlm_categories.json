@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Rooftop textures and street network indicate urban settlement."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Smooth, dark tone and linear geometry consistent with irrigation canal."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Homogeneous dark interior and clear shoreline signify ponds."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct field boundaries and row structure denote active agriculture."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Lack of green tones and absence of row structure indicate bare soil."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Field shapes and residual stubble suggest harvested agricultural fields."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Homogeneous green fields consistent with dense crop canopy."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Lack of rows and softer texture suggest natural grass cover."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Fringe of tall wetland plants around water bodies indicates marsh."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Continuous treeline structure and crown shapes match tree cover."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Crown size smaller than trees and isolated clusters point to shrubs."
+  }
+}

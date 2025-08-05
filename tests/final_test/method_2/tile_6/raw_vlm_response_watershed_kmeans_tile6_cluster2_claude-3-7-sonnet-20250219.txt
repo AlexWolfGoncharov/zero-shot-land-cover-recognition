@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct geometric field patterns with varying vegetation density and color, characteristic of managed agricultural production with visible irrigation systems.'}}

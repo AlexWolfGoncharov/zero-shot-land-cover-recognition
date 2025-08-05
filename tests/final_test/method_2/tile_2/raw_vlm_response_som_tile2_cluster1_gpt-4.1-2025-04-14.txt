@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular patchwork fields, homogeneous texture, and clear boundaries indicate intensive agricultural use typical of cropland.'}}

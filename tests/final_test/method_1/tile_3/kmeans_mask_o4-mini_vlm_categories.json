@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and smooth texture indicate open water."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Marshy pattern, meandering streams, no tree canopy."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field shapes, plow patterns, fallow cycles."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Even, dark canopy and plantation geometry."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Exposed soil, high reflectance, absent canopy."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform low-height vegetation, no field geometry."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Geometric buildings and roads, high reflectance."
+  }
+}

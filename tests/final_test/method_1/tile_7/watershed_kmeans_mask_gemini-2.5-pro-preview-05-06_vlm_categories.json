@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Dark brown/reddish color, smooth texture, rectangular shape suggest bare soil or sparsely vegetated agricultural land."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light tan/beige color suggests highly reflective bare ground or dry, sparse vegetation. Rectangular shapes indicate agriculture."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and linear shape are characteristic of a water body like a canal or river."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense aggregation of structures, road networks, and mixed reflective surfaces characteristic of a human settlement."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green to brownish-green colors and rectangular shapes within an agricultural landscape suggest active cropland."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green/yellowish colors in rectangular field patterns suggest active cropland, possibly different crop/stage."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green, circular, dense vegetation with a somewhat coarse texture suggests a stand of trees or tall, dense shrubs."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Medium green colors and rectangular shapes, located in an agricultural area, are indicative of active cropland."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown rectangular plots in an agricultural area suggest a specific crop state, residue, or soil preparation under cultivation."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Pale yellow/tan colors in rectangular fields suggest mature/harvested crops or sparsely vegetated agricultural land."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green color and rectangular shapes strongly indicate actively growing, healthy crops within an agricultural landscape."
+  }
+}

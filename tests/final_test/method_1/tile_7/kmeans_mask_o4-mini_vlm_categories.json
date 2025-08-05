@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, organized road network with buildings indicates urban settlement."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Linear, dark continuous feature consistent with a canal or river."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Scattered woody vegetation patches amid cropland suggest shrubs or hedgerows."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular, rectangular fields with crop‐like color variations."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Uniform tan appearance and exposed soil indicate fallow/bare ground."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Linear grassy strips likely access paths or field margins with herbaceous cover."
+  }
+}

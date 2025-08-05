@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field with uniform bright green vegetation, clear boundaries, and agricultural context indicates active crop cultivation.'}}

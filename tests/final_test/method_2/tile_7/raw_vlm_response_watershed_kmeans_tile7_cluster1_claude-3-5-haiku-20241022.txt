@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns, color variations, and systematic land division characteristic of agricultural cultivation'}}

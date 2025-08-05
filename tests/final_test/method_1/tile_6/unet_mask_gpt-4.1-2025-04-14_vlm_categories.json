@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns and varied crop stages indicate intensive agriculture."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, grid-like pattern at field intersections typical of rural settlements."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy appearance and lighter color suggest little or no vegetation."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear/nodal pattern and dark color consistent with roads or infrastructure."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green and lack of field boundaries suggest natural or semi-natural grassland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Scattered, irregular patches with mixed color suggest sparse or degraded vegetation."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches consistent with small groves or shelterbelts of trees."
+  }
+}

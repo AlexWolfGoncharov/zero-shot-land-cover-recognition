@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The segment is a linear, artificial feature with buildings, consistent with roads or levees, which are classified as built-up surfaces."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense urban settlement pattern with buildings, roads, and infrastructure clearly visible, distinct from surrounding agricultural areas.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense vegetation observed, consistent with tree cover characteristics."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Organized rectangular fields typical of agricultural practices."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed textures suggest a shrubland area, but some agricultural influence is present."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The light texture and geometric shapes indicate areas with little to no vegetation."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense vegetation consistent with tree cover characteristics."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Circular shapes and lighter textures suggest the presence of water bodies."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed textures suggest grassland, but some shrubland characteristics are present."
+  }
+}

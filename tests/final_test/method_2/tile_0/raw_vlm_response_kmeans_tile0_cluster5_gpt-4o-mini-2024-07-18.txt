@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform texture and context within an agricultural landscape indicate cropland.'}}

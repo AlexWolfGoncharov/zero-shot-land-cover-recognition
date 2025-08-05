@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a coarse, heterogeneous texture with high-albedo objects, characteristic of buildings, roads, and other impervious surfaces forming a distinct settlement pattern.'}}

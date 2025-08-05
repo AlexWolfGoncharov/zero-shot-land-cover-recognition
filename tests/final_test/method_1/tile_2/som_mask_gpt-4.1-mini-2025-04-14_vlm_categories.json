@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large, uniform dark area with no texture or vegetation indicates water body."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular rectangular fields with patchy vegetation indicate managed agricultural land."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, rough textured, irregular green patches suggest tree cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, bright, grid-like pattern typical of urban settlements."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light tones and sparse texture indicate bare or sparsely vegetated land."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green tone and smooth texture suggest grassland."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Narrow strips along water with mixed vegetation texture indicate herbaceous wetland."
+  }
+}

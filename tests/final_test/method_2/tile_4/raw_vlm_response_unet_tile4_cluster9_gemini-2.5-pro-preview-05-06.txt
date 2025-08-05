@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment highlights small, high-albedo features with angular shapes located within a gridded street pattern, characteristic of buildings and artificial surfaces in a settlement.'}}

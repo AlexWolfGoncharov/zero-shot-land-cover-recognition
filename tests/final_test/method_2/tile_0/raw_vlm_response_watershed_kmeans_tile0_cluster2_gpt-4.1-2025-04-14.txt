@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment displays typical field patterns, regular boundaries, and coloration consistent with active or fallow cropland.'}}

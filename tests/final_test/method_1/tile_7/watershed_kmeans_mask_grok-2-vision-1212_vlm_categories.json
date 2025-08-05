@@ -1,0 +1,52 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid pattern and uniform plots typical of urban planning."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large fields with color variation typical of crop rotation."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with some sparse areas, more grass-like."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, dark green suggests forest or tree cover."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with some denser patches, typical of shrubland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and sparse vegetation indicate bare ground."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark color and circular shape suggest water bodies."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform texture with mixed colors, more likely grassland."
+  },
+  "8": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with some denser patches, typical of shrubland."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Very light color with no vegetation indicates bare ground."
+  }
+}

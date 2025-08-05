@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and lack of texture indicate water; adjacent to landmass supports this."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular grid, high reflectance, and dense pattern are characteristic of urban/built-up areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields and irrigation circles are indicative of intensive agriculture."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Natural, patchy green areas with less structure suggest grassland, but could include sparse shrubs."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light tone and lack of vegetation indicate bare soil or fallow fields."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green and irregular shape suggest forest or woodland, but could include dense shrubs."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Intermediate tone and rough texture at field edges suggest shrub-dominated areas."
+  }
+}

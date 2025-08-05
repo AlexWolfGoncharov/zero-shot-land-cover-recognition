@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field layout, uniform green color indicates organized agricultural cultivation"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Mottled green texture suggests forest or woodland with varied canopy density"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "Lighter green indicates low-density vegetation typical of grassland ecosystems"
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brownish color suggests exposed soil or recently harvested agricultural land"
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, uniform dark green indicates mature forest or woodland with closed canopy"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Varied texture and color suggest mixed vegetation with shrubs and sparse trees"
+  }
+}

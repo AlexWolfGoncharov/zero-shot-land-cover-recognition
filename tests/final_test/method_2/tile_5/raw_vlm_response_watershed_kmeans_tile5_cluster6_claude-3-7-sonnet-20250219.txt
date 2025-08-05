@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular agricultural field with uniform texture showing harvested/bare soil within broader agricultural landscape of varied crop stages.'}}

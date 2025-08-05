@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Bright sandy surfaces with irregular dune patterns and minimal vegetation cover indicate bare or sparsely vegetated terrain'}}

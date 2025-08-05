@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth appearance and elongated shape characteristic of rivers. Clearly distinguishable from surrounding land areas."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Bright green color and irregular patterns suggest dense vegetation. Variability in texture could indicate mix of tree cover and other vegetation types."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns and varying colors typical of agricultural fields in different stages of growth or with different crops."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and rough texture suggest exposed soil or sparse vegetation. Some areas might be fallow cropland or degraded grassland."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dark green color near water bodies suggests wetland vegetation. Smooth texture and proximity to water indicate possible marshy areas."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Structured pattern and light color characteristic of urban areas. Clear contrast with surrounding vegetation supports this classification."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Medium green color and relatively uniform texture suggest grassland. Position between croplands and forests consistent with natural grassland areas."
+  },
+  "7": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Variation in green shades and texture suggests mix of vegetation types. Could be transition zone between forest and grassland."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric patterns and color variations characteristic of agricultural fields. Appears to be another type or stage of cropland."
+  },
+  "9": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dark color and proximity to water suggest wetland areas. Irregular shapes and texture difference from open water indicate vegetation."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Light green color and mottled texture suggest mix of vegetation types. Could be transition zone between different land cover types."
+  }
+}

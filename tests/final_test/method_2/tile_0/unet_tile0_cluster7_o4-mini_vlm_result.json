@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Unknown",
+    "confidence": "low",
+    "reasoning": "Mask contains no white pixels; no region available for analysis"
+  }
+}

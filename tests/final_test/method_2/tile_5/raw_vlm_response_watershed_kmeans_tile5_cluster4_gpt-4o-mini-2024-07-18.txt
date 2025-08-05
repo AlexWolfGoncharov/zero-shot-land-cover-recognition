@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Surrounded by agricultural fields with distinct cultivation patterns.'}}

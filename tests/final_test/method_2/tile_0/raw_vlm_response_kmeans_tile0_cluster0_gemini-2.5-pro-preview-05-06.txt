@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment is composed of multiple parcels with distinct geometric boundaries, a clear indicator of agricultural fields within a larger agricultural landscape.'}}

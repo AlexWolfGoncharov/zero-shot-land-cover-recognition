@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with uniform green/red textures, clear agricultural parcel boundaries"
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, geometric structures with sharp edges in urban/suburban area near image's top left"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric agricultural fields with distinct color variations indicating different crop stages"
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter green, less structured areas between more defined agricultural plots"
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular pivot irrigation fields with clear agricultural geometric patterns"
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Fragmented structures with irregular shapes suggesting sparse urban/infrastructure development"
+  }
+}

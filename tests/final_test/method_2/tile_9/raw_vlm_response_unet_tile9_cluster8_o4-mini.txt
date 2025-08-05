@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular light‐tan dune patterns with minimal vegetation cover, characteristic of sandy/bare surfaces.'}}

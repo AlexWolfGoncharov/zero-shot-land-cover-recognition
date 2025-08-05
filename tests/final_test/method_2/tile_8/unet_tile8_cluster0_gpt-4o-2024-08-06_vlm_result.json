@@ -1,0 +1,12 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "The area shows regular patterns and visible rows, typical of cultivated fields. The color and texture suggest active agriculture rather than natural vegetation or urban development."
+  },
+  "1": {
+    "category": "Water Bodies",
+    "confidence": "high",
+    "reasoning": "The segment appears dark blue, indicating the presence of a lake or pond. The shape is consistent with a water body, and surrounding features do not suggest urban or vegetated areas."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric parcels, uniform texture, and grid pattern are characteristic of intensively managed agricultural fields.'}}

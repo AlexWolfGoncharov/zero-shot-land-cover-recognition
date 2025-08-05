@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular grid patterns and varying shades of green indicate agricultural fields.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'No Data', 'confidence': 'high', 'reasoning': 'The binary mask contains no white pixels, indicating no segment is highlighted for analysis in this image.'}}

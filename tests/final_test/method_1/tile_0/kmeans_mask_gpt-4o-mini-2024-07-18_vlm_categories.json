@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of well-defined rectangular fields and uniform texture strongly indicates agricultural activity."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The patchy texture and irregular shapes suggest a less managed area, typical of shrubland."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "The open, smooth texture and lighter color are characteristic of grassland areas."
+  },
+  "3": {
+    "category": "Tree Cover",
+    "confidence": "High",
+    "reasoning": "The dense, dark appearance and irregular shapes strongly suggest the presence of tree cover."
+  },
+  "4": {
+    "category": "Bare/Sparse Vegetation",
+    "confidence": "Medium",
+    "reasoning": "The presence of bare patches and sparse vegetation indicates a less vegetated area."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of rectangular shapes and infrastructure indicates urban development."
+  },
+  "6": {
+    "category": "Permanent Water Bodies",
+    "confidence": "High",
+    "reasoning": "The smooth, reflective surface and darker color strongly indicate a water body."
+  }
+}

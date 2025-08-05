@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment contains geometric, circular and rectangular fields typical of irrigated agriculture; no evidence of natural vegetation or urban areas.'}}

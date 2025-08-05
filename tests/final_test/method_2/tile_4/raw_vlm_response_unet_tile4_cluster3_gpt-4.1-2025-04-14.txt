@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields, especially circular center-pivot irrigation, indicate intensive agricultural activity typical of cropland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment consists of numerous bright, highly reflective patches with irregular shapes, characteristic of sand dunes or bare, sandy/salty soil with sparse vegetation.'}}

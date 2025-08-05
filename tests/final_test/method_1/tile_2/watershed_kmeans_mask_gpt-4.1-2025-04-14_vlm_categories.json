@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "This cluster shows high reflectance typical of dense forested areas."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Moderate reflectance and texture suggest shrub-dominated areas."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "Uniform low to medium reflectance consistent with grass-covered regions."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Patterned textures and variable reflectance typical of cultivated fields."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectance and geometric patterns indicative of urban areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Low reflectance with minimal texture suggests bare soil or sparse vegetation."
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": "High",
+    "reasoning": "Very high reflectance and uniform appearance typical of snow/ice."
+  },
+  "7": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Low reflectance with smooth texture consistent with water surfaces."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Moderate reflectance with wetland texture patterns."
+  },
+  "9": {
+    "category": "Mangroves",
+    "confidence": "Low",
+    "reasoning": "Limited data; possible mangrove areas based on location and texture."
+  },
+  "10": {
+    "category": "Moss and lichen",
+    "confidence": "Low",
+    "reasoning": "Very low reflectance and fine texture suggest moss or lichen-covered surfaces."
+  }
+}

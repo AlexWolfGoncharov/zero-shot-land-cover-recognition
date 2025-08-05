@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'medium', 'reasoning': 'Linear features suggest human structures; rural context supports small settlement.'}}

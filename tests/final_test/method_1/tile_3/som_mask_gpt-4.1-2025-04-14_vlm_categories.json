@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, contiguous area along river channel is typical of open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, rectangular plots and uniform green color are indicative of cultivated fields."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy, light areas with visible soil and sparse vegetation suggest bare or sparsely vegetated land."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous green canopy and irregular boundaries are characteristic of forested or tree-covered areas."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed, fragmented vegetation with irregular patches suggests grassland or transitional areas."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright, geometric, and reflective areas are typical of built-up or urban surfaces."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Intermediate density and irregular patches suggest shrubland rather than dense forest or open grassland."
+  }
+}

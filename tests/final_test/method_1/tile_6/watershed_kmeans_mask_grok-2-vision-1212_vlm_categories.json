@@ -1,0 +1,52 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns indicative of agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Similar to cluster 0 but less distinct."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform green suggests natural grass."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brown patches suggest sparse vegetation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Grid pattern typical of organized farming."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Structured patterns suggest human-made structures."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dark green suggests dense tree cover."
+  },
+  "7": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Lighter patches suggest less dense vegetation."
+  },
+  "8": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brown areas suggest sparse vegetation."
+  },
+  "9": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color indicates minimal vegetation."
+  }
+}

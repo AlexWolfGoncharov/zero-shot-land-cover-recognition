@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains geometric, cultivated fields typical of cropland, with center-pivot and rectangular patterns, and varied vegetation indicative of active agriculture."
+  }
+}

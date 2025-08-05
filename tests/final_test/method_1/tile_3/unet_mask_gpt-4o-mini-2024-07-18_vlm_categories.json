@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense, dark green texture suggests a well-established tree canopy."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The lighter texture and open spaces suggest a mix of shrubs rather than dense grassland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The organized rectangular patterns and color suggest cultivated land typical of cropland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The presence of visible water bodies and irregular shapes indicates a permanent water body."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The very light color and sparse vegetation clearly indicate bare ground."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The organized, angular shapes and presence of structures indicate urban development."
+  }
+}

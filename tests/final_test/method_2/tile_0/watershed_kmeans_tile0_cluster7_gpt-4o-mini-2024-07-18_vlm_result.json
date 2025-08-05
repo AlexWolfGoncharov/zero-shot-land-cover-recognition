@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Segment shows agricultural textures and is adjacent to other fields."
+  }
+}

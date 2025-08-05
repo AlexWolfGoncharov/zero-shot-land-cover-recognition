@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields, varying vegetation tones, and absence of urban or natural features indicate intensive agriculture.'}}

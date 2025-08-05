@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The segment is dominated by large circular (center-pivot) and rectangular fields, which are unambiguous indicators of agricultural land use, despite some built-up inclusion."
+  }
+}

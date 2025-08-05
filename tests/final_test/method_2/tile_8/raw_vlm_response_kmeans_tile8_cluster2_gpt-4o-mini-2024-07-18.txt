@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The circular shapes and uniform texture strongly indicate cultivated agricultural fields.'}}

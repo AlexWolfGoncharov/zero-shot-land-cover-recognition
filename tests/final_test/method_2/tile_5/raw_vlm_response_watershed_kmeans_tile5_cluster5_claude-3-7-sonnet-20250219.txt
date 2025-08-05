@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular fields with uniform texture, light color indicates harvested/bare agricultural land in an obvious agricultural landscape matrix.'}}

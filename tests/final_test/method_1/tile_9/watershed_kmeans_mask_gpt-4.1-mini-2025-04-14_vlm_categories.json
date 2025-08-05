@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light tan color and patchy texture indicate exposed soil or sand with minimal vegetation."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Dense but not tall vegetation patches suggest shrubland rather than tree cover."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, consistent appearance with defined edges typical of water bodies."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns and color variations characteristic of agricultural fields."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Moderate vegetation density and irregular patch shapes suggest grassland."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dense vegetation combined with water features indicates wetland environment."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Grid pattern and mixed patches typical of agricultural land with irrigation."
+  },
+  "7": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Vegetation density and patchiness suggest shrubland rather than grassland."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense and dark vegetation patches suggest taller, denser tree cover."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Sparse vegetation and light brown color indicate exposed soil or bare land."
+  },
+  "10": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Water features combined with dense vegetation suggest wetland."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and smooth texture are characteristic of open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns and color variation indicate intensive agriculture."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright, dense, grid-like pattern is typical of urban or suburban development."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field patterns and color variation indicate cultivated land."
+  },
+  "4": {
+    "category": "Snow and ice",
+    "confidence": "medium",
+    "reasoning": "Bright, streaked appearance over water suggests floating ice or snow."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Location and tone suggest wetland vegetation at the land-water interface."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Darker, irregular patches within cropland are likely tree clusters or shelterbelts."
+  }
+}

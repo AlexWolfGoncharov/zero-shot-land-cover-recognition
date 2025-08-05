@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The geometric patterns and uniformity in color strongly indicate cultivated agricultural land."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The density and irregularity suggest a forested area, but some shrubland characteristics are present."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "The open texture and lighter color strongly indicate grassland rather than wetland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The presence of structured shapes and darker areas suggests urban development alongside agricultural use."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular irrigation patterns are typical of cultivated agricultural fields."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The uniform dark texture and smooth appearance strongly indicate a water body."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The light color and irregularity indicate areas with little to no vegetation cover."
+  }
+}

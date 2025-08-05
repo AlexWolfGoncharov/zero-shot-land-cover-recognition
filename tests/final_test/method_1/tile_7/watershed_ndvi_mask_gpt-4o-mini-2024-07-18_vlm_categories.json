@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense green texture and circular shape indicate tree cover."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter texture suggests grassland, but proximity to cropland introduces uncertainty."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular patterns and uniformity strongly indicate cultivated land."
+  },
+  "3": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular shapes and darker colors suggest sparse vegetation."
+  }
+}

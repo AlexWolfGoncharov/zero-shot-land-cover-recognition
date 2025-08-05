@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation fields and uniform crop textures indicate managed cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with bare soil patches suggest cropland with fallow or tilled areas."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Fragmented green patches without crop patterns suggest natural or semi-natural grassland."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense irregular shapes, roads, and buildings confirm built-up land cover."
+  }
+}

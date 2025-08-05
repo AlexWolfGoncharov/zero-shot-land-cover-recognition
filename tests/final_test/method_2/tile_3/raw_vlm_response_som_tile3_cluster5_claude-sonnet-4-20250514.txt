@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with uniform vegetation and clear agricultural boundaries indicate managed cropland.'}}

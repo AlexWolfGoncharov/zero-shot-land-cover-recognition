@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows center-pivot irrigation circles and rectangular plots, typical of intensively managed cropland.'}}

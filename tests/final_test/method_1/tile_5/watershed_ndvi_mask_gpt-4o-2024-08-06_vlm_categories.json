@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Presence of structured field patterns suggests agricultural use."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense green areas typically indicate tree cover."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Presence of urban infrastructure indicates built-up areas."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark areas typically indicate water bodies."
+  }
+}

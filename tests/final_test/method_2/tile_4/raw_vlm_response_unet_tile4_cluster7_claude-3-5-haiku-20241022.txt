@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform green and brownish rectangular/circular patches typical of center-pivot irrigated agricultural fields in an arid/semi-arid region.'}}

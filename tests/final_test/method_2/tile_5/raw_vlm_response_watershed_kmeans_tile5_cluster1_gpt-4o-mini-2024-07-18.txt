@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Segment shows agricultural patterns and is adjacent to fields.'}}

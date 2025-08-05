@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Perfect circular geometry indicates center-pivot irrigation; varying green/brown colors show agricultural rotation typical of cropland.'}}

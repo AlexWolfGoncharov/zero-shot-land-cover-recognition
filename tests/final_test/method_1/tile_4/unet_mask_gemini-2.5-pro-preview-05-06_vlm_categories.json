@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shapes indicate irrigation. Bright areas are likely fallow/harvested fields or young crops; green areas are active crops, all within agricultural system."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "This cluster highlights areas with gridded street patterns, small structures, and roads, characteristic of settlements, despite also covering some agricultural fields."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly covers circular agricultural fields with varying shades of green and brown, indicating active crops or fallow land within an agricultural system."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly maps to circular agricultural fields showing various stages of crop growth, including dense green vegetation and harvested/fallow land."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Predominantly maps to uncultivated interstitial areas between irrigation circles, appearing as dark bare soil or very sparsely vegetated ground."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly maps to very dark circular and rectangular agricultural fields, indicating dense vegetation, specific crop types, or moist/dark soils within cultivated areas."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Maps to extremely dark circular and rectangular agricultural fields, likely representing specific crop types, very dense vegetation, or very moist/dark soil conditions."
+  }
+}

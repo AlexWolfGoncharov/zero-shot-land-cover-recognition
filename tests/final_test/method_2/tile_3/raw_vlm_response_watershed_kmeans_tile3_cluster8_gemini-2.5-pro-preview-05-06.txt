@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment exhibits a highly structured, geometric grid of rectangular parcels, which is a classic and unambiguous signature of organized agricultural fields.'}}

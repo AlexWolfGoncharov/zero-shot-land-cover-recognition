@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light beige/tan coloration with scattered dark spots and minimal vegetation, resembling desert or barren terrain."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixture of light brown areas with patchy green vegetation, showing transition zone with partial vegetation cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinctive geometric pattern with rectangular fields of varying green/brown colors showing clear agricultural management."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green patches with dense appearance, often following what appear to be watercourses or drainage patterns."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Dark irregular patches forming linear features resembling streams and drainage channels."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Medium to light green patches with continuous herbaceous coverage, more uniform than shrubland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light-colored areas within agricultural context, likely representing cleared fields or bare soil."
+  }
+}

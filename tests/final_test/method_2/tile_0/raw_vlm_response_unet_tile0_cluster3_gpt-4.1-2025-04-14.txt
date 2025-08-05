@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular, homogeneous patches with clear field boundaries indicate active agricultural use typical of cropland.'}}

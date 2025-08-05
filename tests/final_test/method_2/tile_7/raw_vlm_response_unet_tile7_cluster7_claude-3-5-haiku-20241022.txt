@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform geometric field patterns, varied green/brown colors typical of agricultural landscape with multiple crop types'}}

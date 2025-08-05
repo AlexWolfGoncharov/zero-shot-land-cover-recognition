@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with uniform vegetation, clear boundaries, and varying crop stages indicate intensive agricultural cultivation.'}}

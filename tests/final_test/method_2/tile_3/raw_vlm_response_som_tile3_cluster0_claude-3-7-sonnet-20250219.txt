@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark water signature with distinct boundaries, located in floodplain adjacent to major river, showing characteristic water coloration and texture.'}}

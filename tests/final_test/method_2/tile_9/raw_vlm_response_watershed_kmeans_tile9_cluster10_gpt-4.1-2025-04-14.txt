@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Irregular, patchy texture with scattered vegetation and exposed soil; lacks dense plant cover or structured land use.'}}

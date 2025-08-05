@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, continuous area with smooth texture and surface patterns characteristic of a substantial body of water."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense arrangement of bright features and linear patterns consistent with buildings, roads, and urban/suburban infrastructure."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, regularly shaped fields with colors and textures indicative of bare soil or senescent vegetation, typical of agricultural land."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, geometric fields with vibrant green color and uniform texture, characteristic of actively growing crops."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric fields displaying varied colors (green, brown, red) suggesting different crop types, growth stages, or mixed cultivation practices."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric fields with colors (dull green, yellowish) indicative of crops, possibly at a different growth stage or type than brighter green fields."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Area shows a mix of structures and vegetation; classified as Built-up due to presence of buildings and adjacency to denser urban area, likely low-density residential."
+  },
+  "7": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Irregular patches of dense, dark green vegetation with rough texture, consistent with forest or dense tree stands."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Patches of lighter green/yellowish vegetation with finer texture, suggesting grassland or possibly sparse herbaceous vegetation. Distinction is difficult."
+  },
+  "9": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Narrow, elongated feature with dark color and smooth texture, clearly representing a small river, channel, or inlet connected to the main water body."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric fields with prominent reddish color, indicative of bare soil, fallow land, or specific crop types/conditions within an agricultural landscape."
+  }
+}

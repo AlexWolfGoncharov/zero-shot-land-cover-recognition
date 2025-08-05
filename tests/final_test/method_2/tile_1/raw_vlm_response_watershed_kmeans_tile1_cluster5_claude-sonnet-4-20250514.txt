@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with mixed spectral responses indicating managed agricultural parcels at various crop growth stages.'}}

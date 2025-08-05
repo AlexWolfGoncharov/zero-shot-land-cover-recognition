@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light-colored terrain with scattered dark vegetation patches covering <20% of area, typical of arid landscapes'}}

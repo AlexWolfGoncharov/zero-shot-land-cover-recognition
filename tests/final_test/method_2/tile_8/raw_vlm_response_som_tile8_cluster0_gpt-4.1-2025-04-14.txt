@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular field with uniform texture; typical of center-pivot irrigated agriculture within a matrix of similar fields.'}}

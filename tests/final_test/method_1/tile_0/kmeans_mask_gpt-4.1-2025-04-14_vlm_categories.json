@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The cluster corresponds to dense, dark gray regions typical of forested areas."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The cluster shows medium gray tones consistent with shrub-dominated regions."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "Light gray areas indicating open grassland or herbaceous vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct patterns and gray levels typical of cultivated fields."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright gray regions corresponding to urban or built-up areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light gray areas indicating sparse or bare soil surfaces."
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": "Low",
+    "reasoning": "Very bright regions consistent with snow or ice cover."
+  }
+}

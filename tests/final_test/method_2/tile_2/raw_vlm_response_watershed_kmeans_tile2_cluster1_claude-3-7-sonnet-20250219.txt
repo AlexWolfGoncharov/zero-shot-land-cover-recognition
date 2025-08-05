@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with varying colors indicate agricultural fields in different growth stages or crop types, arranged in distinct parcels.'}}

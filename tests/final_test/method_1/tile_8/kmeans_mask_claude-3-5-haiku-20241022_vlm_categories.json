@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green color, geometric field patterns typical of actively growing agricultural crops"
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mottled green texture suggests herbaceous vegetation with moderate density"
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Dry, brownish color indicates minimal vegetation, potential post-harvest or fallow land"
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation density suggests shrub-dominated landscape with partial ground cover"
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Distinct circular shapes with consistent dark coloration suggest artificial water structures"
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Geometric patterns and low vegetation suggest urban or infrastructure development"
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric grid pattern, uniform light color, clear human-engineered landscape with rectangular structures'}}

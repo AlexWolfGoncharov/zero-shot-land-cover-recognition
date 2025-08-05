@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric parcels, distinct crop rows and varied spectral signatures indicative of managed agricultural fields.'}}

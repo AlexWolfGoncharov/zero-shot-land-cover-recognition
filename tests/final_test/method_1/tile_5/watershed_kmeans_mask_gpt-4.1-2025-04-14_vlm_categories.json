@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and coastal location indicate open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns and irrigation circles are characteristic of cropland."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban grid pattern and high reflectance indicate built-up area."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular green patches with less structure suggest grassland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and sparse distribution suggest bare/sparse vegetation."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Linear, dark green features along field edges likely represent tree rows or windbreaks."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "low",
+    "reasoning": "Proximity to water and irregular pattern suggest possible wetland, but not definitive."
+  },
+  "7": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Homogeneous, non-cultivated green areas likely represent grassland."
+  },
+  "8": {
+    "category": "Shrubland",
+    "confidence": "low",
+    "reasoning": "Small, dark green patches may indicate shrubland, but could also be small tree stands."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Small, bright patches likely bare soil, but could be impervious surfaces."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Transitional, uncultivated appearance suggests grassland, but could be sparsely vegetated."
+  }
+}

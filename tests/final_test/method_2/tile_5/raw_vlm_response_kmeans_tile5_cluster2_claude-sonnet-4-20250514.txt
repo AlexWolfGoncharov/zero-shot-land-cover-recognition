@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue/black coloration with smooth texture at coastline boundary, typical of ocean or large water body.'}}

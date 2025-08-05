@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot irrigation field with uniform agricultural appearance and geometric layout typical of cultivated land.'}}

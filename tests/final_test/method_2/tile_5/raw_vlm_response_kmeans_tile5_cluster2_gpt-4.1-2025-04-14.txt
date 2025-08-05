@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark tone, smooth natural boundary, and adjacency to land indicate a large water body, likely a lake or sea.'}}

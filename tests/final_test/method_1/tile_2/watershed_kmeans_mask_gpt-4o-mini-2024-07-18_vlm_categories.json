@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of numerous buildings and roads strongly indicates urban land use."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized patterns and colors typical of agricultural fields confirm this classification."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The presence of open, grassy areas suggests grassland, but some ambiguity exists due to proximity to cropland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The clear visual characteristics of a large water body confirm this classification."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The presence of shrub-like vegetation suggests shrubland, though some ambiguity exists due to adjacent land types."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The significant presence of bare soil and sparse vegetation supports this classification."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense and irregular texture of tree cover confirms this classification."
+  },
+  "7": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "The combination of water and herbaceous plants suggests a wetland, but some uncertainty exists."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The organized agricultural patterns suggest cropland, though proximity to urban areas introduces some uncertainty."
+  },
+  "9": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The clear visual characteristics of water confirm this classification."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The presence of buildings and roads strongly indicates urban land use."
+  }
+}

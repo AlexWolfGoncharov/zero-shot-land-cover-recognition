@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth, linear and circular features in the RGB image are characteristic of water bodies like rivers, canals, and ponds."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "While covering some fields, this cluster also includes dark, textured vegetation adjacent to water bodies in circular features, consistent with herbaceous wetland vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The geometric shape and uniform dark color of these areas in the RGB image are characteristic of agricultural fields with active vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The prevalence of rectangular fields with uniform color and texture strongly indicates agricultural land, likely representing a specific crop type or growth stage."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The dense, heterogeneous pattern of buildings, roads, and interspersed vegetation in the RGB image is clearly indicative of a built-up area or dense rural settlement."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The light brown/yellowish color and uniform texture in both fields and circular areas suggest bare soil or very sparse, dry vegetation."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The very light brown/white color and uniform texture in rectangular fields are characteristic of bare soil or very sparse, dry vegetation, likely fallow or recently harvested land."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular, geometric fields with varied vegetation tones indicate intensive agriculture typical of cropland.'}}

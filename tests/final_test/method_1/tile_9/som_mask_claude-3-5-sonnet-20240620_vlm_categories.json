@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Bright, sandy appearance with scattered darker patches characteristic of arid landscapes with minimal vegetation cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns, varying shades of green, and clear field boundaries indicative of agricultural land use and cultivated crops."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed coloration and irregular texture suggest sparse vegetation cover, likely small woody plants and scattered shrubs in transitional zones."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and distinct shapes suggest areas of denser vegetation, likely trees or forest patches within or adjacent to agricultural lands."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectance and scattered distribution suggest buildings or man-made structures, but could also be bare rock outcrops."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and linear shape characteristic of a river or narrow water body, contrasting with surrounding land cover."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Lighter green tone and smoother texture suggest herbaceous vegetation cover, likely grasses or similar low-lying plants."
+  }
+}

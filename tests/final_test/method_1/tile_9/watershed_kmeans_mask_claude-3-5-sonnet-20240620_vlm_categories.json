@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light tan color, dotted pattern with dark spots. No clear vegetation visible. Typical of arid, sparsely vegetated terrain."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes, uniform dark green color. Clear boundaries and patch-like arrangement typical of agricultural fields."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green and brown tones, irregular shapes. Varied texture suggests natural shrubland rather than dense tree cover or cultivation."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very light tan/white color, smooth texture. Small scattered patches suggest exposed soil or sand with minimal vegetation."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color, irregular shapes. Rougher texture and darker tone compared to surroundings indicate possible tree cover."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Light to medium green, patchy distribution. Location between bare areas and denser vegetation suggests grassland ecosystem."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Very dark color, small linear features. Network-like pattern characteristic of roads or other man-made structures."
+  },
+  "7": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Medium brown color, irregular shapes. Rough texture suggests natural vegetation, possibly shrubland or degraded vegetation."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green color, rectangular shapes. Adjacent to other cropland, strongly indicating cultivated fields."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Dark color suggests dense vegetation. Small, scattered nature makes definitive classification difficult."
+  },
+  "10": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Very dark color, smooth texture. Small patches near agricultural areas suggest ponds or small lakes."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment delineates a large, sinuous river channel and an adjacent oxbow lake, which are characteristic features of permanent inland water bodies.'}}

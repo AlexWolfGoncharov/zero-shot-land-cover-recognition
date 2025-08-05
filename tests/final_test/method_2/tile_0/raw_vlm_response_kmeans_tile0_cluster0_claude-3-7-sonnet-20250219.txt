@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with distinct boundaries and varied green/brown coloration indicating cultivated agricultural land under human management.'}}

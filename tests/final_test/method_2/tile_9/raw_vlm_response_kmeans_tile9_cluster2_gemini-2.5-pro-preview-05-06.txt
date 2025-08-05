@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment consists of distinct, rectilinear basins filled with dark water, characteristic of man-made reservoirs or aquaculture ponds.'}}

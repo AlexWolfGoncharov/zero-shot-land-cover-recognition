@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of distinct circular fields, indicative of center-pivot irrigation, with vibrant green tones suggesting actively growing crops.'}}

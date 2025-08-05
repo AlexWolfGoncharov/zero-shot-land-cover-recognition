@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Pale brown smooth field areas lacking vegetation patterns adjacent to water indicate exposed soil or sparse cover.'}}

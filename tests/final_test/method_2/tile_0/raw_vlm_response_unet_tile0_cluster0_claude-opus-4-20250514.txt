@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, varied cultivation stages, and organized agricultural parcels clearly indicate active farming areas.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields and center-pivot irrigation patterns are clear indicators of intensively managed cropland.'}}

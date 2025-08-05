@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns, varying vegetation, and clear parcel boundaries indicate intensive agricultural use typical of cropland.'}}

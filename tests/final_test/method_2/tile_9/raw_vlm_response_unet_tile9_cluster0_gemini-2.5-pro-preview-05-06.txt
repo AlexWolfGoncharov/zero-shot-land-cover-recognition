@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment consists of distinct, rectangular, man-made basins filled with water, characteristic of aquaculture ponds or water reservoirs.'}}

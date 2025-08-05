@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field shapes and irrigation circles are characteristic of intensively managed cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green, irregular texture suggests tree cover, but proximity to urban areas introduces some uncertainty."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "High reflectance and irregular shapes indicate exposed soil or very sparse vegetation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear, dark feature with sharp boundaries is characteristic of a canal or river."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and irregularity suggest bare ground, but some could be built-up, so confidence is medium."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Fine grid and light color adjacent to urban area are typical of built-up surfaces."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, medium green patches between fields suggest unmanaged grassland, but proximity to water could indicate wetland."
+  }
+}

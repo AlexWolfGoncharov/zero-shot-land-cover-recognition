@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segments show distinct agricultural patterns like center-pivot circles. The light brown, bare appearance indicates fallow or post-harvest fields, which are classified as cropland."
+  }
+}

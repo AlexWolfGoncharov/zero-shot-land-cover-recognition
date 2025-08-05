@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular and rectangular fields with varied crop colors indicate intensive agriculture, characteristic of cropland with center-pivot irrigation.'}}

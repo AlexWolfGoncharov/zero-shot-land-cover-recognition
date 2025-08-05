@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light tan/beige areas with sandy appearance and minimal vegetation. Classic desert/semi-desert landscape with scattered darker vegetation spots."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Transitional zone with mottled texture showing patchy vegetation. Irregular distribution of plants with visible soil between."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric rectangular patterns with uniform dark green coloration indicating actively cultivated agricultural fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium-green irregular patches adjacent to more structured fields, showing different crop growth stages or management."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Very light-colored rectangular areas in agricultural region indicating exposed soil, possibly fallow or recently harvested fields."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Heterogeneous mixture of light and medium tones with irregular texture suggests seasonal grassland with patchy coverage."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark appearance, smooth texture, and natural boundaries characteristic of deep water absorption of visible light.'}}

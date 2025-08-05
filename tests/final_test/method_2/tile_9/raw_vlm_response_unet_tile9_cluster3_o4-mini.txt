@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Bright sandy, dune-like texture with minimal vegetation indicates bare/sparse cover'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dominant features are a dark canal and circular ponds, appearing as open water surfaces in the RGB image."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns and medium to dark green hues indicate actively cultivated agricultural land with growing vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns with light brown/tan colors, typical of fallow, harvested, or specific dry crop stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Large settlement shows dense structures, road networks; linear features are roads, all characteristic of man-made environments."
+  }
+}

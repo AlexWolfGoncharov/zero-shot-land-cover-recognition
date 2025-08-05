@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': None, 'reasoning': 'Unable to analyze image; no data provided.'}, '1': {'category': 'Tree cover', 'confidence': None, 'reasoning': 'Unable to analyze image; no data provided.'}}

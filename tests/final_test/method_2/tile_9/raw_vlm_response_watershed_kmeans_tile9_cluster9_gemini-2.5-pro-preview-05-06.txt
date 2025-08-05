@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment shows a complex pattern of bright, reflective surfaces, likely sand or bare soil, interspersed with small, scattered patches of sparse vegetation.'}}

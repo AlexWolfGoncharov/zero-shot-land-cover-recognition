@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform green-yellow color, geometric shape, and agricultural context strongly indicate cultivated agricultural land.'}}

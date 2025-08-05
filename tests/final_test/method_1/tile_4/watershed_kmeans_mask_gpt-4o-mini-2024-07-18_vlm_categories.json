@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and green color indicate cultivated crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The presence of varied shapes suggests agricultural diversity."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The density and texture suggest shrubby vegetation rather than trees."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The irregular shapes and lighter color indicate exposed soil."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The vibrant green and organized patterns suggest cultivated land."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The variability in texture and color suggests a less cultivated area."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The density and darker shades suggest a forested area."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The irregular shapes and lighter color indicate exposed soil."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and green color indicate cultivated crops."
+  },
+  "9": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The variability in texture and color suggests a less cultivated area."
+  },
+  "10": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The density and darker shades suggest a forested area."
+  }
+}

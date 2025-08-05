@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field boundaries, uniform textures, varied crop colors indicating systematic agricultural cultivation.'}}

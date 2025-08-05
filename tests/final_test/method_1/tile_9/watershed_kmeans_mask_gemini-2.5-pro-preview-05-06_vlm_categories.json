@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Very dark green color, dense appearance, and regular blocky shapes are characteristic of managed tree plantations."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Dark, moist appearance, irregular shapes, mixed water/vegetation signals, and sun glint suggest a wetland environment."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mottled brown/green appearance, rough texture, not dense trees or cropland, suggesting low, possibly woody, vegetation."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Brownish-green, relatively smooth texture, appears as natural ground cover or possibly fallow land."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric field patterns, mixed green/brown/tan colors typical of active and fallow agricultural fields."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Dark green, dense vegetation, often linear or on banks of water bodies, suggesting shrubs or dense bushes."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very bright, light tan/white rectangular fields, indicating exposed soil or minimal, dry vegetation cover."
+  },
+  "7": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Very dark color in RGB, regular geometric shapes, consistent with man-made water impoundments (aquaculture ponds)."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Greenish, productive-looking areas within water bodies (ponds), suggesting dense algae or aquatic vegetation at/near the surface."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Extremely bright white/cream rectangular fields, indicating highly reflective bare surfaces like dry soil, sand, or salt."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Dark-toned rectangular fields within the agricultural mosaic, likely representing specific crop types, stages, or soil conditions."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment highlights a network of roads and bright, high-albedo surfaces corresponding to buildings, characteristic of artificial, human-made structures and infrastructure.'}}

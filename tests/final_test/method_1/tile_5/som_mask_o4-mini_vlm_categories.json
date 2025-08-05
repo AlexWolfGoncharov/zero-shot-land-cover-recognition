@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Coastal dark region with homogeneous tone exactly matches open water characteristics."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Floodplain patchiness and lush low‐stature vegetation indicate marshy wetland environment."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Characteristic pivot-irrigation circles and regular field shapes denote active farming."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed soil in harvested or fallow fields matches bare‐soil class."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid-like roads and rooftop clusters are definitive urban development."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Linear woody vegetation strips with canopy texture indicate planted shelterbelts or windbreaks."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Patchy low‐stature woody vegetation and irregular shapes suggest natural shrubland."
+  }
+}

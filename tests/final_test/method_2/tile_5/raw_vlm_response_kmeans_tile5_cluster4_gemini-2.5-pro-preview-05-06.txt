@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment is characterized by highly geometric shapes, including numerous large circles (center-pivot irrigation) and rectangles, which are definitive patterns of agricultural fields.'}}

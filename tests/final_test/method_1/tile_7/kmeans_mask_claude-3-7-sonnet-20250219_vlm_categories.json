@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes with dark green tone indicate actively growing crops at similar growth stage."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular shape and context among other agricultural fields suggest these are croplands in fallow/harvested state."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular boundaries and distinctive coloration among other cropland indicate agricultural use at different growth/harvest stage."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense pattern of small structures, roads, and mixed urban vegetation indicates residential/urban development."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark tone, smooth texture, and sinuous shape are characteristic of a river or canal system."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker tone, heterogeneous texture, and circular/irregular shape suggest patches of trees amid agricultural landscape."
+  }
+}

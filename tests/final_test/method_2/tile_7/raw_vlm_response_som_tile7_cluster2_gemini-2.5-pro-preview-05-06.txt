@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment displays a dense, radial pattern of structures, roads, and small vegetated plots, characteristic of a town or large village.'}}

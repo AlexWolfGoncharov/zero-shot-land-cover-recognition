@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'Medium', 'reasoning': 'The cluster contains distinct urban settlements with road grids, mixed with spectrally similar fallow agricultural fields, indicating a dominant presence of artificial surfaces.'}}

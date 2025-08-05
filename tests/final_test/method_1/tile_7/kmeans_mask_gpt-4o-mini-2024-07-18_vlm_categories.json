@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense green texture and circular shape indicate a significant presence of tree cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The organized rectangular fields and varying shades suggest cultivated land typical of cropland."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "The scattered patches and lighter texture suggest grassland, but some shrubland characteristics are present."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The darker linear patterns and compact shapes suggest urban development typical of built-up areas."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "The irregular shapes and mixed colors suggest wetland characteristics, though water presence is uncertain."
+  },
+  "5": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "high",
+    "reasoning": "The very light shades and sparse texture indicate areas with little to no vegetation, typical of bare land."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mixed textures and irregular shapes suggest shrubland, though tree cover is also possible."
+  }
+}

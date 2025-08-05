@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense network of small rectangular structures and radial road patterns indicates urban built environment.'}}

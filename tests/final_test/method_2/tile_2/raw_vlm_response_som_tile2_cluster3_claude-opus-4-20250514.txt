@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, uniform appearance with minimal reflectance typical of deep water, surrounded by agricultural and built-up areas.'}}

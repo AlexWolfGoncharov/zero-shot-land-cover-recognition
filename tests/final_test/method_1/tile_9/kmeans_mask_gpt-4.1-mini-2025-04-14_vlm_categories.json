@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light tan color and patchy texture indicate sandy or bare soil with sparse vegetation."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Irregular rough texture and darker color suggest low, shrubby vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular field patterns and smooth texture are typical of agricultural land."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense dark green patches near water indicate tree cover."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Smooth, dark, reflective surfaces with geometric shapes indicate water bodies."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Light green color and patchy texture suggest grassland."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "low",
+    "reasoning": "Mixed texture and linear features suggest human structures but not clearly defined."
+  }
+}

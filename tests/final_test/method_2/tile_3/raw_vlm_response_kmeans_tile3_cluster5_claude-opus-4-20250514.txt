@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense green vegetation along riverbank with irregular texture characteristic of riparian forest canopy.'}}

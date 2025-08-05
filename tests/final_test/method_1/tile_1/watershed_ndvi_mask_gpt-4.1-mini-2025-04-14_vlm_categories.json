@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Irregular patchy fields with mixed vegetation stages typical of cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigated fields with uniform vegetation indicate cropland."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green, rough texture suggests tree cover, possibly forested areas."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light-colored, smooth, sparsely vegetated patches adjacent to cropland indicate bare soil."
+  }
+}

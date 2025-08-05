@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes, uniform texture, and dark green color strongly suggest cultivated crops in active growth stage."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns characteristic of center-pivot irrigation systems. Light color suggests harvested or fallow fields."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shape and light green color indicate agricultural fields, likely in early growth stage or with different crop types."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shape and medium green color suggest agricultural fields with crops in a different growth stage or type."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Very dark color and geometric shape suggest dense crop coverage or possibly different crop type. Lack of visible canopy texture."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light color and geometric shape indicate agricultural fields, likely harvested or fallow. Consistent with other observed patterns."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Blue-green color and irregular shape strongly suggest a water body, likely a lake or large pond within agricultural landscape."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small size, regular spacing, and association with field boundaries suggest farm buildings or rural structures."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Thin linear features likely represent roads or field boundaries. Darker color suggests bare soil or sparse vegetation."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Less geometric shape and darker green color suggest possible tree cover. Difficult to distinguish from dense crops."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Very small, scattered dark spots within circular fields. Could be structures or equipment, but low resolution limits confidence."
+  }
+}

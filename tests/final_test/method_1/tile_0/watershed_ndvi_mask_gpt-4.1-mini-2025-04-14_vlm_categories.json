@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Linear planting patterns and patchy green fields typical of cultivated agricultural land."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Mixed bare soil and sparse vegetation patches with rough texture suggest partially vegetated or fallow land."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous dark green linear vegetation along watercourses typical of riparian tree cover."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform rectangular fields with consistent green color and smooth texture strongly indicate managed cropland."
+  }
+}

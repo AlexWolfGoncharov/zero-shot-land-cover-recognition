@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'The segment shows a mix of sparse vegetation and irregular shapes, typical of shrubland.'}}

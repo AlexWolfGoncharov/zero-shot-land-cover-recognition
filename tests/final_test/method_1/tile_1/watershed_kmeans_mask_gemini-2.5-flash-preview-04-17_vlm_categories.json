@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform dark green color and field shapes are characteristic of healthy crops in an agricultural setting."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Includes significant areas of bare soil within fields and bright, likely bare ground or low vegetation in the urban fringe."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense, dark green, rough-textured area in a non-field setting is characteristic of forest or dense woodland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Covers numerous cultivated fields, although mixed with areas in the urban fringe that contain built structures and vegetation."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Reddish-brown color and smooth texture in field shapes are characteristic of bare soil or fields with very sparse dry vegetation."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform dark green color and field shapes are characteristic of healthy crops in an agricultural setting."
+  }
+}

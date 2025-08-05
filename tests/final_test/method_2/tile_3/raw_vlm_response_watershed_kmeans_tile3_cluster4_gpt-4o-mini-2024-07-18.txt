@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'medium', 'reasoning': 'Segment shows mixed textures and proximity to water, indicating wetland vegetation.'}}

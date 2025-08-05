@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Sinuous dark features showing typical river morphology with clear channel boundaries and several circular dark ponds."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Light beige/tan rectangular fields with clear boundaries indicating harvested or fallow agricultural areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium to dark green rectangular parcels showing actively growing crops with uniform texture and clear field boundaries."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense heterogeneous pattern with small structures and irregular road network typical of urban settlement."
+  }
+}

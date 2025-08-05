@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regularly shaped, bounded plots with varied tones and textures indicative of cultivated agricultural fields.'}}

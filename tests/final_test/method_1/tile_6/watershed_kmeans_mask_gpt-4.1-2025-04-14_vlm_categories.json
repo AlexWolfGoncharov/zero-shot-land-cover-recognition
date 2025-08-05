@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric fields with center-pivot irrigation are characteristic of cropland."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense grid pattern and small structures indicate urban or built-up area."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigation circles are a hallmark of cropland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy, and less vegetated areas suggest bare or sparsely vegetated land."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Geometric shapes and context suggest fallow or recently irrigated cropland."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, mixed patches among cropland likely represent unmanaged grassland or field margins."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and smooth texture indicate bare soil or fallow fields."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigation and uniformity are indicative of cropland."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, mixed patches likely represent unmanaged grassland."
+  },
+  "9": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Very dark, uniform patches may indicate water, though some could be dense vegetation."
+  },
+  "10": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light brown, smooth patches indicate bare soil or recently harvested fields."
+  }
+}

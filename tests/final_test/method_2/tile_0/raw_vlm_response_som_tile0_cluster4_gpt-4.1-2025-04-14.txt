@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns, uniform texture, and rural context strongly indicate intensive agricultural land use.'}}

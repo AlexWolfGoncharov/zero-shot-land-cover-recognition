@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains geometric, irrigated fields typical of intensive agriculture; color and pattern indicate active cropland use."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric parcels with varying vegetation stages typical of agricultural rotation and cultivation practices.'}}

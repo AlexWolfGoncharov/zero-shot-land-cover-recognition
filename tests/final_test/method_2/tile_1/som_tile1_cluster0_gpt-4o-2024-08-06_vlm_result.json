@@ -1,0 +1,12 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": 0.85,
+    "reasoning": "The area shows dense green coloration typical of tree canopies."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": 0.75,
+    "reasoning": "The region displays rectangular patterns consistent with agricultural fields."
+  }
+}

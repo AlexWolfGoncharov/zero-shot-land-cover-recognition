@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense, dark green area suggests a significant presence of trees."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The geometric patterns and color variations are typical of cultivated agricultural fields."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "The lack of significant vegetation suggests a sparse cover rather than grassland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The circular patterns and vibrant colors are indicative of irrigated agricultural fields."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mixed vegetation suggests a shrubland rather than dense tree cover."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense, dark green area is characteristic of tree cover."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The geometric patterns and color diversity are typical of cultivated land."
+  },
+  "7": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The smooth, reflective surface indicates a significant water body."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "The mixed vegetation and irregular shapes suggest wetland characteristics."
+  },
+  "9": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The uniform texture and geometric patterns indicate urban development."
+  },
+  "10": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "The mixed textures and irregular shapes suggest sparse vegetation rather than dense grassland."
+  }
+}

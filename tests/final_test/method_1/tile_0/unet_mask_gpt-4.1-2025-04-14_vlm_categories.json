@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, rectangular fields with uniform texture indicate managed agricultural land."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green, irregular patches suggest small woodlots or shelterbelts."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy, lighter areas with less vegetation density typical of grassland or fallow fields."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Bright, geometric, clustered features are indicative of buildings and infrastructure."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark, linear/irregular shapes along drainage lines are typical of water bodies."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse, patchy vegetation with exposed soil is characteristic of bare or sparsely vegetated areas."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and lack of vegetation suggest exposed soil or bare ground."
+  }
+}

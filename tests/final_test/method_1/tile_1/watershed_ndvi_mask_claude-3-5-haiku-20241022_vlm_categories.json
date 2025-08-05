@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns, uniform green vegetation suggests cultivated agricultural land with active crops"
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Exposed ground texture, reddish tones suggest minimal vegetation cover or recently harvested fields"
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Rectangular structures, road networks, and dense geometric patterns typical of urban/developed areas"
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinctive circular pivot irrigation fields, uniform green indicating active agricultural cultivation"
+  }
+}

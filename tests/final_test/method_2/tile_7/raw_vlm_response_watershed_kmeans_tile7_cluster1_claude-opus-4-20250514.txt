@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense residential area with radial street pattern, numerous buildings, and typical urban morphology clearly visible.'}}

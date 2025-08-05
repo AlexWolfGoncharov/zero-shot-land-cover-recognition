@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric fields, center-pivot irrigation, and patchwork tones are characteristic of intensively managed cropland.'}}

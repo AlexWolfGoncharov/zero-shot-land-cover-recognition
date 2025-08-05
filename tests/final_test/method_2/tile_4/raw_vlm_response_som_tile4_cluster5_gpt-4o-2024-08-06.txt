@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular patterns and varied green hues indicate irrigated agricultural fields.'}}

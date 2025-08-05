@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Central reservoir and radiating dark canals indicate persistent water infrastructure.'}}

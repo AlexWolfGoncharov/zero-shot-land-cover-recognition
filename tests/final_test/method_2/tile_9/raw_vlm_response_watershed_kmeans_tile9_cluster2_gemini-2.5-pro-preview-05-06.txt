@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The segment exhibits a highly mottled texture of bright, reflective bare ground (likely sand) interspersed with small, dark patches of sparse vegetation.'}}

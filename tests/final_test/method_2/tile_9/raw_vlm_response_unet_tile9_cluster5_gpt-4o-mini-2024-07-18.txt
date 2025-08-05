@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Segment shows scattered vegetation with irregular shape, adjacent to agricultural fields.'}}

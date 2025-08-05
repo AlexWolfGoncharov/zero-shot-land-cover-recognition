@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes, light coloration, and contrast with surrounding vegetation strongly indicate cultivated fields in various stages of growth or harvest."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes with uniform coloration suggest cultivated fields. Dark green indicates healthy vegetation, likely crops at peak growth stage."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light coloration suggests exposed soil or harvested fields. Could be fallow cropland, but lack of vegetation indicates temporary bareness."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes and green coloration indicate cultivated fields. Variation in green tones suggests different crop types or growth stages."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright reflectance, rectangular shapes, and grid pattern strongly indicate buildings and urban infrastructure within agricultural landscape."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Natural-looking shapes and color variation suggest non-cultivated vegetation. Lacks tree canopy texture, indicating grass or low vegetation."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and uniform texture suggest dense vegetation. Circular shapes could be managed forest patches or naturally occurring tree stands."
+  },
+  "7": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Less defined edges and irregular shapes suggest natural vegetation. Darker than grassland but not as uniform as tree cover, indicating possible shrub or scrub vegetation."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes and light green coloration indicate cultivated fields, likely at early growth stage or with crops that have a naturally lighter appearance."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Brown coloration and geometric shapes suggest recently harvested or plowed fields. Temporary bareness in agricultural landscape."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green color, geometric shapes, and uniform texture strongly indicate actively growing crops, possibly irrigated or high-intensity agriculture."
+  }
+}

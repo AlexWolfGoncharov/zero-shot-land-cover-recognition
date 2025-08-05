@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Distinct blue-green color, smooth texture, clear shoreline boundary, and sharp contrast with surrounding agricultural landscape indicate a water body.'}}

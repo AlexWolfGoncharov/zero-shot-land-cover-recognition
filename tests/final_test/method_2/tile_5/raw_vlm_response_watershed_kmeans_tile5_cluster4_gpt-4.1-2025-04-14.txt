@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric shapes, center-pivot irrigation, and varied crop tones indicate intensively managed agricultural fields.'}}

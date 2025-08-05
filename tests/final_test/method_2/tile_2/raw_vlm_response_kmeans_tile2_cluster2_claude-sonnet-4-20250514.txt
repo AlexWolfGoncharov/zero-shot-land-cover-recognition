@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Large, dark, uniform area with smooth texture characteristic of deep water between coastal landmasses.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Grid-like, high-reflectance patches with sharp edges indicate dense urban or built-up area adjacent to cropland and water.'}}

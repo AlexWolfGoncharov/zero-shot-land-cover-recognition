@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinctive circular irrigation fields with uniform texture and bright green vegetation indicate actively managed agricultural land.'}}

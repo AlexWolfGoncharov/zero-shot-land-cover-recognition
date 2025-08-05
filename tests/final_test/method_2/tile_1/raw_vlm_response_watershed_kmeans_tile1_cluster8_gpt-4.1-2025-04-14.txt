@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric parcels, irrigation patterns, and heterogeneous vegetation indicate intensive agriculture typical of cropland.'}}

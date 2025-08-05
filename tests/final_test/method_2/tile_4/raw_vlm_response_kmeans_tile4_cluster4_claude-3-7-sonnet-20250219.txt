@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Bright reflectance, geometric shapes, and sharp contrast with surrounding vegetation indicate man-made structures within agricultural setting.'}}

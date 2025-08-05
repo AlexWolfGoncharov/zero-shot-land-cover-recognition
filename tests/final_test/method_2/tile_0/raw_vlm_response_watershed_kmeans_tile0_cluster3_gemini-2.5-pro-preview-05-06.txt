@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segments are geometrically shaped parcels with a strong vegetation signal (bright red), characteristic of actively cultivated agricultural fields in a rural landscape.'}}

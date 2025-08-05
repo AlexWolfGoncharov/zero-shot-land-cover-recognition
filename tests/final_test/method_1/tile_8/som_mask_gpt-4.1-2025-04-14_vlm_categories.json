@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns and uniform texture are characteristic of managed cropland."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The smooth, dark appearance and context indicate a lake or reservoir."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy areas with exposed soil and sparse vegetation suggest bare or sparsely vegetated land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear/blocky shapes and lighter color suggest roads or small settlements."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Consistent green color and fine texture suggest natural or semi-natural grassland."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches indicate tree cover, possibly shelterbelts or small woodlots."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Small, pale, smooth patches could be bare soil or disturbed ground, but snow/ice is unlikely in this context."
+  }
+}

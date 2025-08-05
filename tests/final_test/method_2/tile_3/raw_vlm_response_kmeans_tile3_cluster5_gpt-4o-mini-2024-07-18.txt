@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Structured shape and uniform texture indicate agricultural use.'}}

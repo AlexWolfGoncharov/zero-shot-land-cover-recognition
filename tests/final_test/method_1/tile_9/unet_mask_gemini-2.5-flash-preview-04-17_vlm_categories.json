@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dense, dark green canopy with uniform texture and geometric patterns clearly visible in the RGB image, characteristic of forest plantations."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular shapes and field boundaries suggest agricultural activity; vegetation color and texture indicate cultivated fields, possibly fallow or early growth stage."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Irregular patches of mixed brownish-green vegetation with a patchy texture, suggesting areas dominated by shrubs or mixed low-lying vegetation."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Extensive areas of uniform light brown/yellow color and smooth texture suggest dry grassland, potentially with some areas of bare ground mixed in."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very distinctive texture of bright, reflective areas and dark depressions, characteristic of salt flats, sandy areas, or bare ground with very sparse vegetation."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark blue/black color and smooth surface within clear geometric boundaries, unequivocally identifying artificial water bodies or ponds."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Consists of linear features (likely roads/infrastructure) and small patches, some potentially representing small structures or associated bare ground in a managed landscape."
+  }
+}

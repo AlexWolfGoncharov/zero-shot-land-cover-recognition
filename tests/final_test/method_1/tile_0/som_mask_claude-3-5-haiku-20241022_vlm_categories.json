@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green patches with distinct geometric field boundaries"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, non-geometric green area suggesting forest with varied canopy"
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation types, less dense than forest, showing transitional landscape"
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "high",
+    "reasoning": "Open, less dense green areas suggesting grass-dominated landscape"
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Compact geometric shapes suggesting human-made structures"
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Limited vegetation cover, exposed ground surface"
+  }
+}

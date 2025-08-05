@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment shows dense, regular geometric patterns typical of buildings and infrastructure near water, distinct from natural vegetation or cropland.'}}

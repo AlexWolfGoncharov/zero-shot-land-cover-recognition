@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Dense green texture and circular shape suggest tree cover amidst agricultural fields.'}}

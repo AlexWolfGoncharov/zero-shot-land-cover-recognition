@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense geometric patterns, regular rectangular shapes, uniform light-colored texture typical of urban infrastructure and buildings.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field shapes and irrigation circles strongly indicate intensive agriculture."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, non-cultivated patches with mixed vegetation suggest unmanaged grassland."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, linear, and smooth features correspond to water channels."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, irregular, and shadowed areas suggest tree cover or woodland."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Light, blocky, and fragmented pattern is characteristic of urban/built-up areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse, patchy, and pale areas indicate minimal vegetation cover."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Proximity to water and moist, irregular patches suggest wetland vegetation."
+  }
+}

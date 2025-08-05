@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes (rectangles, circles), homogeneous texture within plots, and varied colors typical of different crops or growth stages strongly suggest active agricultural use."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The cluster prominently includes a major linear feature with a dark center, consistent with a canal (artificial water body containing water)."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear geometric field patterns, varied colors suggesting different crops or stages, and homogeneous texture within plots are characteristic of agricultural land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "In the top-left, this cluster corresponds to areas with heterogeneous texture, mixed bright and dull surfaces, and angular patterns, suggestive of buildings and infrastructure."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Corresponds to heterogeneous, darker areas in the top-left, consistent with dense settlement, roads, or mixed impervious and vegetated surfaces within a built environment."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "In the top-left, this cluster corresponds to dark green, textured patches resembling dense tree canopies or large shrubs."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Low",
+    "reasoning": "Corresponds to very dark patches in RGB, particularly some agricultural fields that appear black or very dark brown, suggesting exposed dark soil or minimal vegetation."
+  }
+}

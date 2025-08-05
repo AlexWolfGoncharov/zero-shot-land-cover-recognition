@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field patterns and irrigation circles are characteristic of managed agricultural land."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, rough-textured patches suggest unmanaged or semi-managed grassy areas, possibly fallow or pasture."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The dark, linear, smooth feature is consistent with a canal or river."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, contiguous, dark green areas are typical of forest or woodland."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light, granular, non-vegetated areas suggest bare soil or sparsely vegetated ground."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular grid and bright reflectance are characteristic of urban or built-up areas."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mottled, scattered patches suggest low woody vegetation, typical of shrubland."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "High reflectance and smooth texture suggest bare soil or possibly salt flats, not snow in this context."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches near water suggest wetland vegetation."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular, uniform green fields are indicative of irrigated agriculture."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Transitional, irregular patches with grassy texture suggest unmanaged grassland."
+  }
+}

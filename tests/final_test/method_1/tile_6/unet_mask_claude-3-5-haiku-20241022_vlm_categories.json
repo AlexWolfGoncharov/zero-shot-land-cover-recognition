@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform geometric fields suggest cultivated agricultural land with low-growing crops"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform dark green color and dense texture strongly indicate mature forest or woodland"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Lighter green color and varied texture suggest grassland or pasture areas"
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Geometric shapes and high reflectivity indicate urban or industrial structures"
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Dark, irregular areas suggest sparse vegetation or shrub-dominated landscape"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Varied green tones and mixed texture indicate transitional vegetation or shrub coverage"
+  }
+}

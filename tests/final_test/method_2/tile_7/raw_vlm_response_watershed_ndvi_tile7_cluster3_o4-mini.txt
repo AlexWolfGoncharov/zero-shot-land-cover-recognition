@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Distinct radial urban layout with dense buildings and road network indicates built-up area.'}}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains circular and rectangular fields with varying green tones, characteristic of center-pivot irrigated agriculture; clear field boundaries indicate intensive crop production."
+  }
+}

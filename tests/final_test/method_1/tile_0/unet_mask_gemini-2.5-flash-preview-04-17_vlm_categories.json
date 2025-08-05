@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, geometric fields with varying green/reddish vegetation colors, typical of agriculture."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright, uniform green color and rectangular shapes indicate actively growing crops in fields."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Bright white/light gray areas with smooth texture, consistent with bare soil or very sparse cover."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth, winding linear feature clearly identifiable as a river or stream."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Reddish-brown/light brown rectangular fields, suggesting crops in different growth or harvest stages."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Area containing visible structures, roads, and a heterogeneous mix of non-agricultural features."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Patchy green areas, some linear along the river, representing non-cultivated vegetation like grassland."
+  }
+}

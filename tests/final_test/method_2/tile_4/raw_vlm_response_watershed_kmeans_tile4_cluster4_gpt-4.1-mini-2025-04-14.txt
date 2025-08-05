@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows circular and rectangular fields with varying green and brown tones typical of irrigated agricultural land.'}}

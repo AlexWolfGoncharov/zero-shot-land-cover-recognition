@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'The segment is dominated by agricultural fields that appear fallow or have bare soil, despite also containing roads and a small settlement.'}}

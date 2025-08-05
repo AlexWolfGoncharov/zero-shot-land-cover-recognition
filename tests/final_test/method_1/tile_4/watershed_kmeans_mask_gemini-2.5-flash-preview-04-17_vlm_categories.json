@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Dark green/brown patches, often rectangular/irregular, suggest fallow fields or low vegetation within agricultural landscape."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green, dense, circular shapes are characteristic of actively irrigated center-pivot cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Lighter green/yellowish circular shapes indicate irrigated cropland with different crop type or growth stage."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Reddish-brown/pinkish rectangular areas with smooth texture are typical of bare soil or stubble in agricultural fields."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green/brown/yellow patches within fields suggest areas of sparse cover, weeds, or bare soil in cultivated land."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Clustered bright white/light gray features with geometric shapes and linear patterns indicate buildings and roads of a settlement."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green, dense, rectangular/square shapes indicate actively irrigated cropland using non-pivot systems."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Darker green circular shapes indicate irrigated cropland, likely a different crop type or growth stage than brighter fields."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "Medium-High",
+    "reasoning": "Brown/yellowish areas within fields suggest dry vegetation, stubble, or senescent crops after harvest."
+  },
+  "9": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Includes linear features consistent with roads or tracks connecting fields and settlements."
+  },
+  "10": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium-High",
+    "reasoning": "Brown/reddish-brown patches within fields represent areas of bare soil or very sparse plant cover."
+  }
+}

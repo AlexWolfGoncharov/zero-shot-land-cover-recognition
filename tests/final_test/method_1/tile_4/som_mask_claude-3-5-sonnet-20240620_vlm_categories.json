@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shape and bright green color indicate irrigated crops. Uniform texture and geometric arrangement are typical of agricultural fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular fields with varying shades of green indicate different crops or growth stages. Clear field boundaries suggest active agricultural management."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Lighter color suggests less vegetation. May be fallow fields or areas with sparse crops. Geometric shapes indicate human influence."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectivity suggests man-made structures. Small, scattered nature could indicate rural buildings or infrastructure associated with agricultural activities."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and dense texture suggest trees. Location between fields and irregular shapes indicate natural growth rather than crops."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Linear structures likely represent roads or pathways. Essential infrastructure for agricultural operations, connecting fields and built-up areas."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Very dark green color and irregular shapes strongly indicate dense tree cover. Location at field edges suggests natural vegetation or windbreaks."
+  }
+}

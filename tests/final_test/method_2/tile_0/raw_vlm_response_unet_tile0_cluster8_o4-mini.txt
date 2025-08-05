@@ -1,0 +1,1 @@
+{'0': {'category': 'Unknown', 'confidence': 'low', 'reasoning': 'Mask contains no white pixels; no segment to analyze in the RGB image'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, irregular pattern of small structures with mix of light and dark tones, characteristic of urban or suburban development."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns of rectangles and squares in various shades of green and brown, typical of agricultural fields."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, linear feature with consistent width and straight edges, likely a canal or artificial waterway."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, perfectly circular shapes characteristic of center-pivot irrigation systems used in agriculture."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Irregular, darker patches scattered among cropland, likely representing small areas of trees or woodlots."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small, bright spots scattered throughout, particularly in built-up areas, likely individual buildings or structures."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Small, irregularly shaped areas with slightly darker tone than surrounding cropland, possibly natural grassland or fallow fields."
+  }
+}

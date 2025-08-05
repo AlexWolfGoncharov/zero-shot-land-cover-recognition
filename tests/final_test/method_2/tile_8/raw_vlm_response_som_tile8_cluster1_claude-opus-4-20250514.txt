@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, pivot irrigation circles, and varied colors indicating different crops/growth stages'}}

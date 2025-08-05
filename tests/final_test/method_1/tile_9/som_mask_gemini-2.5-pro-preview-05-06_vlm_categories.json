@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very high reflectance (bright white/tan) and smooth texture suggest dry, bare soil, sand, or possibly salt flats with minimal vegetation."
+  },
+  "1": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Light tan/brown, mottled texture. Appears as sparse or dry herbaceous cover (grassland), distinguishing it from the more barren Cluster 0."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular shapes in top-right suggest fallow/harvested cropland. Central patches could be dry grassland. Cropland is a significant component."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Greenish hue, moderately rough texture in large central natural patches suggest herbaceous cover (grassland). Some agricultural fields share this signature."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Dark green, coarse texture in large, regular rectangular blocks (bottom-right) strongly indicates managed tree plantations."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Clearly corresponds to dark, smooth water surfaces in aquaculture ponds (top-left) and other small water bodies. Very low reflectance."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Corresponds to very dark linear features (banks/paths in aquaculture) and patches (shadows/small water). 'Built-up' for artificial linear structures is a possibility."
+  }
+}

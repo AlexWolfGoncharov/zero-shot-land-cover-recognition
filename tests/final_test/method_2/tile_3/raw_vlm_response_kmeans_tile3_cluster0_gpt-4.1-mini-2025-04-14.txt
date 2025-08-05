@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows regular, geometric field patterns with varying vegetation cover typical of agricultural land.'}}

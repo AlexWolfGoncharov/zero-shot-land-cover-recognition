@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniform texture and rectangular patterns strongly suggest agricultural activity."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The density and irregularity suggest a forested area, but adjacent agricultural fields reduce certainty."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The light color and sparse texture indicate minimal vegetation cover."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The structured layout and consistent color indicate cultivated land."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The density and irregularity suggest shrubby vegetation, but tree cover is also possible."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The uniform texture and distinct color strongly suggest a water body."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The mixed colors and texture suggest a grassland area, but uncertainty remains due to adjacent features."
+  },
+  "7": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense dark color and irregular shapes indicate a forested area."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The lighter color and open texture suggest grassland, but adjacent areas may influence this."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The mixed colors and structured patterns suggest agricultural use, but uncertainty exists."
+  },
+  "10": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense dark color and irregular shapes strongly suggest a forested area."
+  }
+}

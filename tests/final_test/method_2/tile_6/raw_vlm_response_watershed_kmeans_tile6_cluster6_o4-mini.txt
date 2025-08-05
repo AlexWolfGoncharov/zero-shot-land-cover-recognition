@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Center-pivot circular fields typical of irrigated cropland.'}}

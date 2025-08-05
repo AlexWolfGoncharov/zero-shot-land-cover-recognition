@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, homogeneous tone and linear connectivity indicate canal and pond water."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Regular, high-reflectance infrastructure and dense clusters indicate urban/agricultural settlement."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct field shapes and spectral green-brown variability reflect active cultivation."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light tone and low structural texture suggest recently tilled or fallow fields."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Even green tone and lack of crop rows imply managed pasture or grass cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Field geometry and vegetative heterogeneity match cultivation patterns."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric grid pattern, uniform light color, rectangular plots suggest urban or settlement development with structured land use'}}

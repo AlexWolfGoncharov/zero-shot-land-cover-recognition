@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'Medium', 'reasoning': 'Segment contains distinct settlements with grid-like road patterns and buildings, a key indicator for the built-up class, mixed with bare agricultural land.'}}

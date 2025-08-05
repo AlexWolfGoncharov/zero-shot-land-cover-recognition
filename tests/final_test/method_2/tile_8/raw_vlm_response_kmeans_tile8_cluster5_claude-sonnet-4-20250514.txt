@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field parcels with varied crop colors, systematic boundaries, and clear agricultural land use patterns.'}}

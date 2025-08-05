@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular fields indicate center-pivot irrigation typical of cropland."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Grid pattern and reflectance suggest urban or suburban development."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Irregular patterns and texture suggest natural vegetation."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Dark linear features may indicate rivers or canals."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Visible soil and sparse vegetation indicate low plant cover."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense canopy suggests forested area."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Mixed textures and transitional appearance suggest shrubland."
+  }
+}

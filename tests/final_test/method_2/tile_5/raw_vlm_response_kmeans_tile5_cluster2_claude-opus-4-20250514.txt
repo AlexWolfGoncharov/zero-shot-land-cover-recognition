@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense cluster of bright reflective structures in organized pattern typical of coastal urban settlement'}}

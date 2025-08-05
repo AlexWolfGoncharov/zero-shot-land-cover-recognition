@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Light color, sandy texture, and lack of visible vegetation indicate bare or sparsely vegetated land, typical of arid environments."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Mixed appearance suggests transition from bare to vegetated areas. Scattered vegetation patterns consistent with shrubland in semi-arid regions."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color and rougher texture suggest denser vegetation, likely including trees. Coverage not entirely uniform, indicating possible mixed types."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns and varying shades of green characteristic of agricultural fields. Grid-like structure strongly indicates human-managed cropland."
+  }
+}

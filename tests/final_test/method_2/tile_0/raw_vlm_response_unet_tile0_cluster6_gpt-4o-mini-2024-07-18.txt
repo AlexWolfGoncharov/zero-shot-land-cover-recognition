@@ -1,0 +1,1 @@
+{'0': {'category': 'Grassland', 'confidence': 'medium', 'reasoning': 'Irregular shape and mixed texture suggest grassland in an agricultural context.'}}

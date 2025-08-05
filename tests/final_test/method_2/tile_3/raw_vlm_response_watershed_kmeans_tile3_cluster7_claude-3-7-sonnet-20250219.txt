@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular geometric grid pattern with light-colored parcels showing systematic human development distinct from surrounding agricultural areas.'}}

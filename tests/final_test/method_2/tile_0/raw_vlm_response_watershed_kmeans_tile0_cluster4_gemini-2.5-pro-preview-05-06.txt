@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment shows a dense cluster of high-albedo, angular features with a grid-like street pattern, characteristic of buildings and infrastructure in a settlement.'}}

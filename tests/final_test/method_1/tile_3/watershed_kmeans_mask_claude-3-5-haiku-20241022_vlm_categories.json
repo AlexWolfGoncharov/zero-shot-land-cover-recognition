@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Herbaceous wetland",
+    "confidence": "high",
+    "reasoning": "Dark, organic shapes suggesting wetland vegetation near water interface with irregular, natural boundary"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Precise geometric field patterns indicate systematically cultivated agricultural land"
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Structured layout suggests human-made infrastructure, potentially urban or industrial development"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous green vegetation suggesting forest or woodland with complex canopy structure"
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy, non-uniform surface suggesting limited vegetation cover or disturbed landscape"
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation texture suggesting open, non-forest landscape with variable ground cover"
+  }
+}

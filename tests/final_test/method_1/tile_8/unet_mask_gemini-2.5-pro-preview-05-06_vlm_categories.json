@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, homogenous appearance and shape are characteristic of a water body like a lake or reservoir."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright, reflective, small, angular features suggest man-made structures or infrastructure near the water body."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular shapes indicate center-pivot irrigation. Colors (bare soil, light vegetation) are consistent with agricultural activities."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Field-like shapes (rectangular, irregular) and varied colors (bare soil, vegetation stages) within an agricultural landscape indicate cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns and colors (dark greens, reddish-browns) suggest actively cultivated or vegetated agricultural land."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Predominantly large rectangular fields with active vegetation. Includes a small distinct built-up area; cropland is the majority class by area."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular pivot irrigation fields showing dark, dense vegetation colors, indicating actively growing or mature crops."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Circular agricultural structures with smooth surfaces and geometric arrangement indicate built infrastructure rather than natural land cover.'}}

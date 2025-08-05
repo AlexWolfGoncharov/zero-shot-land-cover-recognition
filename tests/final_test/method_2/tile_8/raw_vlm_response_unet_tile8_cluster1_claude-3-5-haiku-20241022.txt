@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular, uniform green-yellow patches typical of center-pivot irrigation fields, regular geometric shapes indicating agricultural land use'}}

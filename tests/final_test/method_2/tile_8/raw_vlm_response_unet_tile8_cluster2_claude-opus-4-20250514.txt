@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Center pivot irrigation circles and regular field patterns indicate active agricultural land use.'}}

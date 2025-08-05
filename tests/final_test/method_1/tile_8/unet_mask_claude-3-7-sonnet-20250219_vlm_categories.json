@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Bright white area with irregular shape and distinct boundaries, showing characteristic water reflectance patterns."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular agricultural fields with tan/beige coloration indicating harvested or fallow state. Perfect circular irrigation patterns visible."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Medium-green rectangular fields showing uniform vegetation coverage in organized patterns typical of actively growing crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dark green geometric fields indicating dense crop vegetation, likely different crop type or growth stage than other agricultural areas."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Reddish-brown fields with clear boundaries indicating recently tilled soil, early crop stages, or post-harvest conditions."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Small geometric features with distinctive reflectance, regularly spaced within agricultural landscape, likely farm structures or settlements."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field patterns, varied crop spectral signatures, systematic agricultural boundaries, and organized cultivation practices clearly indicate agricultural cropland.'}}

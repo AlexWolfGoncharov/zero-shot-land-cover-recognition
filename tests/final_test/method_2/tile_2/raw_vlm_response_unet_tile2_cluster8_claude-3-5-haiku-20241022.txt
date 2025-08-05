@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, distinct rectangular field boundaries, uniform green and reddish vegetation textures typical of agricultural landscapes'}}

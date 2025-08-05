@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Bright green circular fields with uniform texture and distinct boundaries, typical of managed agricultural land with active vegetation growth.'}}

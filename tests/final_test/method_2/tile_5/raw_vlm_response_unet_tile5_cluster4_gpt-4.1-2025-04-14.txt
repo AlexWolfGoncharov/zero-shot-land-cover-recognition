@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Segment contains dense, rectilinear patterns, bright rooftops, and road networks typical of urban or suburban built-up areas adjacent to a water body.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The circular patterns and smooth texture strongly indicate cultivated agricultural land."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The presence of irregular shapes suggests mixed agricultural practices, but the dominant feature remains cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The rectangular patches suggest agricultural fields, though the texture indicates potential variability in land use."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and proximity to denser areas suggest urban development or built-up land."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniform circular patterns are characteristic of well-managed agricultural fields."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and less uniform texture suggest a transition area between agricultural and natural vegetation."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "Low",
+    "reasoning": "The complex patterns and textures could indicate water presence, but further evidence is needed for confirmation."
+  }
+}

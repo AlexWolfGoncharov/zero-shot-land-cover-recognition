@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric fields and irrigation patterns are characteristic of cropland."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, rectilinear grid and small blocky features indicate urban or built-up areas."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color and lack of vegetation suggest fallow or bare fields."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dark green, irrigated circles are typical of active cropland."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, mixed-color patches suggest unmanaged grassland or fallow land."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Very dark, unvegetated areas are likely bare soil or recently harvested fields."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Small, mixed patches may be unmanaged grassland or field margins."
+  }
+}

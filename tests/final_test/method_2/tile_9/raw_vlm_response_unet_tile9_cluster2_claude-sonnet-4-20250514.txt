@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Mottled pattern with scattered vegetation patches and exposed ground typical of sparse vegetation coverage.'}}

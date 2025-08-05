@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Dominated by bright sand dunes with undulating textures and minimal vegetation; appears largely barren.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns with varying green tones indicate cultivated agricultural land with distinct crop plots at different growth stages.'}}

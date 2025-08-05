@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes of center-pivot irrigation, varying vegetation stages/colors typical of active agricultural practices."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear circular and rectangular field patterns with varied vegetation colors, suggesting different crop types or growth stages consistent with agriculture."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dominant circular field shapes. Colors (light brown, tan, pale green) suggest harvested, fallow, or early-stage crops within an agricultural system."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Predominantly large areas of light brown/tan color with smooth texture, suggesting exposed soil or very sparse vegetation, likely fallow land or prepared fields."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Irregular shapes, mixed light brown/beige/dull green colors, and mottled texture suggest areas of exposed soil with sparse, non-cultivated vegetation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Small, very bright white/light-colored patches strongly corresponding to rooftops and other man-made impervious surfaces within settlement patterns."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Predominantly bright linear features visually identifiable as roads, and bright patches consistent with paved surfaces or buildings, characteristic of infrastructure."
+  }
+}

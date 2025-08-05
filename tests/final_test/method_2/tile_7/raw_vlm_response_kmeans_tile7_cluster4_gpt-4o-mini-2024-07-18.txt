@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'The dense and irregular vegetation pattern strongly indicates tree cover amidst agricultural land.'}}

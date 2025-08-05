@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric circular irrigation patterns and rectangular field plots characteristic of modern agricultural cultivation systems.'}}

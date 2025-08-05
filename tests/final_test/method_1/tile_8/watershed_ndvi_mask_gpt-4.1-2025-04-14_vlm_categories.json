@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy areas with visible soil and low vegetation density suggest sparse vegetation rather than active cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular, uniform fields are characteristic of irrigated cropland, especially with center-pivot systems."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The smooth, dark blue area is consistent with a lake or reservoir, indicating a permanent water body."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular fields with crop rows and varying crop stages are typical of cropland."
+  }
+}

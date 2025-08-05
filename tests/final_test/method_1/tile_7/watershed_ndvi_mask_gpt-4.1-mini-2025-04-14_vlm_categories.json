@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, regular grid pattern of small structures indicates urban built-up area."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, rectangular, uniform patches typical of agricultural fields."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Irregular dark green patches with rough texture suggest dense vegetation near water."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth linear features and ponds consistent with water bodies."
+  }
+}

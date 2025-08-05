@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment contains regular geometric patterns, including circular and rectangular fields, characteristic of mechanized agriculture and irrigation, typical of cropland.'}}

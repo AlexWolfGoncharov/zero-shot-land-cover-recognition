@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Regular grid pattern, sharp edges, and dense, heterogeneous features indicate urban/suburban structures typical of built-up areas.'}}

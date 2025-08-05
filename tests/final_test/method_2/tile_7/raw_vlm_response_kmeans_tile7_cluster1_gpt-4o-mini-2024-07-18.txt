@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment exhibits clear agricultural characteristics, including structured patterns and a mix of vegetation types.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Perfect circular shapes are center-pivot irrigation systems in agricultural landscape with harvested/bare fields.'}}

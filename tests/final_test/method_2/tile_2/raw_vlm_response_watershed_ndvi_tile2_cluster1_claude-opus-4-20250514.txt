@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniformly dark, smooth texture characteristic of deep water, surrounded by agricultural and urban areas.'}}

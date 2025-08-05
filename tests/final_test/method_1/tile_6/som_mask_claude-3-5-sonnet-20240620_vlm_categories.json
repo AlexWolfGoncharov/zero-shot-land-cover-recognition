@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes (circles and rectangles) with varying shades of green indicate agricultural fields. Patchwork pattern typical of cultivated cropland."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Lighter coloration (pale yellow to light brown) suggests areas with less vegetation cover. Could be fallow fields or areas with sparse vegetation."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright, reflective areas with defined geometric shapes. Small size suggests settlements or agricultural buildings within rural landscape."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green, irregularly shaped areas with textured appearance. Likely small patches of trees or woodlands interspersed within agricultural landscape."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes with medium to dark green coloration. Indicates cultivated fields, possibly different crop types or growth stages than cluster 0."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Light to medium green areas with mottled texture and irregular shapes. Could be natural grassland or pasture, but also possibly fallow cropland."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "Low",
+    "reasoning": "Very dark, linear features. Possibly small water channels or irrigation ditches, but could also be roads or other infrastructure."
+  }
+}

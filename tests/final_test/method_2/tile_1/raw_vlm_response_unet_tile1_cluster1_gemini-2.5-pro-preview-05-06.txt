@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a dark, smooth, linear feature with sharp boundaries, characteristic of a large canal or channelized river, which strongly absorbs radiation.'}}

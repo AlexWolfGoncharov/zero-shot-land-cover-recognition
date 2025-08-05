@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of distinct agricultural patterns indicates active farming, typical of cropland."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The high density of structures and infrastructure clearly indicates urban land use."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The less structured appearance suggests a transition area, possibly indicating shrubland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The clear presence of a large water body is unmistakable."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The lack of dense vegetation and visible soil suggests a degraded area."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense green texture and continuity suggest a forested area."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "The agricultural patterns suggest active farming, despite some built-up features."
+  }
+}

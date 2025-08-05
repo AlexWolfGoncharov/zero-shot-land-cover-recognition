@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric shapes (circles, rectangles) and dark green/reddish-brown color suggest actively cultivated, vegetated, or prepared agricultural fields."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light tan/brown color and smooth texture suggest exposed soil or very dry/sparse vegetation, common in fallow or harvested agricultural land."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Heterogeneous texture, dark surfaces, and association with grid patterns in the top-left suggest artificial surfaces like roads or parts of buildings."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns and green/reddish colors strongly indicate actively growing crops or cultivated land."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric field shapes with light green/yellowish or light brown colors suggest less vigorous or senescent crops, or sparsely vegetated agricultural land."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark blue/black color, smooth texture, and linear channel shape strongly indicate an open water body like a river or large canal."
+  },
+  "6": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Irregular shape, coarse texture, dark green/brownish-green color, and canopy-like appearance suggest a dense area of trees or woody vegetation."
+  }
+}

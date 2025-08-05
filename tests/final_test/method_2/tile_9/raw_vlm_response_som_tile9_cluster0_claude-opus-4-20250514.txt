@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Light tan coloration, exposed soil surface, and scattered dark spots indicating minimal vegetation coverage.'}}

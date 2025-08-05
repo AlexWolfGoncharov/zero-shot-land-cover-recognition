@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct rectangular and circular field patterns with varying colors indicating different crops or growth stages in an agricultural landscape.'}}

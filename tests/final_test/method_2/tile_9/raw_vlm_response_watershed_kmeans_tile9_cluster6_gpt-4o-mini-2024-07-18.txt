@@ -1,0 +1,1 @@
+{'0': {'category': 'Shrubland', 'confidence': 'medium', 'reasoning': 'Irregular shape and mixed textures indicate dominance of shrubs or low vegetation.'}}

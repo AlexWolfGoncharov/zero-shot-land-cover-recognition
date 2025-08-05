@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns of circular and rectangular fields with uniform vegetation, clear field boundaries, and evident irrigation systems indicate active agriculture.'}}

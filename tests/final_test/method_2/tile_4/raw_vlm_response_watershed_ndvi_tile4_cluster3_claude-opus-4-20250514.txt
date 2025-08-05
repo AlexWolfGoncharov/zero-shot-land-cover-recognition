@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinctive circular pivot irrigation patterns with varying crop growth stages indicate intensive agricultural use.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'high', 'reasoning': 'Circular dark green patch with uniform texture and distinct boundary within agricultural matrix suggests isolated tree cover/small forest stand.'}}

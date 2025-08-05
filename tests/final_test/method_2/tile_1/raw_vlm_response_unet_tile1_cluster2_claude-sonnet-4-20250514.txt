@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field boundaries with varied crop spectral signatures indicate systematic agricultural cultivation.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field boundaries with uniform green vegetation typical of cultivated agricultural land.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, uniform texture, distinct field boundaries, and managed vegetation indicate active agricultural production.'}}

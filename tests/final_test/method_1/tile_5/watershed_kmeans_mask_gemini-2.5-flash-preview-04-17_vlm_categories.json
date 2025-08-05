@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, smooth area with clear boundary to land, consistent with a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Covers multiple distinct agricultural fields with varying vegetation states, indicating cultivated land."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense concentration of bright features, irregular shapes, and linear patterns consistent with buildings and infrastructure."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Large rectangular areas with reddish-brown tones indicative of bare soil or minimal vegetation cover, likely agricultural land."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Uniform bright green color and distinct field shapes (including circular) indicate healthy, actively growing crops."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular areas with varying green and reddish tones within field boundaries, characteristic of agricultural cultivation."
+  }
+}

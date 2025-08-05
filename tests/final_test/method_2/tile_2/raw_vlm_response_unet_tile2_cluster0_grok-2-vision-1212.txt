@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Linear coastal pattern, uniform texture, adjacent to water and agriculture.'}}

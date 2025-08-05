@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segments are distinct circular fields, a classic pattern of center-pivot irrigation systems, which are unambiguous indicators of intensive agricultural activity.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric shapes and center-pivot irrigation patterns are definitive indicators of cropland."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy, and lighter areas suggest exposed soil or sparse vegetation."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid pattern, visible structures, and road networks are characteristic of built-up areas."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Linear, uncultivated strips with mixed vegetation are typical of grassland or field margins."
+  }
+}

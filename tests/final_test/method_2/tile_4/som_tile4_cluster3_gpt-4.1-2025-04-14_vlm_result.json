@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Segment contains organized circular/rectangular fields with center-pivot irrigation, characteristic of intensively managed cropland."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Rectangular shape with uniform bright surface and straight boundaries indicates human-made structures or facilities.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The segment is dominated by large, geometrically regular fields, including distinct center-pivot irrigation circles, which are unambiguous indicators of agricultural activity.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment contains large, regular, rectangular and circular parcels with varied tones, typical of intensively managed agricultural fields; clear field boundaries indicate cropland.'}}

@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct field-like patterns with varying colors indicate different crops or growth stages. Regular shapes suggest human agricultural management."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and irregular shapes suggest natural vegetation. Varying density indicates possible forest or woodland areas."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color suggests exposed soil. Regular shapes indicate human influence, possibly fallow fields or cleared land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Brightness and regular shape suggest artificial surfaces. However, large size and agricultural context make this classification uncertain."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and sinuous shape strongly indicate a river or large stream."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, heterogeneous pattern typical of urban development. Clear contrast with surrounding agricultural areas."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Color suggests vegetation, but lack of clear field patterns makes cropland less likely. Could be natural or managed grassland."
+  },
+  "7": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and circular shape suggest managed woodlots or small forests. Distinct from surrounding agricultural land."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Color and partial patterning suggest agricultural use, but less clear boundaries than main cropland areas."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Dark color suggests vegetation. Small size and distribution could indicate isolated trees or small groves."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Color suggests vegetation, but less dense than forest. Irregular patterns and context hint at possible shrub or scrub areas."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth texture and clear contrast with surrounding land strongly indicate a large river or water body."
+  },
+  "1": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Bright green color, proximity to water, and irregular patterns suggest wetland vegetation. Varied textures indicate possible seasonal flooding or mixed vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns and varying colors are characteristic of agricultural fields in different stages of growth or with different crops."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Light color and contrast with vegetation suggest man-made structures. Mix of geometric and irregular shapes indicates possible urban or suburban development."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and smooth texture suggest dense vegetation. Irregular shapes and location near water bodies indicate possible forested areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and rough texture suggest areas with little vegetation. Could be naturally occurring bare areas or land cleared for development."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Mixed appearance and transitional nature suggest areas of mixed vegetation. Could be shrubland, degraded forest, or mix of grassland and sparse trees."
+  }
+}

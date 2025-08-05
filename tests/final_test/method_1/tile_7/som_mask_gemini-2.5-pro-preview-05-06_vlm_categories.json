@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular plots, light brown/tan colors suggest bare soil or early growth in agricultural fields."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, granular texture, radial pattern, mixed colors typical of a settlement with buildings and roads."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric fields with various green shades, indicating actively cultivated land with growing vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field shapes, dark green or reddish-brown colors suggest different crop types or stages."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Dark, smooth circular/oval features typical of ponds/lakes; associated dark rectangular areas may also be water."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Very dark, smooth linear canal and similarly dark rectangular patches, likely flooded fields or water."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular agricultural plots with dark green or brown colors, indicating mature crops or different soil conditions."
+  }
+}

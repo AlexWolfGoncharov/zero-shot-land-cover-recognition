@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Bright tan/beige coloration with mottled texture, minimal vegetation, high reflectance characteristic of exposed soil or sand."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed tan with scattered darker vegetation patches; discontinuous plant cover forming transitional zone between bare areas and denser vegetation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns with rectangular fields, uniform vegetation within parcels, clear field boundaries indicating cultivated areas."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark green homogeneous texture, denser vegetation than surrounding areas, lacks agricultural geometric patterns, suggesting natural woody vegetation."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Intermediate vegetation density with mixed green and tan coloration, irregular patterns suggesting natural grassy cover with scattered vegetation."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Small bright white patches with high reflectance, geometric shapes, sharp contrast with surrounding vegetation indicating artificial structures."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Very dark/black patches with distinct boundaries, associated with agricultural areas, suggesting irrigation ponds or small reservoirs."
+  }
+}

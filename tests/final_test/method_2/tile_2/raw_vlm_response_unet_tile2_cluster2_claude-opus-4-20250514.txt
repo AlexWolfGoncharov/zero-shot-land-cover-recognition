@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark coloration, smooth texture, and clear boundaries with surrounding terrestrial features indicate open water.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Clear presence of structures, roads, and organized spatial patterns typical of human settlements'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Sandy terrain with scattered dark spots indicating sparse desert vegetation, typical of arid landscapes.'}}

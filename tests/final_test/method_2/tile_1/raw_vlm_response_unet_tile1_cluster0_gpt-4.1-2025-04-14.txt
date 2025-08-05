@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Linear, dark, uniform segment matches a canal or irrigation channel, typical of permanent water bodies in agricultural landscapes.'}}

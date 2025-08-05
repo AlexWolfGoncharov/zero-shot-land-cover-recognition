@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Segment corresponds to a large, dark, uniform area adjacent to land, typical of water bodies in RGB imagery.'}}

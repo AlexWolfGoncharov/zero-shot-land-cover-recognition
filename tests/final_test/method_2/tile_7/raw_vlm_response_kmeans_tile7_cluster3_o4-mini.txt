@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Linear dark surfaces with adjacent ponds indicate a perennial irrigation canal and reservoirs.'}}

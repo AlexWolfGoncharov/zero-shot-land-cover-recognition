@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Dense green vegetation with interspersed water channels along river, typical wetland pattern and texture'}}

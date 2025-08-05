@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns and crop rotation colors indicate active agricultural land."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dense canopy and shadows suggest trees, though some areas could be dense shrubs."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Uniform light brown color and minimal texture indicate bare or sparsely vegetated land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Urban grid and infrastructure patterns confirm built-up land."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Uniform dark tone and adjacency to land indicate a water body."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "Irregular, rough texture and mixed vegetation suggest shrubland rather than uniform grassland."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Narrow linear patches with mixed vegetation likely represent grassland strips near cropland."
+  }
+}

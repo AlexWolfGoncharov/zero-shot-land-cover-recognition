@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns and irrigation circles are characteristic of intensively managed agricultural land."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, grid-like patterns and road networks are typical of urban or built-up areas."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy, and less vegetated areas suggest bare soil or sparse vegetation, possibly fallow fields."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Very dark, low-reflectance fields are likely bare soil or recently harvested cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green, regular fields are indicative of actively growing crops."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular, non-field patches with mixed tones suggest unmanaged grassy areas or field margins."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "low",
+    "reasoning": "Scattered, intermediate patches may represent grassy or fallow areas, but distinction from sparse vegetation is uncertain."
+  }
+}

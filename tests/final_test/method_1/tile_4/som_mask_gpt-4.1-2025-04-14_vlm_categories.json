@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigation circles and field patterns are characteristic of intensive agriculture."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy areas with low vegetation density, often between or around fields."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid patterns and adjacency to infrastructure suggest urban or developed land."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green areas are typical of tree cover, possibly shelterbelts or small woodlots."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Linear, rough-textured patches along boundaries suggest shrub-dominated areas."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and sparse distribution indicate exposed soil or minimal vegetation."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform, green, geometric patches are consistent with managed agricultural fields."
+  }
+}

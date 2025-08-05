@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of well-defined agricultural patterns and uniform textures strongly indicates cultivated land."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The irregular shapes and mixed textures suggest a less managed area, typical of shrubland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The uniformity and rectangular patterns are characteristic of agricultural fields."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The presence of circular shapes and smooth textures suggests water bodies, though some ambiguity exists due to adjacent land uses."
+  }
+}

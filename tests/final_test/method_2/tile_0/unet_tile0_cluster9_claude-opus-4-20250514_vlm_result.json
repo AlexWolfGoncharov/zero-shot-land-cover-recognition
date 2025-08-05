@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Unable to classify",
+    "confidence": "N/A",
+    "reasoning": "No white region visible in mask to identify cluster 0"
+  }
+}

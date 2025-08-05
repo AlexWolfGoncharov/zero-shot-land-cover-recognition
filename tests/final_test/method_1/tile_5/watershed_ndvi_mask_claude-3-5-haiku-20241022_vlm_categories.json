@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform circular agricultural fields with systematic irrigation patterns strongly indicate intensive crop cultivation."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Densely packed rectangular structures with uniform grid layout characteristic of urban settlement patterns."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Diverse, geometrically structured agricultural landscape with multiple crop types and field divisions."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation with transitional characteristics, lacking dense tree cover but showing vegetative ground cover."
+  }
+}

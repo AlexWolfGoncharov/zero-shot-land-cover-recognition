@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular rectangular plots with varying soil/vegetation tones typical of cultivated agricultural fields.'}}

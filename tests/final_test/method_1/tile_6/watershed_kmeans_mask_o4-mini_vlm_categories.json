@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dense vegetation within irrigation circles indicates active cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Pivot‐irrigated green fields typical of crops."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Exposed soil and lack of crop cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Urban grid with buildings and roads."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular agricultural plots without irrigation circles."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Minimal vegetation cover, consistent fallow appearance."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Visible planting rows in rectangular fields."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Recent tillage leaving exposed soil."
+  },
+  "8": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "Likely irrigation reservoirs or holding ponds."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense woody vegetation in windbreaks and shelterbelts."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Even herbaceous cover without crop geometry."
+  }
+}

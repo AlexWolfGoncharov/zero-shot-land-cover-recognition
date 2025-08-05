@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The segment exhibits a heterogeneous, granular texture with a discernible grid pattern, characteristic of streets, buildings, and interspersed residential vegetation.'}}

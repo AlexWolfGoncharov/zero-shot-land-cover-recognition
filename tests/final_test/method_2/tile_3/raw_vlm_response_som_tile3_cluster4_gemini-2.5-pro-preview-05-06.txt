@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'The highlighted areas are predominantly light brown/tan, indicating exposed soil or sand with minimal to no green vegetation cover, characteristic of bare ground.'}}

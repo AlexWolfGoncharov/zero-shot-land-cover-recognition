@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform, geometric circular plots with consistent agricultural field texture indicate intensive crop cultivation.'}}

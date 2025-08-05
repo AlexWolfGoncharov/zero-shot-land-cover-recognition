@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns and irrigation circles are characteristic of intensive agriculture."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green areas suggest tree cover, but lack of clear forest structure lowers confidence."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and lack of vegetation indicate bare or sparsely vegetated land."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Center-pivot irrigation circles are a hallmark of cropland."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Color, texture, and context indicate a lake or reservoir."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Field boundaries and crop rows are typical of cropland."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed tones and irregular shapes suggest unmanaged grassland or fallow fields."
+  },
+  "7": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Linear, bright features likely represent unpaved roads or bare ground."
+  },
+  "8": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "High reflectance and compactness suggest buildings or infrastructure."
+  },
+  "9": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green patches likely represent tree stands or shelterbelts."
+  },
+  "10": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Light green, irregular patches suggest unmanaged grassland."
+  }
+}

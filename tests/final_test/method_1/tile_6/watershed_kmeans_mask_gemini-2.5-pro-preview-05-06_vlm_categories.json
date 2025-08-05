@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Many segments correspond to small man-made structures like rooftops, pavement, or shadows within settlements. Ambiguity due to small size."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Classic circular shape of center-pivot irrigation. Dark green/reddish-brown color indicates active, dense vegetation, typical of irrigated crops."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear circular shapes of irrigated fields. Varied green/brown colors indicate active cultivation of different crops or growth stages."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dominant shapes are agricultural (circles, rectangles). Colors (light green, tan) are consistent with crops or tilled soil."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes of irrigated fields with bright green coloration, strongly indicating actively growing crops."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Large segments show settlement grid patterns, buildings, and roads. Some agricultural fields are also included by the mask."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Irregular patches are light brown/grayish, indicating exposed soil or sparse/dry vegetation. Some fallow circular fields included."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Large, bright circular fields (light tan/beige), likely harvested, fallow, or tilled soil within cropland system."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Very light brown/grayish irregular patches suggest dry soil or sparse vegetation. Some bright fallow fields included."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Large irregular areas with light brown/gray/dull whitish-green colors, suggesting extensive exposed soil or sparse vegetation."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Very bright circular fields suggest bare, tilled soil, part of the cropland cycle. This is a dominant agricultural feature."
+  }
+}

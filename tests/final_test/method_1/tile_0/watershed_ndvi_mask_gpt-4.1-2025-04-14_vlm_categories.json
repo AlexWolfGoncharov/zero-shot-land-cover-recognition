@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, rectangular fields with uniform texture and patchwork pattern are characteristic of cropland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, dark green, irregular patches, often near water, suggest tree cover, possibly riparian woodland."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Light color and sparse texture indicate minimal vegetation cover, typical of bare or sparsely vegetated areas."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "High reflectance, geometric shapes, and proximity to infrastructure suggest built-up areas (e.g., buildings, roads)."
+  }
+}

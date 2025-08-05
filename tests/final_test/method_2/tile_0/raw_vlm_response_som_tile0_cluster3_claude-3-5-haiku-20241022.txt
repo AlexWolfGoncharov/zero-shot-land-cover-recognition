@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform geometric field patterns, multiple green shades, and clear agricultural land division indicate intensive crop cultivation'}}

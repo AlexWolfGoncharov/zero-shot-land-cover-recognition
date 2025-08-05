@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric structures, reflective surfaces, linear infrastructure, and organized spatial patterns indicate developed urban area.'}}

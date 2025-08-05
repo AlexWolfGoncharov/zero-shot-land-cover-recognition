@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Varying shades of green in geometric patterns strongly indicate cultivated fields with different crops or growth stages."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Bright green color and smooth texture suggest dense vegetation, likely forest. Some areas could be mistaken for dense crops."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Light color suggests less dense vegetation than forests. Rectangular shapes indicate managed grasslands, possibly pastures or meadows."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "High reflectance and scattered distribution are characteristic of buildings and other man-made structures in rural or suburban areas."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Darker green suggests denser vegetation than grassland, but less uniform than forest. Could be transitional areas or hedgerows."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Reddish-brown color indicates exposed soil, likely fallow fields or recently harvested cropland. Geometric shapes support agricultural use."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color and sinuous shape are characteristic of rivers or streams. Consistent with the agricultural landscape."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light green color and irregular shapes suggest early-stage crops or different agricultural practices from the main cropland areas."
+  },
+  "8": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Uniform green color suggests dense vegetation, likely a different type of forest or tree plantation than in cluster 1."
+  },
+  "9": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "High reflectance and association with other built-up areas suggest small structures or infrastructure elements."
+  },
+  "10": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Mixed green tones and transitional location suggest a mix of vegetation types, possibly including shrubs and small trees."
+  }
+}

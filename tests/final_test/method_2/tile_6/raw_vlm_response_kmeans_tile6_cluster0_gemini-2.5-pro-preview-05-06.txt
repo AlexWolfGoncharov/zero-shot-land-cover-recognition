@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of numerous distinct circular and rectangular fields, which are classic patterns of center-pivot irrigation and intensive agriculture, defining it as cropland.'}}

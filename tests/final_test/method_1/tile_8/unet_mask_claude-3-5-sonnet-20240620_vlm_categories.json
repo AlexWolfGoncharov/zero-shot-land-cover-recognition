@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular patterns typical of center-pivot irrigation systems. Bright, uniform color suggests harvested or fallow fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular rectangular shapes and varied green hues characteristic of different crops. Geometric arrangement strongly suggests cultivated fields."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and irregular shapes suggest natural vegetation. Texture and contrast with surroundings indicate possible tree cover."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Light to medium green areas with partial geometric arrangement suggest agricultural use, possibly less intensively managed cropland or pastures."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "Very dark color contrasting with surrounding land suggests water. Some geometric edges indicate possible artificial water bodies."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Bright white color and distinct semi-circular shape suggest a water body with high reflectance, possibly an artificial reservoir."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Low",
+    "reasoning": "Small, scattered areas with regular shapes suggest human structures, but low resolution makes it difficult to confirm built-up features."
+  }
+}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field patterns, varying crop stages, and agricultural parcel boundaries clearly indicate active cropland use.'}}

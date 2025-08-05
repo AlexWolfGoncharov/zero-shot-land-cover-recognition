@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular shape, uniform color, and context of agricultural landscape strongly indicate cultivated agricultural land'}}

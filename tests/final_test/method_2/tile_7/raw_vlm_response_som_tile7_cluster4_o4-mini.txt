@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Linear canal plus smooth, dark, well‐defined water bodies indicate open water.'}}

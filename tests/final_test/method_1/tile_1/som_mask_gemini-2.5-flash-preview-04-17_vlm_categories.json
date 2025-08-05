@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Prominent bright linear features form a network characteristic of roads and associated infrastructure."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct geometric field shapes, pivot irrigation circles, and varied vegetation states indicate active agriculture."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Small, bright white/light gray patches suggest highly reflective bare soil or surfaces with very sparse vegetation."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Darker patches and linear features appear as bare soil, dry vegetation, or unpaved surfaces within the agricultural matrix."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, irregular pattern of buildings, roads, and infrastructure is characteristic of a built-up area."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth appearance and linear shape of the main canal and other patches are characteristic of open water."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Bright tone and location within agricultural fields, including circular patterns, indicate bare soil or very sparse vegetation."
+  }
+}

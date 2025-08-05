@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark blue/black area with smooth texture and distinct boundary, characteristic of a lake or reservoir."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright, light brown/pinkish patches within fields, indicating bare soil or fallow land typical of agricultural areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Extensive dark green/brownish-green areas within fields, showing dense, actively growing vegetation consistent with crops."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Reddish-brown areas within fields, suggesting a different crop type, growth stage, or soil condition within cultivated land."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green/yellowish-green areas within fields, indicative of crops at a different growth stage or type than darker green areas."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Medium green areas within fields, representing crops with a spectral signature between the light and dark green segments."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small, scattered patches and linear features showing signs of structures, roads, or associated bare ground in non-field areas."
+  }
+}

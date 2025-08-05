@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows regular grid patterns, patchy textures, and varied vegetation typical of agricultural fields.'}}

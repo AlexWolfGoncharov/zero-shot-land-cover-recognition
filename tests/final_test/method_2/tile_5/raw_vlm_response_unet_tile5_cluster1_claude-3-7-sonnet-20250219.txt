@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark homogeneous surface with distinct shoreline boundary, lacking vegetation patterns, characteristic of a lake or coastal water body.'}}

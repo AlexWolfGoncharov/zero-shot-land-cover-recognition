@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark blue/black appearance with distinct shoreline boundaries and water surface texture visible."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular geometric field patterns with varying shades of green indicating different crop types or growth stages."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense concentration of bright structures in grid patterns, clearly visible as settlements along shorelines."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Less structured vegetation areas with medium-green tone, lacking tree canopy texture but more natural than cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Lighter-toned agricultural fields showing recently harvested or early growth stage crops with clear field boundaries."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Deep green rectangular plots indicating mature, well-irrigated crops at peak growth within agricultural landscape."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Linear features and transition zones between land uses, including roads and infrastructure connecting settlements."
+  }
+}

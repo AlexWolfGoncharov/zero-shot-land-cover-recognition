@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular/rectangular fields with dark green (active) or reddish-brown (harvested/fallow) appearance, characteristic of varied cropland stages."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Clear circular/rectangular agricultural fields with bright green coloration, indicating actively growing crops under irrigation."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Predominantly rectangular fallow/tilled agricultural fields (light brown/tan). Some built-up areas also fall into this cluster."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Mainly circular/rectangular agricultural patterns, very light tan/pinkish-brown, indicating highly reflective fallow or harvested cropland."
+  }
+}

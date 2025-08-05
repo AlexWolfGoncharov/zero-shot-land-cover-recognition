@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Center-pivot irrigation circles indicate active agricultural fields."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Exposed soil and lack of crop signature indicate fallow or bare ground."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Field mosaic with cultivated textures and colors consistent with crops."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Smooth, dark appearance and channel morphology indicate open water."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Rectilinear infrastructure and high reflectance from buildings denote urban area."
+  },
+  "5": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Proximity to water and marshy texture imply saturated, herbaceous wetland."
+  },
+  "6": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large coastal water body with uniform low reflectance confirms open sea."
+  }
+}

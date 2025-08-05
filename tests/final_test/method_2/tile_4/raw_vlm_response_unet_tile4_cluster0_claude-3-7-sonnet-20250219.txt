@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns with uniform texture and varying green tones indicate cultivated agricultural fields with active vegetation growth.'}}

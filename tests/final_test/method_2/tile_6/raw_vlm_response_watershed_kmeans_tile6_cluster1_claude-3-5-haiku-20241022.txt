@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Uniform circular fields with distinct agricultural geometry and consistent green vegetation suggest cultivated crops.'}}

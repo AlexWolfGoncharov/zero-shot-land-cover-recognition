@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Deep green circular pivots indicate dense irrigated crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Pivot outlines and planted rows indicative of cropland."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Field geometry and residual vegetation patterns suggest harvested cropland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Uniform bare soil in former pivot fields indicates fallow or tilled ground."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Sparse cover and exposed soil in fallow fields aligns with bare/sparse category."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular built structures and road grid are clear urban features."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Pivot geometry and crop residue patterns denote cropland."
+  }
+}

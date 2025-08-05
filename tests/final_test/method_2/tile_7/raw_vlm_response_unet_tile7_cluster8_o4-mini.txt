@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular pivot‐irrigation circle and rectangular field patterns indicative of active crop cultivation.'}}

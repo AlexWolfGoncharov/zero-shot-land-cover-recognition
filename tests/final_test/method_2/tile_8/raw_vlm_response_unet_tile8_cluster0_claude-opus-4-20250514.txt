@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric field patterns, varied crop colors, and surrounding agricultural context clearly indicate active farmland'}}

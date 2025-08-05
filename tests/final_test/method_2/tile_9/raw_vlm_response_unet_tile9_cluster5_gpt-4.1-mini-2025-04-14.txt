@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Segment shows irregular, patchy texture with light-colored sandy or soil surfaces and sparse vegetation, typical of bare or sparsely vegetated land.'}}

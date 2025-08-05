@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Geometric pattern with regular shapes, light-colored surfaces, grid layout, and clear contrast with surrounding vegetation indicates human development.'}}

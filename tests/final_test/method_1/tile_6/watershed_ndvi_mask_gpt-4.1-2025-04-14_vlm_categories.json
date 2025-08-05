@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Large geometric fields with center-pivot irrigation indicate intensive agriculture."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, light-toned patches suggest exposed soil or sparse cover."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense, grid-like, compact patterns typical of settlements or infrastructure."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Very dark green patches likely represent dense tree cover or shelterbelts."
+  }
+}

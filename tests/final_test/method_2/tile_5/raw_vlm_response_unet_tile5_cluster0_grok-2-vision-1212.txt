@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'medium', 'reasoning': 'Proximity to water, uniform texture, adjacent to developed area.'}}

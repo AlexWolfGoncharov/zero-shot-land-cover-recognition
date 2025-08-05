@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark blue-black area with smooth texture and sharp land boundary in bottom right corner, characteristic of deep water."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense geometric pattern with grid-like arrangement of structures and roads showing human settlement with distinct urban texture."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Patchwork of regularly shaped rectangular fields with various green/brown tones indicating different crop growth stages or types."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Reddish-brown areas with coarse texture between agricultural fields, appearing as exposed soil with minimal vegetation."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Vibrant green geometric fields indicating actively growing crops, likely at peak growth stage with intensive management."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Light beige to white circular fields, likely fallow or recently harvested cropland in center-pivot irrigation systems."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Extremely bright white circular areas within agricultural landscape, likely exposed soil in fallow center-pivot fields."
+  }
+}

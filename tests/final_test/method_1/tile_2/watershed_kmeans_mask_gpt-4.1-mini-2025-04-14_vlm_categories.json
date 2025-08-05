@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark color and smooth texture indicate open water."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Patchwork pattern with linear boundaries typical of agricultural fields."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense dark green canopy with rough texture typical of trees."
+  },
+  "3": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Uniform light green texture adjacent to cropland suggests grassland."
+  },
+  "4": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Small dense patches near built-up areas indicate shrubland."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid-like pattern and roads clearly indicate built-up areas."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light tones and sparse texture suggest bare or sparse vegetation."
+  },
+  "7": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dense green vegetation near water suggests herbaceous wetland."
+  },
+  "8": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "low",
+    "reasoning": "Bright patches likely bare soil but could be urban surfaces."
+  },
+  "9": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Scattered green patches with rough texture typical of shrubland."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed vegetation and adjacency to cropland suggest cropland mosaic."
+  }
+}

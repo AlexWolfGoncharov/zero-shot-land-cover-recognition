@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric patterns, rectangular field divisions, uniform green and yellowish-green textures indicative of agricultural cultivation.'}}

@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear dark feature with smooth texture, clear boundaries, and channel-like appearance typical of irrigation canal or river."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Perfect circular patterns characteristic of center pivot irrigation, varying green/brown tones indicating different crop growth stages."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright green rectangular fields with clear boundaries and homogeneous texture indicate actively growing crops under cultivation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns with reddish-brown coloration indicate agricultural land in fallow/harvested state or early growth stage."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright white/gray patches with heterogeneous texture amidst agricultural land, typical of rural settlements and infrastructure."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Heterogeneous patches with mixed vegetation and building signatures, exhibiting small-scale agricultural pattern."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense concentration of bright reflective surfaces with rectangular patterns and road networks, characteristic of urbanized areas."
+  },
+  "7": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular field patterns with moderate green signature indicating agricultural use with crops at intermediate growth stage."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Light brown rectangular fields with minimal vegetation, showing clear agricultural boundaries indicating cultivated land."
+  },
+  "9": {
+    "category": "Cropland",
+    "confidence": "low",
+    "reasoning": "Heterogeneous green patches with irregular boundaries near settlements suggest small-scale diverse agricultural use."
+  },
+  "10": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Perfect circular fields with dark green signature indicate center pivot irrigation agriculture with mature crops."
+  }
+}

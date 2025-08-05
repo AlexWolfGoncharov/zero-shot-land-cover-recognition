@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular grid pattern, field boundaries, and varied vegetation indicate intensive agriculture typical of cropland.'}}

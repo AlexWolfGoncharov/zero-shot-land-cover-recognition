@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct field shapes and uniform dark green color are characteristic of healthy crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green color and distinct field boundaries strongly indicate cultivated areas with vigorous vegetation growth."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Uniform brown color and smooth texture within field boundaries are typical of bare soil or very sparse vegetation."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Presence of linear road features and a cluster of structures clearly indicates built-up infrastructure."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The dark color, smooth texture, and winding channel shape are characteristic features of a river or stream."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Located within the agricultural matrix, showing mixed vegetation and bare soil patches, likely representing multiple fields or varied crop conditions."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Patchy green and brown appearance in uncultivated areas or field margins is consistent with grassland or mixed herbaceous cover."
+  }
+}

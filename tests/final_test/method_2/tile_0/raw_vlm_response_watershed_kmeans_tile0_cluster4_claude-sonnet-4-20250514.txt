@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field boundaries, uniform parcels with varied colors indicating different crops or growth stages.'}}

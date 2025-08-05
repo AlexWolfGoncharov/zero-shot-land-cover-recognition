@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green, textured appearance in regular plots suggests dense tree canopies like orchards or plantations."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark color, smooth texture, and characteristic shape of a river and associated water body."
+  },
+  "2": {
+    "category": "Herbaceous wetland",
+    "confidence": "Medium",
+    "reasoning": "Lush green, textured, irregular shapes in floodplain adjacent to water suggest water-tolerant herbaceous vegetation."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly rectangular plots with colors (green, brown) and textures typical of active or fallow agricultural fields."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular shapes, colors (light green, tan), and context within agricultural landscape strongly indicate cropland."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light colors (tan, gray), linear/fragmented shapes suggest exposed soil, dry vegetation, or unpaved paths."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very light tan/beige colors, smooth texture, and large patches suggest exposed soil or very dry vegetation."
+  }
+}

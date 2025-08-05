@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of distinct geometric parcels with uniform internal textures, which are classic indicators of actively cultivated agricultural fields in a patchwork landscape.'}}

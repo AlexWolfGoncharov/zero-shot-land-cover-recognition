@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Circular irrigation patterns typical of center-pivot agriculture. Uniform dark green suggests actively growing crops."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns and varying shades of green indicate different crop types or growth stages in agricultural land."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color suggests exposed soil. Could be fallow fields or recently harvested cropland, but lack of vegetation indicates bare ground."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Mix of irrigation patterns and colors suggests diverse agricultural practices. Some fields may be at different growth stages."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright reflectance and geometric shapes suggest man-made structures. Could be large agricultural buildings or processing facilities."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Location and appearance consistent with farm buildings, storage facilities, or rural residences within agricultural landscape."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Linear patterns suggest roads or transportation infrastructure connecting agricultural areas and built-up clusters."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular field patterns, varied colors (green, red) suggesting different crops or stages, and mosaic agricultural landscape are clearly visible."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Dense, granular texture of bright rooftops and linear road patterns along the water body are characteristic of human settlements."
+  },
+  "2": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark, homogeneous area with subtle surface texture, clearly representing an extensive open water body like a river or lake."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Narrow, linear features along the shoreline, appearing as light tan/brown strips, likely representing beaches, bare banks, or sparse vegetation."
+  }
+}

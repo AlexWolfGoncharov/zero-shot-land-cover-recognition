@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of organized rectangular patterns suggests agricultural activity."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense, irregular shapes and dark green color indicate a forested area."
+  },
+  "2": {
+    "category": "Shrubland",
+    "confidence": "Medium",
+    "reasoning": "The mix of open spaces and irregular shapes suggests shrubland rather than grassland."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The rough texture and lack of dense vegetation indicate a bare area."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized patterns and proximity to water suggest active agricultural use."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The smooth, reflective surface is characteristic of water bodies."
+  },
+  "6": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The open areas with some vegetation suggest grassland rather than denser shrubland."
+  },
+  "7": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "The dense, dark green texture is indicative of a forested area."
+  },
+  "8": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The organized patterns suggest agricultural use."
+  },
+  "9": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "The open spaces and lighter texture suggest grassland."
+  },
+  "10": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "The smooth, reflective surface is characteristic of water bodies."
+  }
+}

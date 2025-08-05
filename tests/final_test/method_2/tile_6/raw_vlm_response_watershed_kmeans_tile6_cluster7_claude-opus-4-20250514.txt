@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular pivot-irrigated agricultural fields with varying crop stages showing typical cropland patterns'}}

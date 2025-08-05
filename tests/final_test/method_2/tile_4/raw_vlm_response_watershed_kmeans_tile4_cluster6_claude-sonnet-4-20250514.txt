@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Regular geometric field boundaries, systematic agricultural organization, and crop-typical color variations within farming landscape matrix.'}}

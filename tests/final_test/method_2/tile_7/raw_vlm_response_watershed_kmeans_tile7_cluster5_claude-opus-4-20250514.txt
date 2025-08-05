@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense residential area with clearly visible houses, roads, and typical suburban layout pattern'}}

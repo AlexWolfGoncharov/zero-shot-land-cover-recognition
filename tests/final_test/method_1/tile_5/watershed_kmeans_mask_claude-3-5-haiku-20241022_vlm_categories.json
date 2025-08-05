@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular field patterns, uniform green tone indicating cultivated agricultural land"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Varied coloration suggests crops at different growth stages"
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular grid pattern, small uniform structures typical of urban development"
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone, sharp boundary, characteristic of coastal marine environment"
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Distinctive circular irrigation pattern, consistent with intensive agricultural cultivation"
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed color tones suggest grassland or transitional vegetation area"
+  }
+}

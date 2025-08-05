@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric field patterns, light coloration indicating exposed soil, clear agricultural context in a patchwork of fields."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Bright green rectangular parcels with uniform texture indicate actively growing crops in a managed agricultural landscape."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense heterogeneous pattern showing building structures and street grid, creating distinctive urban texture contrasting with surrounding fields."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green circular patches with dense vegetation appearance, distinct from rectangular agricultural fields, suggesting natural tree stands."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark blue-black curvilinear feature with consistent width and smooth appearance typical of a river or water channel."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field patterns with medium-green coloration indicating agricultural land in intermediate growth stage or different crop type."
+  }
+}

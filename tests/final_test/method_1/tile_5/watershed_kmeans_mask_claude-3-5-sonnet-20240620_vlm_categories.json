@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, dark area with smooth texture and clear land-water boundary characteristic of a lake or sea."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns, varying colors, and circular irrigation patterns typical of agricultural fields and crop cultivation."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright, geometric areas contrasting with surrounding vegetation, suggesting man-made structures. Some areas could be bare soil."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Dark green color and rough texture suggest trees. Some areas could be dense shrubland or mixed vegetation."
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Light color and smooth texture suggest exposed soil or areas with little vegetation. Could be fallow fields or naturally sparse areas."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "Low",
+    "reasoning": "Mixed appearance suggests transition zone between different land covers. Could also be mixed cropland or grassland."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric patterns and color variations consistent with different types of crops or agricultural practices within broader cropland category."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Small, scattered light-colored areas within croplands suggest rural settlements or individual buildings in agricultural areas."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "Low",
+    "reasoning": "Mixed green colors and less structured appearance suggest natural vegetation, possibly grassland. Could also be mixed cropland or shrubland."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Extremely bright appearance suggests exposed soil or sand. Could be areas of severe erosion or intentionally cleared land within agricultural zones."
+  },
+  "10": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Narrow, linear features likely represent roads or other transportation infrastructure, falling under the built-up category."
+  }
+}

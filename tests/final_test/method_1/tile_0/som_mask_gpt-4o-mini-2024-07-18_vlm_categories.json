@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "The presence of organized, rectangular fields strongly suggests agricultural activity."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "The density and texture suggest tree cover, but proximity to agricultural areas introduces uncertainty."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "The presence of exposed soil and sparse vegetation indicates a lack of dense plant cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The geometric shapes and absence of vegetation strongly indicate urban development."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "Medium",
+    "reasoning": "The darker patches suggest water presence, but the surrounding agriculture complicates the classification."
+  },
+  "5": {
+    "category": "Grassland",
+    "confidence": "High",
+    "reasoning": "The open, lighter texture and irregular shapes indicate a grass-dominated area."
+  }
+}

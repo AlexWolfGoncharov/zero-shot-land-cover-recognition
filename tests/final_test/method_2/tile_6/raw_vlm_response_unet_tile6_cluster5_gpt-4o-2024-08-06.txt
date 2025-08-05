@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': None, 'reasoning': 'Unable to analyze image directly; assuming the region is forested based on typical segmentation.'}, '1': {'category': 'Cropland', 'confidence': None, 'reasoning': 'Assuming the region corresponds to agricultural land based on common segmentation patterns.'}}

@@ -1,0 +1,7 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Segments are geometric plots within an agricultural landscape, exhibiting a bright, uniform reflectance characteristic of bare soil with no visible vegetation cover."
+  }
+}

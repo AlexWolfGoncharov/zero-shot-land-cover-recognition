@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Sandy color, patchy vegetation, and lack of organized plant cover indicate bare or sparsely vegetated land."
+  },
+  "1": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular, rectilinear shapes and dark coloration indicate built-up areas or infrastructure."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field patterns and coloration are characteristic of cropland."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "medium",
+    "reasoning": "High reflectance and geometric shapes suggest managed water bodies, possibly salt pans or reservoirs."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green fields with straight boundaries are typical of cropland."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dark, rough-textured patches suggest denser vegetation, likely tree cover."
+  },
+  "6": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Transitional zones with intermediate color and irregular texture suggest shrubland."
+  }
+}

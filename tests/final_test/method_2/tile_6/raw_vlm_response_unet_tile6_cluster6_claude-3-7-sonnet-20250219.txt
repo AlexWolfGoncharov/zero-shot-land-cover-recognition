@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'Regular geometric shapes with varying green/tan colors indicate agricultural fields at different growth stages. Circular irrigation patterns visible.'}}

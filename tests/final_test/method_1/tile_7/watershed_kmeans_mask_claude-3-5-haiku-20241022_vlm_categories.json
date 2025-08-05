@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Regular geometric patterns, high structural density characteristic of urban settlement"
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform rectangular field patterns, distinct color variations indicating different crop types"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Varied agricultural textures, clear cultivation patterns, multiple crop stages visible"
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Distinct dark linear shape, consistent water body characteristics"
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Uniform dark green color, dense continuous texture suggesting tree/forest cover"
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Mixed agricultural textures, less uniform field structures"
+  }
+}

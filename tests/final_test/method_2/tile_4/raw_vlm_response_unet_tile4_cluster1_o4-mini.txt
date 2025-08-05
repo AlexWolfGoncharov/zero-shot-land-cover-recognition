@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct uniform circular and rectangular fields typical of center‐pivot irrigated agricultural cropland.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Large, dark, homogeneous area with no vegetation or structures; typical of water bodies."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Rectangular, patchwork fields with varied tones are indicative of agricultural land use."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "High reflectance and regular grid pattern typical of urban or suburban development."
+  },
+  "3": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Irregular, fragmented patches at land-water interface suggest wetland vegetation."
+  }
+}

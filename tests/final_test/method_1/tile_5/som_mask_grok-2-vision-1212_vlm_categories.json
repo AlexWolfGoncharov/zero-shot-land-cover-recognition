@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Green hues suggest vegetation, mixed with brown indicates less dense cover."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular patterns are indicative of irrigation for crops."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Uniform green suggests cultivation, rectangular shapes indicate managed fields."
+  },
+  "3": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brown areas suggest sparse vegetation, less green indicates less cover."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Grid pattern and density typical of urban areas."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark color and proximity to land typical of water bodies."
+  }
+}

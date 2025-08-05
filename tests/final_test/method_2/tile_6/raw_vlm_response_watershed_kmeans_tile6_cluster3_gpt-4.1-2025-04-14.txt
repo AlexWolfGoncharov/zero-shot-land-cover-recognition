@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment covers geometric, homogeneous fields with center-pivot and linear shapes, typical of intensively managed cropland.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct circular shapes and varying colors are clear indicators of irrigated agricultural fields, representing different crops or growth stages."
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "The fragmented areas show dominant bare soil or sparse vegetation characteristics, distinct from cultivated fields or dense built-up areas."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric field shapes and uniform green cover are strong visual evidence of actively cultivated agricultural land."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "The visual pattern of clustered bright features and complex texture is characteristic of human settlements or built-up areas."
+  }
+}

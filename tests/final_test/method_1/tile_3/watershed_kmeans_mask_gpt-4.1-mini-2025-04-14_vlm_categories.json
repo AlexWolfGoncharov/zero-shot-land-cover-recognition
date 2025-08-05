@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy vegetation with visible soil indicates sparse vegetation rather than cropland or shrubland."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Dense, continuous green cover with rough texture strongly indicates tree cover."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular grid pattern and alternating vegetation indicate agricultural fields."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Dark, smooth texture and irregular shape typical of water bodies."
+  },
+  "4": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Dense green vegetation adjacent to water suggests herbaceous wetland."
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Moderate density and uniform texture suggest shrubland."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Bright, exposed soil and lack of vegetation indicate bare/sparse vegetation."
+  },
+  "7": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Clear urban grid and dense structures confirm built-up area."
+  },
+  "8": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Fine texture and less dense vegetation suggest grassland."
+  },
+  "9": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Linear, bare appearance suggests road or cleared strip."
+  },
+  "10": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense green near water suggests riparian tree cover."
+  }
+}

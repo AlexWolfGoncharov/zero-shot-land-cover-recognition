@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Rectangular geometric shapes with clear boundaries typical of agricultural management. Part of broader agricultural matrix."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Distinct rectangular field patterns with varying vegetation intensities and clear human management signature."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Intense green rectangular plots amid agricultural matrix. Uniform texture and color suggest single crop type."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Geometric field patterns with intermediate vegetation density. Less uniform but shows clear agricultural management."
+  },
+  "4": {
+    "category": "Tree cover",
+    "confidence": "High",
+    "reasoning": "Distinct circular patches of dark green vegetation. Dense, continuous canopy suggests trees rather than field crops."
+  },
+  "5": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Dark, smooth-textured curvilinear feature with typical water signature. Clear contrast with surrounding agricultural land."
+  },
+  "6": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense settlement pattern with distinctive urban texture. Visible road network and building structures."
+  }
+}

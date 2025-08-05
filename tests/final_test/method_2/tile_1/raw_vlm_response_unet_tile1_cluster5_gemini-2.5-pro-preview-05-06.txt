@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is a dark, linear feature with a smooth texture, consistent with the spectral signature and morphology of a man-made canal or river.'}}

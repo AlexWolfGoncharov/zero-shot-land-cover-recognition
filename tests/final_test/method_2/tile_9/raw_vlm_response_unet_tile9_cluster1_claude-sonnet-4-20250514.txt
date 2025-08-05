@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Mottled brown texture with patchy, sparse vegetation coverage indicating minimal plant growth in semi-arid terrain.'}}

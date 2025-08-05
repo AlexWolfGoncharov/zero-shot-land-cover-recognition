@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Geometric agricultural fields with uniform cultivation patterns and systematic field boundaries indicating managed cropland.'}}

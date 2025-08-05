@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "high",
+    "reasoning": "Pale, fragmented surface suggests minimal ground cover with exposed terrain"
+  },
+  "1": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Heterogeneous surface suggests limited vegetation with exposed ground elements"
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Precise geometric shapes and uniform green color indicate cultivated agricultural fields"
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "Solid, dark green coloration suggests continuous forest or woodland area"
+  },
+  "4": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Brown color and irregular texture suggest minimally vegetated or recently harvested agricultural land"
+  },
+  "5": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "Mixed texture with hints of vegetation suggests transitional shrubland ecosystem"
+  }
+}

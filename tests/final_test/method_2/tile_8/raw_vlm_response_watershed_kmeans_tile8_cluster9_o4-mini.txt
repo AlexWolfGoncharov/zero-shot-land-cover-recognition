@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular irrigation patterns and regular field geometry indicate intensively managed cropland.'}}

@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense, dark green texture and irregular shapes indicate a significant tree presence."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The uniform, rectangular patterns and lighter green color indicate agricultural land use."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "The mixed colors and irregular shapes suggest areas of sparse vegetation rather than dense cover."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The organized linear shapes and light color suggest urban development."
+  }
+}

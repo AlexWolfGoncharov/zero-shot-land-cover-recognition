@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'The highlighted segments have high albedo, sharp geometric shapes (rectangles), and are arranged in patterns characteristic of building roofs and artificial impervious surfaces.'}}

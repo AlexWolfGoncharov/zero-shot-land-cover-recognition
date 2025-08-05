@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Segment shows distinct circular and rectangular agricultural fields with varying vegetation stages, typical of irrigated cropland patterns.'}}

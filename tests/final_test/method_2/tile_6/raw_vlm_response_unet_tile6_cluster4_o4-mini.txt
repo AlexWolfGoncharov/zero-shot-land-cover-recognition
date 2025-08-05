@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'medium', 'reasoning': 'Located within pivot-irrigated fields showing crop textures typical of agricultural land'}}

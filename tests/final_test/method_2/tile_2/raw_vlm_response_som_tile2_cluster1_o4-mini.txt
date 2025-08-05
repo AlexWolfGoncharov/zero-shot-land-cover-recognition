@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular, uniform field patterns with varying tones indicate active agricultural cultivation.'}}

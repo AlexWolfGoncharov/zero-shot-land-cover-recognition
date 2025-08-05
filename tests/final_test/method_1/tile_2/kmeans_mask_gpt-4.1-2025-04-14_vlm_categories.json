@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Uniform dark tone and smooth texture are characteristic of deep water bodies."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular, geometric field patterns are typical of managed agricultural land."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Bright, irregular patches within cropland suggest settlements or infrastructure."
+  },
+  "3": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Linear dark features along field edges are consistent with shelterbelts or tree lines."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Large, bright, uniform area with grid-like structure typical of urban or suburban development."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Irregular, patchy, and less vegetated areas within cropland suggest bare or sparsely vegetated ground."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Transitional, fuzzy shoreline band suggests wetland vegetation at the water’s edge."
+  }
+}

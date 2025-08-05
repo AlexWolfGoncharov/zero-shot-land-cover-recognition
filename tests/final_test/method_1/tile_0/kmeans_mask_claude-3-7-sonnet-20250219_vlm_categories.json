@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Distinct clustered pattern with whitish patches indicating buildings and infrastructure at settlements and along transportation routes."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Geometric field patterns with varied green/beige coloration indicating different crop stages within organized agricultural landscape."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Mixed green tones without strict geometric patterns, appearing as vegetated areas lacking the density of forests."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Darker green areas suggesting specific crop types with some management evident but less geometric than other cropland."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Bright beige rectangular fields indicating harvested/fallow conditions with exposed soil within agricultural landscape."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Linear infrastructure features (roads) with consistent width connecting settlements across the agricultural landscape."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "Irregular elongated features following natural contours, suggesting drainage areas with wetland vegetation."
+  }
+}

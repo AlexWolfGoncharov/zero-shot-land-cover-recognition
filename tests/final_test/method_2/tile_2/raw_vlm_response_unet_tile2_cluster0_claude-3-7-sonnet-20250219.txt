@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark, uniform surface with characteristic water signature separating land masses, showing no vegetation or built structures.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Circular shape and uniform texture indicate center-pivot irrigated field, typical of cropland in agricultural regions.'}}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": "high",
+    "reasoning": "The dense green texture and irregular shapes indicate a forested area."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "The organized layout and color variation indicate active agricultural use."
+  },
+  "2": {
+    "category": "Bare/sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "The light color and lack of dense vegetation suggest sparse coverage."
+  },
+  "3": {
+    "category": "Shrubland",
+    "confidence": "medium",
+    "reasoning": "The mixed textures and irregular shapes indicate a shrub-dominated area."
+  },
+  "4": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "The smooth surface and color indicate a significant water presence."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "The grid pattern and varied textures indicate urban infrastructure."
+  },
+  "6": {
+    "category": "Herbaceous wetland",
+    "confidence": "medium",
+    "reasoning": "The darker patches and irregular shapes indicate wetland characteristics."
+  }
+}

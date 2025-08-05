@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Structured rectangular plots with varied tones indicative of managed agricultural fields.'}}

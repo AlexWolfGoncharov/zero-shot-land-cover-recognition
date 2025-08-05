@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric patterns, varied colors, and clear field boundaries typical of agricultural land use. Mix of circular and rectangular fields suggests different irrigation methods."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Perfect circular shapes indicative of center-pivot irrigation systems. Uniform color within each circle suggests single crop cultivation."
+  },
+  "2": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color and irregular shape suggest natural vegetation. Limited extent and proximity to cropland could indicate managed woodlots or riparian zones."
+  },
+  "3": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Reflective surface, smooth texture, and distinct color difference from surrounding land strongly indicate a water body, likely an irrigation reservoir or natural lake."
+  }
+}

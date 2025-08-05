@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Uniform dark blue-green coloration, smooth homogeneous texture, large continuous extent adjacent to coastal development.'}}

@@ -1,0 +1,57 @@
+{
+  "0": {
+    "category": "Tree cover",
+    "confidence": 0.85,
+    "reasoning": "High density of green pixels typical of forested areas."
+  },
+  "1": {
+    "category": "Shrubland",
+    "confidence": 0.75,
+    "reasoning": "Moderate gray value indicating dense shrub vegetation."
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": 0.8,
+    "reasoning": "Light gray values consistent with open grass areas."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": 0.78,
+    "reasoning": "Distinct gray levels matching cultivated fields."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": 0.9,
+    "reasoning": "Very dark gray indicating urban or built-up regions."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": 0.7,
+    "reasoning": "Light to medium gray values typical of exposed soil or sparse vegetation."
+  },
+  "6": {
+    "category": "Snow and ice",
+    "confidence": 0.88,
+    "reasoning": "Very bright gray values characteristic of snow or ice cover."
+  },
+  "7": {
+    "category": "Permanent water bodies",
+    "confidence": 0.92,
+    "reasoning": "Darkest gray values consistent with water surfaces."
+  },
+  "8": {
+    "category": "Herbaceous wetland",
+    "confidence": 0.65,
+    "reasoning": "Moderately bright gray indicating wetland vegetation."
+  },
+  "9": {
+    "category": "Mangroves",
+    "confidence": 0.6,
+    "reasoning": "Gray values suggest dense, coastal vegetation."
+  },
+  "10": {
+    "category": "Moss and lichen",
+    "confidence": 0.55,
+    "reasoning": "Light gray with specific texture patterns typical of moss and lichen."
+  }
+}

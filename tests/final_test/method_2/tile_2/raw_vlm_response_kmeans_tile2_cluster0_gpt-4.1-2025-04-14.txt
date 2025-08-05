@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Large, contiguous, dark, homogeneous area with no vegetation or built-up features; typical of open water.'}}

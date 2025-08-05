@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and uniform texture strongly indicate irrigated cropland."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Agricultural field shapes and mixed vegetation suggest cropland with some fallow or bare patches."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "medium",
+    "reasoning": "Field boundaries and patchiness suggest cropland, though some areas may be fallow or grassland."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Small, dense agricultural plots with clear boundaries indicate cropland."
+  },
+  "4": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Presence of roads, buildings, and infrastructure confirms built-up land cover."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Circular irrigation patterns and uniform dark green color indicate cropland rather than natural tree cover."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Patchy, rough texture with visible soil suggests sparse vegetation or fallow land."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes and varying shades of green strongly indicate cultivated fields in different growth stages or crop types."
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "Medium",
+    "reasoning": "Darker green color and irregular shapes suggest natural vegetation, likely trees. Scattered distribution indicates small forest patches or windbreaks."
+  },
+  "2": {
+    "category": "Built-up",
+    "confidence": "Medium",
+    "reasoning": "Bright reflectance and small size suggest man-made structures, possibly buildings or small settlements within the agricultural landscape."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Linear pattern and lighter color strongly suggest roads or other transportation infrastructure, which falls under the built-up category."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "Medium",
+    "reasoning": "Mixed green tones and semi-regular shapes suggest areas of natural or semi-natural vegetation, likely grassland or pasture between croplands."
+  },
+  "5": {
+    "category": "Tree cover",
+    "confidence": "Low",
+    "reasoning": "Small, dark spots could be individual trees or small groups of trees. Small size makes it difficult to determine with high confidence."
+  },
+  "6": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Reddish tint likely indicates bare soil or recently harvested fields. Geometric shapes and context within agricultural areas support this classification."
+  }
+}

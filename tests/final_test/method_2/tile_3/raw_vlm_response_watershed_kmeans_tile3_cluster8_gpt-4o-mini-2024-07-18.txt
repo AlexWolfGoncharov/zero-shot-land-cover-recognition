@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'High', 'reasoning': 'The rectangular shape and uniform texture indicate cultivated land, typical of agricultural practices.'}}

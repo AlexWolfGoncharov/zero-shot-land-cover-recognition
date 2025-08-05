@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment consists of multiple distinct circular fields with a pale, uniform texture, characteristic of center-pivot irrigation systems at or near harvest.'}}

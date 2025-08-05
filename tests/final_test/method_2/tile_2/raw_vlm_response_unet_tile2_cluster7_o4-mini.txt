@@ -1,0 +1,1 @@
+{'0': {'category': 'Built-up', 'confidence': 'high', 'reasoning': 'Dense rectilinear grid of bright impervious surfaces, roads and buildings along the shoreline indicate urban development.'}}

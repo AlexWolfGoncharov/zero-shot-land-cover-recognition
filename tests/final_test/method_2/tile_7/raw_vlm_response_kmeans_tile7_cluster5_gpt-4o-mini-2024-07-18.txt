@@ -1,0 +1,1 @@
+{'0': {'category': 'Tree cover', 'confidence': 'medium', 'reasoning': 'Uniform green texture suggests tree cover in an agricultural landscape.'}}

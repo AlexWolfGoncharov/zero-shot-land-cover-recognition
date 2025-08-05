@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'high', 'reasoning': 'Spotted, heterogeneous texture and light coloration indicate exposed soil or sand with minimal vegetation.'}}

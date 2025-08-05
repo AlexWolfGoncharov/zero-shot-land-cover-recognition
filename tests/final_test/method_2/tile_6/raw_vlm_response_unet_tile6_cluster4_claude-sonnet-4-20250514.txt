@@ -1,0 +1,1 @@
+{'0': {'category': 'Bare / sparse vegetation', 'confidence': 'medium', 'reasoning': 'Light-colored, uniform texture with minimal vegetation in agricultural context suggests exposed/sparse ground cover.'}}

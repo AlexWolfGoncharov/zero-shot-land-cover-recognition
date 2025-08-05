@@ -1,0 +1,1 @@
+{'0': {'category': 'Herbaceous wetland', 'confidence': 'high', 'reasoning': 'Complex network of water channels with herbaceous vegetation showing typical wetland morphology and hydrology patterns.'}}

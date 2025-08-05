@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Rectangular field pattern, uniform green/reddish hues typical of agricultural plots with different crop stages or types'}}

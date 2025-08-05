@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct circular fields with bright green vegetation showing clear management patterns and uniform growth characteristic of irrigated agriculture.'}}

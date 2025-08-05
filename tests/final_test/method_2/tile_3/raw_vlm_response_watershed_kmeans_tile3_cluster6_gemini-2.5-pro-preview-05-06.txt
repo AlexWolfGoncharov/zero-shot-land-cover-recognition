@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'The segment displays a highly regular, geometric grid pattern of individual fields, a clear and unambiguous indicator of an organized agricultural system.'}}

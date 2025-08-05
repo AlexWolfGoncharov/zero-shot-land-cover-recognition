@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform geometric shapes, multiple green tones typical of cultivated agricultural landscapes with irrigation systems"
+  },
+  "1": {
+    "category": "Tree cover",
+    "confidence": "medium",
+    "reasoning": "Dense, non-uniform green coverage suggests forested or woodland areas with varied canopy"
+  },
+  "2": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Patchy green-brown coloration indicates grassland or transitional vegetation zone"
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Compact, angular white/light regions consistent with urban infrastructure and settlements"
+  }
+}

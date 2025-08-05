@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'Dark blue/black water with smooth texture and well-defined natural boundaries indicating permanent water body.'}}

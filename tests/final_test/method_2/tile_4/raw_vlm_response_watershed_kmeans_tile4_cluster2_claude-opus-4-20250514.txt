@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinctive circular center-pivot irrigation fields with varying crop growth stages showing agricultural cultivation patterns.'}}

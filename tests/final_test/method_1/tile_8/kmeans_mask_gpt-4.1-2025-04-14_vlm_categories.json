@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Regular field shapes and irrigation circles are classic signs of cropland."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Deep, uniform darkness and smooth texture indicate a water body, likely a reservoir or lake."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Light color and low vegetation suggest fallow or recently harvested fields, or bare ground."
+  },
+  "3": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Dense, uniform green within geometric fields is characteristic of actively cultivated cropland."
+  },
+  "4": {
+    "category": "Grassland",
+    "confidence": "medium",
+    "reasoning": "Irregular shapes and mixed tones suggest unmanaged or semi-natural grassland."
+  },
+  "5": {
+    "category": "Built-up",
+    "confidence": "medium",
+    "reasoning": "Small, light patches at field edges are likely buildings or farm infrastructure."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Dark, rough, irregular patches suggest exposed soil or sparse vegetation."
+  }
+}

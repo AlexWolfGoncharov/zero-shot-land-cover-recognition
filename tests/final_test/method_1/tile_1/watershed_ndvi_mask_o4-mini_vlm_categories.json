@@ -1,0 +1,22 @@
+{
+  "0": {
+    "category": "Permanent water bodies",
+    "confidence": "high",
+    "reasoning": "Linear dark, uniform-width canal consistent with water channel."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "high",
+    "reasoning": "Uniform green rectangular fields with irrigation shows agricultural cropland."
+  },
+  "2": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "medium",
+    "reasoning": "Tan-light brown ploughed patches lacking vegetation suggest bare fields."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "high",
+    "reasoning": "Dense small blocks, roads and grey-white roofs indicate urban built-up area."
+  }
+}

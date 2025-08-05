@@ -1,0 +1,32 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular geometric shapes with distinct field boundaries indicate managed agricultural land in a non-vegetated phase."
+  },
+  "1": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Geometric pattern, bright uniform green color, and clear field boundaries indicate actively growing cultivated crops."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Regular field patterns with moderate green vegetation indicate managed agricultural land with crops at different growth stages."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Bright white/gray patches with heterogeneous texture and geometric patterns indicate human settlements within agricultural matrix."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Dark green color in geometric field patterns indicates mature crops at peak growth stage."
+  },
+  "5": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Light green/yellow coloration in defined field boundaries suggests crops at ripening or early senescence stage."
+  }
+}

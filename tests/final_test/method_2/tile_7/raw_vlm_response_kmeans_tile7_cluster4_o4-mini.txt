@@ -1,0 +1,1 @@
+{'0': {'category': 'Cropland', 'confidence': 'high', 'reasoning': 'Distinct radial center‐pivot irrigation pattern and uniform field parcels indicative of cropland.'}}

@@ -1,0 +1,1 @@
+{'0': {'category': 'Permanent water bodies', 'confidence': 'high', 'reasoning': 'The segment is uniformly black with a smooth texture, a classic spectral signature for a large water body that absorbs near-infrared light.'}}

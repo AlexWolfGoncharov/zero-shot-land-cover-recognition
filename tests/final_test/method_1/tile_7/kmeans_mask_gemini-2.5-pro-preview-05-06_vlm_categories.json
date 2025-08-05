@@ -1,0 +1,37 @@
+{
+  "0": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Dominant rectangular shapes with dark tones (green/brown) typical of agricultural plots, indicating active cultivation, specific crop stages, or wet soil conditions."
+  },
+  "1": {
+    "category": "Permanent water bodies",
+    "confidence": "High",
+    "reasoning": "Large, linear, dark, and smooth feature clearly identifiable as a major canal or river, characteristic of a permanent water body."
+  },
+  "2": {
+    "category": "Cropland",
+    "confidence": "High",
+    "reasoning": "Predominantly rectangular plots with varied green and brown hues, indicative of different crops or stages of cultivation within an agricultural system."
+  },
+  "3": {
+    "category": "Built-up",
+    "confidence": "High",
+    "reasoning": "Dense, granular texture with radial street patterns and closely packed structures within the large circular area, characteristic of a human settlement."
+  },
+  "4": {
+    "category": "Cropland",
+    "confidence": "Medium",
+    "reasoning": "Rectangular plots with light green or beige/light brown colors, suggesting active agriculture, possibly young crops, harvested fields, or sparsely vegetated land."
+  },
+  "5": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "Medium",
+    "reasoning": "Bright, light-toned rectangular plots, suggesting exposed soil or very sparse vegetation, typical of fallow agricultural land or dry conditions."
+  },
+  "6": {
+    "category": "Bare / sparse vegetation",
+    "confidence": "High",
+    "reasoning": "Very bright, almost white patches with smooth texture, characteristic of exposed bare soil or extremely sparse vegetation in agricultural fields."
+  }
+}
